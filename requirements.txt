@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+# If using FPDF for the older diet planner, include:
+# fpdf

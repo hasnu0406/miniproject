@@ -1,0 +1,1800 @@
+Dish Name,Region,Meal Type,Calories (kcal),Protein (g),Carbs (g),Fat (g),Food Type
+Uttarakhand Style Fish Fry With Bread Special,Uttarakhand,Breakfast,330,29.4,37.3,7.8,Non-Veg
+Keerai Keema Paratha,Rajasthan,Breakfast,583,31.6,66.3,14.6,Non-Veg
+Xaak Keema Paratha Special,Assam,Breakfast,390,39.7,61.4,11.8,Non-Veg
+Lauki Egg Bhurji Paratha,Uttar Pradesh,Breakfast,547,23.4,65.8,17.4,Non-Veg
+Egg Bhurji Paratha Classic With Chutney,Kerala,Breakfast,532,29.6,77.3,14.0,Non-Veg
+Andhra Pradesh Style Keema Paratha Lite,Andhra Pradesh,Breakfast,525,44.0,76.0,13.2,Non-Veg
+Eggy Poha Lite With Papad,Madhya Pradesh,Breakfast,411,43.1,59.7,15.8,Non-Veg
+Mooli Egg Dosa,Punjab,Breakfast,595,43.9,94.0,15.3,Non-Veg
+Odisha Style Anda Uttapam Traditional,Odisha,Breakfast,599,21.9,76.5,18.8,Non-Veg
+Anda Uttapam Traditional With Steamed Rice,Telangana,Breakfast,425,39.7,66.0,13.3,Non-Veg
+Kela Chicken Kheema Sandwich,Uttar Pradesh,Breakfast,550,38.1,74.6,19.0,Non-Veg
+Anda Uttapam Delight With Salad,Assam,Breakfast,310,34.3,38.9,8.2,Non-Veg
+Fish Fry With Bread And Chapati,Meghalaya,Breakfast,359,24.5,48.4,12.9,Non-Veg
+Chicken Kheema Sandwich And Curd,Delhi,Breakfast,389,31.0,46.9,10.8,Non-Veg
+Chicken Kheema Sandwich And Papad,Manipur,Breakfast,357,25.4,52.8,12.8,Non-Veg
+Soppu Chicken Kheema Sandwich Special,Telangana,Breakfast,376,20.7,55.0,14.4,Non-Veg
+Bimmas Fish Fry With Bread,Telangana,Breakfast,327,33.7,39.6,12.1,Non-Veg
+Makki Fish Fry With Bread Special,Punjab,Breakfast,538,33.0,74.1,17.1,Non-Veg
+Eggy Poha Classic With Steamed Rice,West Bengal,Breakfast,482,24.6,69.6,13.9,Non-Veg
+Kerala Style Fish Fry With Bread Traditional,Kerala,Breakfast,454,25.9,59.9,10.7,Non-Veg
+Bore Fish Fry With Bread Special,Chhattisgarh,Breakfast,334,28.7,52.1,12.7,Non-Veg
+Chaat Eggy Poha Special,Delhi,Breakfast,595,24.2,94.5,22.6,Non-Veg
+Nagaland Style Egg Bhurji Paratha Delight,Nagaland,Breakfast,544,26.9,84.8,16.7,Non-Veg
+Chicken Kheema Sandwich Homestyle With Rasam,Kerala,Breakfast,540,22.1,79.3,16.5,Non-Veg
+Egg Dosa Lite With Sambar,Jharkhand,Breakfast,377,38.3,44.6,9.4,Non-Veg
+Eggy Poha And Papad,Delhi,Breakfast,371,21.3,53.0,12.9,Non-Veg
+Karnataka Style Egg Dosa Special,Karnataka,Breakfast,366,42.8,41.9,11.9,Non-Veg
+Keema Paratha Lite With Steamed Rice,Kerala,Breakfast,570,39.0,90.7,14.5,Non-Veg
+Eggy Poha Classic With Salad,Jharkhand,Breakfast,398,30.8,51.5,12.4,Non-Veg
+Anda Uttapam And Roti,Manipur,Breakfast,353,23.7,53.6,8.9,Non-Veg
+Karnataka Style Egg Bhurji Paratha Homestyle,Karnataka,Breakfast,568,23.5,73.5,12.7,Non-Veg
+Egg Bhurji Paratha Traditional With Rasam,Manipur,Breakfast,492,23.2,76.0,15.8,Non-Veg
+Bora Fish Fry With Bread,Tripura,Breakfast,333,40.3,49.7,7.4,Non-Veg
+Khatta Anda Uttapam Special,Himachal Pradesh,Breakfast,598,32.4,67.8,14.3,Non-Veg
+Egg Dosa Homestyle With Raita,Madhya Pradesh,Breakfast,483,33.7,67.4,13.9,Non-Veg
+Anda Uttapam Special With Salad,Mizoram,Breakfast,379,20.6,61.4,14.3,Non-Veg
+Kadala Egg Dosa,Odisha,Breakfast,418,33.9,52.8,10.4,Non-Veg
+Egg Dosa And Poriyal,Jharkhand,Breakfast,311,30.3,37.0,11.4,Non-Veg
+Goa Style Eggy Poha Traditional,Goa,Breakfast,381,40.7,55.9,12.5,Non-Veg
+Soppu Eggy Poha,Rajasthan,Breakfast,363,20.4,47.4,13.5,Non-Veg
+Chicken Kheema Sandwich And Poriyal,Assam,Breakfast,333,29.3,47.3,11.7,Non-Veg
+Panta Egg Bhurji Paratha,West Bengal,Breakfast,428,32.0,50.4,15.5,Non-Veg
+Keema Paratha And Chutney,Punjab,Breakfast,584,21.5,69.2,20.6,Non-Veg
+Egg Dosa Lite With Roti,Andhra Pradesh,Breakfast,511,33.8,60.1,14.8,Non-Veg
+Egg Dosa And Poriyal,Mizoram,Breakfast,321,33.6,44.4,11.5,Non-Veg
+Egg Bhurji Paratha And Curd,Manipur,Breakfast,315,41.7,37.1,8.8,Non-Veg
+Kerala Style Keema Paratha Special,Kerala,Breakfast,509,31.3,63.5,15.2,Non-Veg
+Rajasthan Style Egg Bhurji Paratha Traditional,Rajasthan,Breakfast,571,43.8,78.3,14.6,Non-Veg
+Bihar Style Anda Uttapam Special,Bihar,Breakfast,589,30.9,76.5,21.5,Non-Veg
+Egg Bhurji Paratha And Chapati,Manipur,Breakfast,429,32.4,52.7,13.5,Non-Veg
+Anda Uttapam Delight With Poriyal,Uttar Pradesh,Breakfast,525,43.0,81.1,19.5,Non-Veg
+Fish Fry With Bread Classic With Pickle,Odisha,Breakfast,332,33.1,51.1,11.2,Non-Veg
+Assam Style Egg Dosa Homestyle,Assam,Breakfast,512,30.6,65.6,14.2,Non-Veg
+Chhattisgarh Style Egg Dosa Homestyle,Chhattisgarh,Breakfast,548,36.7,65.1,14.5,Non-Veg
+Vendakkai Eggy Poha,Tamil Nadu,Breakfast,582,21.7,86.3,20.3,Non-Veg
+Kulcha Eggy Poha,Delhi,Breakfast,427,36.7,63.1,11.7,Non-Veg
+Modak Egg Dosa,Maharashtra,Breakfast,319,40.2,40.6,11.5,Non-Veg
+Keema Paratha And Dal,Punjab,Breakfast,414,36.2,50.7,13.3,Non-Veg
+Egg Dosa And Rasam,Manipur,Breakfast,449,22.6,70.9,17.1,Non-Veg
+Anda Uttapam And Sambar,Telangana,Breakfast,545,34.3,68.1,19.7,Non-Veg
+Egg Bhurji Paratha And Raita,Mizoram,Breakfast,563,36.7,80.1,18.0,Non-Veg
+Bhature Egg Dosa Special,Himachal Pradesh,Breakfast,334,37.8,52.8,8.3,Non-Veg
+Fish Fry With Bread Homestyle With Raita,Odisha,Breakfast,326,32.9,50.0,10.2,Non-Veg
+Maharashtra Style Egg Dosa Delight,Maharashtra,Breakfast,314,35.8,45.7,8.3,Non-Veg
+Delhi Style Chicken Kheema Sandwich Lite,Delhi,Breakfast,592,32.8,81.5,23.0,Non-Veg
+Keema Paratha Homestyle With Chutney,Chhattisgarh,Breakfast,311,38.3,43.3,10.2,Non-Veg
+Bajre Eggy Poha Special,Haryana,Breakfast,504,42.4,64.4,12.4,Non-Veg
+Egg Dosa And Dal,Mizoram,Breakfast,419,34.3,56.4,12.9,Non-Veg
+Bafla Egg Dosa Special,Madhya Pradesh,Breakfast,432,33.5,57.6,11.9,Non-Veg
+Egg Dosa Classic With Poriyal,Manipur,Breakfast,343,27.5,45.5,12.0,Non-Veg
+Egg Dosa Lite With Papad,Manipur,Breakfast,438,39.8,62.4,12.8,Non-Veg
+Chicken Kheema Sandwich Homestyle With Chapati,Uttarakhand,Breakfast,596,43.6,87.0,21.7,Non-Veg
+Manipur Style Eggy Poha Classic,Manipur,Breakfast,481,25.7,56.9,17.9,Non-Veg
+Bengalgram Fish Fry With Bread Special,Karnataka,Breakfast,518,21.1,81.6,17.1,Non-Veg
+Modak Keema Paratha,Maharashtra,Breakfast,470,38.1,61.2,16.5,Non-Veg
+Chicken Kheema Sandwich And Salad,Madhya Pradesh,Breakfast,323,42.1,51.3,11.0,Non-Veg
+Bathua Fish Fry With Bread Special,Haryana,Breakfast,427,38.0,68.0,12.5,Non-Veg
+Bajra Keema Paratha Special,Punjab,Breakfast,527,20.3,74.1,12.6,Non-Veg
+Soppu Anda Uttapam,Telangana,Breakfast,508,26.9,71.0,11.3,Non-Veg
+Fish Fry With Bread Homestyle With Dal,Chhattisgarh,Breakfast,572,37.4,70.9,13.1,Non-Veg
+Chana Anda Uttapam,Odisha,Breakfast,569,31.1,80.4,16.7,Non-Veg
+Jharkhand Style Fish Fry With Bread Special,Jharkhand,Breakfast,409,45.0,48.3,15.2,Non-Veg
+Jitok Anda Uttapam,Nagaland,Breakfast,404,37.9,47.6,10.4,Non-Veg
+Nagaland Style Keema Paratha Delight,Nagaland,Breakfast,322,43.0,41.4,9.9,Non-Veg
+Bihar Style Egg Bhurji Paratha Traditional,Bihar,Breakfast,454,32.4,57.0,14.8,Non-Veg
+Odisha Style Egg Bhurji Paratha Traditional,Odisha,Breakfast,440,20.7,62.0,12.7,Non-Veg
+Keema Paratha And Roti,Karnataka,Breakfast,364,37.5,51.8,11.6,Non-Veg
+Jammu And Kashmir Style Eggy Poha Lite,Jammu and Kashmir,Breakfast,301,41.7,40.8,9.5,Non-Veg
+Andhra Pradesh Style Egg Bhurji Paratha Homestyle,Andhra Pradesh,Breakfast,564,41.2,66.4,14.7,Non-Veg
+Chicken Kheema Sandwich Homestyle With Steamed Rice,Uttar Pradesh,Breakfast,435,33.6,62.3,13.6,Non-Veg
+Pumaloi Anda Uttapam Special,Meghalaya,Breakfast,581,31.0,92.4,16.6,Non-Veg
+Haryana Style Eggy Poha Classic,Haryana,Breakfast,433,44.5,66.1,10.0,Non-Veg
+Chicken Kheema Sandwich Delight With Steamed Rice,Andhra Pradesh,Breakfast,329,41.1,49.9,12.8,Non-Veg
+Eggy Poha And Sambar,Rajasthan,Breakfast,358,21.8,41.7,12.0,Non-Veg
+Keera Anda Uttapam Special,Kerala,Breakfast,502,25.2,64.4,14.6,Non-Veg
+Eggy Poha Classic With Dal,Tripura,Breakfast,433,28.2,61.7,12.4,Non-Veg
+Tamil Nadu Style Egg Dosa Lite,Tamil Nadu,Breakfast,593,27.5,70.7,18.4,Non-Veg
+Egg Bhurji Paratha Homestyle With Salad,Chhattisgarh,Breakfast,492,37.1,62.1,18.3,Non-Veg
+Chole Chicken Kheema Sandwich Special,Delhi,Breakfast,510,21.3,77.5,13.6,Non-Veg
+Kothavarangai Fish Fry With Bread,Tamil Nadu,Breakfast,550,38.9,71.2,20.4,Non-Veg
+Bore Keema Paratha,Chhattisgarh,Breakfast,559,40.1,63.7,13.6,Non-Veg
+Parathas Fish Fry With Bread,Delhi,Breakfast,495,39.6,76.8,12.5,Non-Veg
+Pakhala Egg Bhurji Paratha,Odisha,Breakfast,471,35.1,61.2,17.7,Non-Veg
+Eggy Poha And Curd,Tamil Nadu,Breakfast,389,23.8,47.3,13.6,Non-Veg
+Keema Paratha And Salad,Madhya Pradesh,Breakfast,368,39.1,52.7,10.6,Non-Veg
+Egg Dosa Special With Chapati,Andhra Pradesh,Breakfast,347,29.3,55.9,10.6,Non-Veg
+Makki Chicken Kheema Sandwich Special,Punjab,Breakfast,574,20.4,78.2,17.7,Non-Veg
+Keema Paratha And Curd,Bihar,Breakfast,340,24.3,48.4,12.9,Non-Veg
+Madhya Pradesh Style Fish Fry With Bread Delight,Madhya Pradesh,Breakfast,509,39.8,79.0,16.7,Non-Veg
+Egg Dosa Special With Curd,Odisha,Breakfast,404,33.2,50.1,14.1,Non-Veg
+Egg Bhurji Paratha Lite With Pickle,Assam,Breakfast,497,41.7,69.1,14.9,Non-Veg
+Fish Fry With Bread Classic With Salad,West Bengal,Breakfast,389,27.7,46.2,12.3,Non-Veg
+Vawksa Anda Uttapam Special,Mizoram,Breakfast,437,21.2,63.9,12.8,Non-Veg
+Kheera Eggy Poha,Haryana,Breakfast,473,38.5,73.8,17.2,Non-Veg
+Egg Dosa Lite With Curd,Karnataka,Breakfast,529,27.1,73.7,18.5,Non-Veg
+Axone Keema Paratha Special,Nagaland,Breakfast,503,39.1,62.7,13.6,Non-Veg
+Eggy Poha Special With Curd,Sikkim,Breakfast,398,41.7,55.8,11.4,Non-Veg
+Maharashtra Style Fish Fry With Bread Lite,Maharashtra,Breakfast,306,36.4,35.4,11.1,Non-Veg
+Fish Fry With Bread And Sambar,Jharkhand,Breakfast,468,37.9,57.2,13.4,Non-Veg
+Khlem Anda Uttapam,Meghalaya,Breakfast,436,35.6,54.1,15.8,Non-Veg
+Uttarakhand Style Egg Bhurji Paratha Lite,Uttarakhand,Breakfast,353,32.9,52.3,10.2,Non-Veg
+Maskaa Chicken Kheema Sandwich,Assam,Breakfast,476,44.7,60.2,12.6,Non-Veg
+Singju Egg Bhurji Paratha,Manipur,Breakfast,572,25.3,79.7,16.2,Non-Veg
+Kosambari Keema Paratha Special,Karnataka,Breakfast,582,22.7,84.2,19.2,Non-Veg
+Madra Fish Fry With Bread,Himachal Pradesh,Breakfast,363,23.7,49.1,11.1,Non-Veg
+Kang Egg Bhurji Paratha Special,Manipur,Breakfast,590,34.5,95.5,18.3,Non-Veg
+Bai Anda Uttapam Special,Mizoram,Breakfast,546,34.5,65.1,16.5,Non-Veg
+Fish Fry With Bread And Salad,Punjab,Breakfast,419,20.9,49.0,14.4,Non-Veg
+Chicken Kheema Sandwich And Curd,Jharkhand,Breakfast,367,42.6,56.5,12.1,Non-Veg
+Keema Paratha Delight With Raita,Chhattisgarh,Breakfast,590,39.8,70.8,14.2,Non-Veg
+Phagshapa Eggy Poha Special,Sikkim,Breakfast,380,43.6,53.5,14.7,Non-Veg
+Koddel Fish Fry With Bread Special,Goa,Breakfast,585,43.1,70.7,14.2,Non-Veg
+Punjab Style Egg Dosa Delight,Punjab,Breakfast,301,20.4,44.3,8.6,Non-Veg
+Odisha Style Keema Paratha Classic,Odisha,Breakfast,585,43.0,85.6,20.0,Non-Veg
+Katancha Egg Dosa Special,Andhra Pradesh,Breakfast,490,29.6,57.4,11.4,Non-Veg
+Smoked Anda Uttapam Special,Nagaland,Breakfast,424,36.0,49.5,13.0,Non-Veg
+Fish Fry With Bread And Poriyal,Kerala,Breakfast,370,24.9,47.3,13.6,Non-Veg
+Chhattisgarh Style Egg Bhurji Paratha Delight,Chhattisgarh,Breakfast,308,31.4,46.2,11.5,Non-Veg
+Kothavarangai Egg Bhurji Paratha,Tamil Nadu,Breakfast,494,30.9,57.4,11.1,Non-Veg
+Egg Dosa And Steamed Rice,Tripura,Breakfast,516,26.7,60.0,19.2,Non-Veg
+Sattu Egg Bhurji Paratha,Bihar,Breakfast,415,44.7,46.7,12.3,Non-Veg
+Egg Dosa And Rasam,Uttar Pradesh,Breakfast,540,21.0,77.4,15.3,Non-Veg
+Fish Fry With Bread Classic With Poriyal,Jammu and Kashmir,Breakfast,403,27.4,48.2,12.5,Non-Veg
+Chila Chicken Kheema Sandwich Special,Chhattisgarh,Breakfast,535,39.6,74.3,16.7,Non-Veg
+Nadru Chicken Kheema Sandwich Special,Jammu and Kashmir,Breakfast,570,44.9,82.9,17.3,Non-Veg
+Dhuska Egg Dosa,Jharkhand,Breakfast,519,24.5,70.2,12.2,Non-Veg
+Madhya Pradesh Style Keema Paratha Delight,Madhya Pradesh,Breakfast,311,43.6,37.1,11.5,Non-Veg
+Egg Bhurji Paratha And Rasam,Mizoram,Breakfast,395,29.5,50.4,9.3,Non-Veg
+Parathas Egg Dosa Special,Delhi,Breakfast,536,29.0,74.0,20.6,Non-Veg
+Keema Paratha And Salad,Andhra Pradesh,Breakfast,346,36.8,41.3,9.4,Non-Veg
+Jharkhand Style Anda Uttapam Lite,Jharkhand,Breakfast,582,23.6,68.1,19.8,Non-Veg
+Anda Uttapam And Curd,Bihar,Breakfast,372,35.1,50.7,11.4,Non-Veg
+Karnataka Style Keema Paratha Lite,Karnataka,Breakfast,487,26.7,58.0,17.5,Non-Veg
+Cholar Eggy Poha,West Bengal,Breakfast,463,30.9,63.8,10.3,Non-Veg
+Anda Uttapam Special With Papad,Chhattisgarh,Breakfast,594,20.5,88.6,13.8,Non-Veg
+Ghugni Anda Uttapam,Bihar,Breakfast,535,24.3,82.3,14.4,Non-Veg
+Keema Paratha Classic With Curd,Delhi,Breakfast,467,42.2,73.2,12.6,Non-Veg
+Egg Dosa And Steamed Rice,Kerala,Breakfast,393,24.0,49.4,11.7,Non-Veg
+Anda Uttapam And Poriyal,Karnataka,Breakfast,491,20.2,56.9,17.3,Non-Veg
+Jammu And Kashmir Style Eggy Poha Classic,Jammu and Kashmir,Breakfast,490,44.4,70.1,17.8,Non-Veg
+Uttarakhand Style Fish Fry With Bread Delight,Uttarakhand,Breakfast,518,22.0,81.1,17.9,Non-Veg
+Fish Fry With Bread And Rasam,Rajasthan,Breakfast,402,21.1,54.5,14.4,Non-Veg
+Chhattisgarh Style Egg Bhurji Paratha Traditional,Chhattisgarh,Breakfast,344,41.9,48.6,9.4,Non-Veg
+Mosdeng Egg Bhurji Paratha,Tripura,Breakfast,372,39.9,51.6,10.8,Non-Veg
+Chicken Kheema Sandwich Delight With Pickle,Jammu and Kashmir,Breakfast,431,27.0,58.7,10.4,Non-Veg
+Punjab Style Eggy Poha Lite,Punjab,Breakfast,563,43.1,90.9,14.4,Non-Veg
+Bajre Fish Fry With Bread Special,Haryana,Breakfast,336,20.9,43.4,8.3,Non-Veg
+Anda Chicken Kheema Sandwich Special,Mizoram,Breakfast,393,21.7,61.7,10.1,Non-Veg
+Singodi Fish Fry With Bread,Uttarakhand,Breakfast,423,28.4,67.0,12.4,Non-Veg
+Keera Keema Paratha,Kerala,Breakfast,519,31.2,73.7,13.4,Non-Veg
+Bamboo Egg Bhurji Paratha,Tripura,Breakfast,580,27.6,70.4,20.6,Non-Veg
+Ghugni Fish Fry With Bread,Bihar,Breakfast,324,28.3,37.3,11.6,Non-Veg
+Himachal Pradesh Style Egg Bhurji Paratha Homestyle,Himachal Pradesh,Breakfast,471,28.8,61.6,13.6,Non-Veg
+Chicken Kheema Sandwich Special With Rasam,Gujarat,Breakfast,576,43.4,90.8,15.9,Non-Veg
+Chakko Keema Paratha,Kerala,Breakfast,352,42.2,41.4,8.3,Non-Veg
+Bendakaya Keema Paratha Special,Andhra Pradesh,Breakfast,309,23.6,47.2,10.5,Non-Veg
+Eggy Poha And Steamed Rice,Madhya Pradesh,Breakfast,390,24.2,44.3,13.3,Non-Veg
+Cholar Anda Uttapam,West Bengal,Breakfast,390,45.0,61.3,13.0,Non-Veg
+Himachal Pradesh Style Egg Dosa Traditional,Himachal Pradesh,Breakfast,409,41.6,65.0,15.3,Non-Veg
+Cholar Fish Fry With Bread Special,West Bengal,Breakfast,473,20.8,59.9,18.0,Non-Veg
+Egg Dosa And Curd,Assam,Breakfast,581,21.2,75.6,20.1,Non-Veg
+Manipur Style Egg Bhurji Paratha Special,Manipur,Breakfast,324,20.2,42.8,12.4,Non-Veg
+Dhuska Anda Uttapam,Jharkhand,Breakfast,596,23.0,75.3,14.5,Non-Veg
+Anda Uttapam And Dal,Kerala,Breakfast,445,21.6,62.1,14.5,Non-Veg
+Egg Dosa Classic With Rasam,Himachal Pradesh,Breakfast,389,44.0,50.7,13.6,Non-Veg
+Keerai Egg Bhurji Paratha Special,Rajasthan,Breakfast,485,29.7,55.4,14.1,Non-Veg
+Xaak Chicken Kheema Sandwich Special,Assam,Breakfast,503,34.3,80.3,18.8,Non-Veg
+Jammu And Kashmir Style Egg Dosa Lite,Jammu and Kashmir,Breakfast,524,31.9,60.1,17.7,Non-Veg
+Keerai Keema Paratha Special,Rajasthan,Breakfast,364,37.9,58.4,12.1,Non-Veg
+Bore Fish Fry With Bread,Chhattisgarh,Breakfast,491,41.5,55.7,14.1,Non-Veg
+Keema Paratha Special With Pickle,Madhya Pradesh,Breakfast,411,24.0,53.4,9.2,Non-Veg
+Anda Uttapam And Salad,Assam,Breakfast,500,24.6,58.9,15.6,Non-Veg
+Maharashtra Style Chicken Kheema Sandwich Classic,Maharashtra,Breakfast,376,25.5,46.5,10.4,Non-Veg
+Andhra Pradesh Style Egg Dosa Special,Andhra Pradesh,Breakfast,515,41.0,59.1,13.5,Non-Veg
+Shyaphale Fish Fry With Bread Special,Sikkim,Breakfast,429,26.1,51.5,16.0,Non-Veg
+Keema Paratha And Raita,Karnataka,Breakfast,303,27.0,44.4,11.6,Non-Veg
+Khatta Keema Paratha,Himachal Pradesh,Breakfast,530,28.1,74.6,13.4,Non-Veg
+Patal Chicken Kheema Sandwich Special,Maharashtra,Breakfast,502,21.2,80.4,13.2,Non-Veg
+Fish Fry With Bread Delight With Chapati,Manipur,Breakfast,534,29.3,74.0,12.6,Non-Veg
+Madhya Pradesh Style Keema Paratha Special,Madhya Pradesh,Breakfast,527,22.9,80.4,19.1,Non-Veg
+Soppu Eggy Poha Special,Rajasthan,Breakfast,520,37.5,62.9,17.2,Non-Veg
+Eggy Poha Classic With Pickle,Jharkhand,Breakfast,363,33.1,57.4,12.4,Non-Veg
+Eromba Egg Bhurji Paratha Special,Manipur,Breakfast,357,32.6,43.9,10.1,Non-Veg
+Jammu And Kashmir Style Chicken Kheema Sandwich Classic,Jammu and Kashmir,Breakfast,537,37.3,73.0,18.2,Non-Veg
+Mirapakaya Keema Paratha Special,Andhra Pradesh,Breakfast,325,38.8,49.1,12.2,Non-Veg
+Pitika Chicken Kheema Sandwich Special,Assam,Breakfast,492,35.2,59.2,18.4,Non-Veg
+Bora Anda Uttapam Special,Assam,Breakfast,327,36.4,53.1,8.0,Non-Veg
+Fish Fry With Bread And Sambar,Nagaland,Breakfast,390,33.8,55.9,12.2,Non-Veg
+Fish Fry With Bread Delight With Steamed Rice,Sikkim,Breakfast,330,26.3,41.7,10.0,Non-Veg
+Eggy Poha Classic With Chapati,Punjab,Breakfast,356,21.7,57.4,13.6,Non-Veg
+Chicken Kheema Sandwich Delight With Steamed Rice,Chhattisgarh,Breakfast,306,23.2,44.1,11.8,Non-Veg
+Eggy Poha Delight With Curd,Punjab,Breakfast,524,32.5,81.2,12.8,Non-Veg
+Egg Dosa Delight With Chapati,Uttarakhand,Breakfast,321,42.5,48.3,9.8,Non-Veg
+Odisha Style Egg Bhurji Paratha Homestyle,Odisha,Breakfast,400,20.1,64.7,9.3,Non-Veg
+Mosdeng Fish Fry With Bread Special,Tripura,Breakfast,535,28.9,84.3,12.7,Non-Veg
+Anda Uttapam Special With Steamed Rice,Jammu and Kashmir,Breakfast,382,44.8,44.7,12.8,Non-Veg
+Punjab Style Eggy Poha Homestyle,Punjab,Breakfast,320,41.5,38.5,11.1,Non-Veg
+Goa Style Anda Uttapam Delight,Goa,Breakfast,577,40.5,66.8,16.5,Non-Veg
+Batata Anda Uttapam Special,Maharashtra,Breakfast,360,30.5,40.8,8.3,Non-Veg
+Ghugni Chicken Kheema Sandwich,Bihar,Breakfast,320,29.6,47.2,12.1,Non-Veg
+Bengalgram Chicken Kheema Sandwich Special,Karnataka,Breakfast,330,27.6,41.9,11.5,Non-Veg
+Punjab Style Egg Bhurji Paratha Homestyle,Punjab,Breakfast,400,37.1,57.1,10.1,Non-Veg
+Chicken Kheema Sandwich And Sambar,Rajasthan,Breakfast,492,24.2,60.0,17.9,Non-Veg
+Anda Uttapam And Chutney,Bihar,Breakfast,375,26.4,56.9,12.5,Non-Veg
+Khatta Fish Fry With Bread,Himachal Pradesh,Breakfast,436,36.8,51.3,13.4,Non-Veg
+Goa Style Eggy Poha Homestyle,Goa,Breakfast,350,38.5,55.7,8.6,Non-Veg
+Vellarikka Eggy Poha,Rajasthan,Breakfast,592,37.1,74.4,15.1,Non-Veg
+Fish Fry With Bread Traditional With Chapati,Uttar Pradesh,Breakfast,535,44.4,65.2,15.1,Non-Veg
+Kosha Egg Bhurji Paratha Special,Kerala,Breakfast,433,43.7,69.3,9.9,Non-Veg
+Tripura Style Anda Uttapam Traditional,Tripura,Breakfast,570,32.5,64.9,22.0,Non-Veg
+Egg Bhurji Paratha And Chapati,Punjab,Breakfast,437,32.5,66.6,12.6,Non-Veg
+Bora Eggy Poha,Tripura,Breakfast,422,30.9,59.4,16.3,Non-Veg
+Keema Paratha And Roti,Punjab,Breakfast,495,44.1,57.3,12.7,Non-Veg
+Punjab Style Anda Uttapam Traditional,Punjab,Breakfast,489,20.6,72.1,10.9,Non-Veg
+Kela Fish Fry With Bread Special,Uttar Pradesh,Breakfast,474,24.6,62.8,11.7,Non-Veg
+Pumaloi Egg Bhurji Paratha Special,Meghalaya,Breakfast,528,24.5,81.9,13.8,Non-Veg
+Bafla Fish Fry With Bread,Madhya Pradesh,Breakfast,360,26.6,47.4,13.6,Non-Veg
+Chaulai Egg Dosa,Haryana,Breakfast,426,39.8,51.3,12.4,Non-Veg
+Gongura Egg Bhurji Paratha,Andhra Pradesh,Breakfast,328,31.3,43.7,10.9,Non-Veg
+Madhya Pradesh Style Anda Uttapam Classic,Madhya Pradesh,Breakfast,362,32.4,50.3,10.2,Non-Veg
+Maharashtra Style Anda Uttapam Lite,Maharashtra,Breakfast,581,31.2,92.0,18.3,Non-Veg
+Anda Uttapam Traditional With Steamed Rice,Uttar Pradesh,Breakfast,390,30.8,61.5,13.9,Non-Veg
+Egg Bhurji Paratha And Chutney,Punjab,Breakfast,399,36.1,48.2,13.2,Non-Veg
+Punjab Style Eggy Poha Traditional,Punjab,Breakfast,375,25.6,50.5,11.2,Non-Veg
+Keema Paratha And Poriyal,Chhattisgarh,Breakfast,399,31.7,47.1,14.9,Non-Veg
+Sikkim Style Fish Fry With Bread Homestyle,Sikkim,Breakfast,574,21.6,91.2,16.3,Non-Veg
+Sikkim Style Chicken Kheema Sandwich Delight,Sikkim,Breakfast,547,41.4,66.4,13.3,Non-Veg
+Bathua Anda Uttapam,Haryana,Breakfast,361,30.6,51.5,9.4,Non-Veg
+Chhattisgarh Style Eggy Poha Homestyle,Chhattisgarh,Breakfast,570,40.2,83.9,17.4,Non-Veg
+Egg Dosa Homestyle With Raita,Maharashtra,Breakfast,477,28.8,57.3,16.8,Non-Veg
+Maharashtra Style Eggy Poha Delight,Maharashtra,Breakfast,594,38.2,92.2,21.0,Non-Veg
+Ghugni Anda Uttapam,West Bengal,Breakfast,409,42.7,49.0,10.1,Non-Veg
+Fish Fry With Bread And Chapati,Tripura,Breakfast,397,42.3,56.6,10.0,Non-Veg
+Egg Bhurji Paratha And Roti,Haryana,Breakfast,415,23.2,55.5,9.8,Non-Veg
+Egg Dosa And Chutney,West Bengal,Breakfast,582,44.4,66.8,14.8,Non-Veg
+Jharkhand Style Keema Paratha Delight,Jharkhand,Breakfast,402,29.5,47.2,12.2,Non-Veg
+Telangana Style Keema Paratha Classic,Telangana,Breakfast,413,42.3,58.0,13.0,Non-Veg
+Maharashtra Style Eggy Poha Lite,Maharashtra,Breakfast,522,43.1,78.6,16.2,Non-Veg
+Fish Fry With Bread And Raita,Punjab,Breakfast,526,38.8,62.6,13.5,Non-Veg
+Eggy Poha Lite With Curd,Gujarat,Breakfast,560,20.4,66.0,18.1,Non-Veg
+Chhole Anda Uttapam,Punjab,Breakfast,589,23.9,90.3,22.8,Non-Veg
+Fish Fry With Bread Traditional With Chapati,Sikkim,Breakfast,507,21.4,61.7,18.8,Non-Veg
+Baingan Anda Uttapam,Uttar Pradesh,Breakfast,545,41.6,68.0,19.9,Non-Veg
+Andhra Pradesh Style Chicken Kheema Sandwich Lite,Andhra Pradesh,Breakfast,551,26.9,84.8,12.3,Non-Veg
+Egg Bhurji Paratha Special With Salad,Manipur,Breakfast,587,28.1,66.4,19.5,Non-Veg
+Fish Fry With Bread And Poriyal,Rajasthan,Breakfast,329,32.7,41.7,9.5,Non-Veg
+Fish Fry With Bread And Poriyal,Chhattisgarh,Breakfast,460,38.3,69.9,10.6,Non-Veg
+Baingan Egg Bhurji Paratha Special,Uttar Pradesh,Breakfast,334,29.2,44.7,11.4,Non-Veg
+Avarekai Egg Dosa Special,Karnataka,Breakfast,439,20.4,69.9,10.4,Non-Veg
+Zu Keema Paratha Special,Nagaland,Breakfast,530,33.7,69.1,13.4,Non-Veg
+Assam Style Fish Fry With Bread Traditional,Assam,Breakfast,386,30.9,46.5,8.7,Non-Veg
+Fish Fry With Bread And Curd,Jharkhand,Breakfast,345,23.7,40.1,8.8,Non-Veg
+Keema Paratha Homestyle With Curd,Goa,Breakfast,551,42.3,68.4,19.6,Non-Veg
+Anda Uttapam Homestyle With Steamed Rice,Mizoram,Breakfast,314,31.5,40.6,10.0,Non-Veg
+Bhaji Chicken Kheema Sandwich Special,Goa,Breakfast,515,28.8,79.6,19.5,Non-Veg
+Gundruk Eggy Poha Special,Sikkim,Breakfast,346,35.7,45.5,9.5,Non-Veg
+Kothavarangai Chicken Kheema Sandwich Special,Tamil Nadu,Breakfast,363,23.6,43.7,11.6,Non-Veg
+West Bengal Style Fish Fry With Bread Homestyle,West Bengal,Breakfast,439,44.8,61.7,13.1,Non-Veg
+Egg Bhurji Paratha And Chapati,Himachal Pradesh,Breakfast,300,23.5,48.3,9.0,Non-Veg
+Bathua Egg Bhurji Paratha Special,Haryana,Breakfast,452,34.3,64.3,17.0,Non-Veg
+Egg Dosa And Poriyal,Uttarakhand,Breakfast,518,37.3,59.1,18.9,Non-Veg
+Egg Dosa And Pickle,Kerala,Breakfast,412,31.8,47.1,14.2,Non-Veg
+Chicken Kheema Sandwich And Curd,Punjab,Breakfast,525,22.0,82.2,16.6,Non-Veg
+Panta Anda Uttapam Special,West Bengal,Breakfast,405,21.2,53.1,12.1,Non-Veg
+Kothavarangai Anda Uttapam,Tamil Nadu,Breakfast,570,24.0,75.9,14.6,Non-Veg
+Haryana Style Anda Uttapam Traditional,Haryana,Breakfast,568,35.5,79.8,18.0,Non-Veg
+Chicken Kheema Sandwich And Salad,Uttar Pradesh,Breakfast,522,26.2,84.1,18.2,Non-Veg
+Egg Bhurji Paratha Traditional With Chapati,Delhi,Breakfast,337,39.8,43.1,8.2,Non-Veg
+Kouk Chicken Kheema Sandwich Special,Chhattisgarh,Breakfast,424,40.8,67.7,11.2,Non-Veg
+Kouk Keema Paratha,Chhattisgarh,Breakfast,509,26.6,70.6,17.0,Non-Veg
+Chak-Hao Eggy Poha Special,Manipur,Breakfast,324,34.8,44.6,7.9,Non-Veg
+Keema Paratha Classic With Steamed Rice,Nagaland,Breakfast,567,34.6,90.3,13.5,Non-Veg
+Kakka Keema Paratha,Kerala,Breakfast,398,27.2,58.9,11.6,Non-Veg
+Arbi Keema Paratha Special,Uttar Pradesh,Breakfast,319,26.1,36.6,8.6,Non-Veg
+Chana Fish Fry With Bread,Odisha,Breakfast,414,34.2,63.6,10.2,Non-Veg
+Axone Fish Fry With Bread,Nagaland,Breakfast,404,38.3,54.8,14.8,Non-Veg
+Kulcha Egg Bhurji Paratha Special,Delhi,Breakfast,469,34.6,67.5,17.0,Non-Veg
+Chicken Kheema Sandwich And Rasam,Tamil Nadu,Breakfast,411,43.6,51.6,11.6,Non-Veg
+Kheera Anda Uttapam,Haryana,Breakfast,413,22.1,51.1,12.9,Non-Veg
+Egg Dosa Delight With Curd,West Bengal,Breakfast,508,23.9,74.2,12.4,Non-Veg
+Anda Uttapam Traditional With Papad,Delhi,Breakfast,393,26.6,48.3,9.4,Non-Veg
+Anda Uttapam And Poriyal,Haryana,Breakfast,502,39.5,70.0,11.4,Non-Veg
+Modur Fish Fry With Bread,Jammu and Kashmir,Breakfast,495,38.8,79.4,12.3,Non-Veg
+Meghalaya Style Eggy Poha Traditional,Meghalaya,Breakfast,332,31.6,40.5,7.6,Non-Veg
+Ringna Fish Fry With Bread,Gujarat,Breakfast,574,39.8,88.5,21.8,Non-Veg
+Modak Anda Uttapam Special,Maharashtra,Breakfast,500,28.5,67.5,13.9,Non-Veg
+Fish Fry With Bread Delight With Raita,Delhi,Breakfast,566,44.9,81.3,14.8,Non-Veg
+Egg Dosa Classic With Poriyal,Telangana,Breakfast,355,25.4,55.5,9.2,Non-Veg
+Keerai Anda Uttapam,Rajasthan,Breakfast,334,38.4,39.6,12.4,Non-Veg
+Tungrymbai Keema Paratha,Meghalaya,Breakfast,372,39.4,53.2,10.4,Non-Veg
+Egg Bhurji Paratha Traditional With Curd,Punjab,Breakfast,489,25.3,56.9,18.2,Non-Veg
+Fish Fry With Bread Classic With Curd,Himachal Pradesh,Breakfast,451,31.5,72.1,16.0,Non-Veg
+Meghalaya Style Eggy Poha Lite,Meghalaya,Breakfast,383,43.9,55.8,9.4,Non-Veg
+Kerala Style Egg Bhurji Paratha Homestyle,Kerala,Breakfast,432,36.5,60.4,14.9,Non-Veg
+Fish Fry With Bread And Pickle,Andhra Pradesh,Breakfast,511,22.6,77.6,16.5,Non-Veg
+Chaat Anda Uttapam,Delhi,Breakfast,577,25.7,90.1,17.1,Non-Veg
+Eggy Poha And Pickle,Meghalaya,Breakfast,332,24.5,42.6,7.6,Non-Veg
+Chila Fish Fry With Bread,Chhattisgarh,Breakfast,444,37.8,70.3,15.2,Non-Veg
+Anda Uttapam And Steamed Rice,Telangana,Breakfast,531,34.3,84.7,18.8,Non-Veg
+Andhra Pradesh Style Anda Uttapam Special,Andhra Pradesh,Breakfast,571,31.4,78.9,14.9,Non-Veg
+Panta Eggy Poha Special,West Bengal,Breakfast,325,36.7,51.0,12.1,Non-Veg
+Madhya Pradesh Style Fish Fry With Bread Lite,Madhya Pradesh,Breakfast,318,39.9,50.6,10.2,Non-Veg
+Ghugni Egg Dosa Special,West Bengal,Breakfast,481,24.5,61.8,17.8,Non-Veg
+Egg Dosa And Curd,Mizoram,Breakfast,372,42.6,59.4,12.9,Non-Veg
+Keerai Anda Uttapam Special,Rajasthan,Breakfast,310,29.0,39.4,7.6,Non-Veg
+Anda Uttapam And Steamed Rice,Bihar,Breakfast,495,41.2,60.4,12.6,Non-Veg
+Zu Egg Dosa Special,Nagaland,Breakfast,450,27.6,70.4,16.3,Non-Veg
+Bathua Chicken Kheema Sandwich Special,Haryana,Breakfast,597,43.1,67.5,17.9,Non-Veg
+Meghalaya Style Anda Uttapam Lite,Meghalaya,Breakfast,493,39.1,72.3,11.5,Non-Veg
+Sawhchiar Fish Fry With Bread,Mizoram,Breakfast,529,32.4,76.0,19.7,Non-Veg
+Keema Paratha Lite With Rasam,Bihar,Breakfast,462,30.4,58.2,13.7,Non-Veg
+Pitika Keema Paratha,Assam,Breakfast,590,23.8,78.7,21.8,Non-Veg
+West Bengal Style Chicken Kheema Sandwich Classic,West Bengal,Breakfast,368,20.7,48.2,12.6,Non-Veg
+Bhaji Anda Uttapam Special,Maharashtra,Breakfast,465,43.1,74.5,16.3,Non-Veg
+Egg Dosa Traditional With Pickle,Gujarat,Breakfast,597,30.1,80.2,17.9,Non-Veg
+Fish Fry With Bread Classic With Curd,Nagaland,Breakfast,451,36.6,72.2,10.3,Non-Veg
+Baingan Egg Dosa,Bihar,Breakfast,313,36.2,43.8,7.5,Non-Veg
+Gujarat Style Eggy Poha Classic,Gujarat,Breakfast,320,21.1,45.2,11.7,Non-Veg
+Eggy Poha Special With Steamed Rice,Rajasthan,Breakfast,390,41.3,45.7,14.1,Non-Veg
+Dohneiiong Egg Dosa,Meghalaya,Breakfast,357,37.8,49.8,13.1,Non-Veg
+Kahwa Keema Paratha Special,Jammu and Kashmir,Breakfast,304,22.6,43.1,9.4,Non-Veg
+Sarson Chicken Kheema Sandwich Special,Punjab,Breakfast,456,38.8,70.4,15.3,Non-Veg
+Fish Fry With Bread And Rasam,Kerala,Breakfast,554,31.1,76.9,14.6,Non-Veg
+Tinda Chicken Kheema Sandwich,Uttar Pradesh,Breakfast,444,43.6,58.8,12.2,Non-Veg
+Bamboo Egg Dosa Special,Nagaland,Breakfast,411,27.4,49.9,13.3,Non-Veg
+Keema Paratha Delight With Chutney,Tripura,Breakfast,393,20.4,57.8,9.0,Non-Veg
+Modak Chicken Kheema Sandwich,Maharashtra,Breakfast,444,38.3,70.8,16.7,Non-Veg
+Chhattisgarh Style Fish Fry With Bread Classic,Chhattisgarh,Breakfast,528,23.8,79.5,16.9,Non-Veg
+Pittha Chicken Kheema Sandwich,Jharkhand,Breakfast,349,36.3,48.2,8.9,Non-Veg
+Nagaland Style Chicken Kheema Sandwich Homestyle,Nagaland,Breakfast,516,30.2,77.1,17.9,Non-Veg
+Tripura Style Egg Dosa Delight,Tripura,Breakfast,382,33.5,46.7,11.0,Non-Veg
+Delhi Style Egg Dosa Special,Delhi,Breakfast,467,40.2,58.8,17.3,Non-Veg
+Bhatt Anda Uttapam Special,Uttarakhand,Breakfast,382,43.1,59.1,12.4,Non-Veg
+Ootti Fish Fry With Bread Special,Manipur,Breakfast,530,30.0,78.1,13.2,Non-Veg
+Fish Fry With Bread And Raita,Madhya Pradesh,Breakfast,584,44.8,71.7,21.5,Non-Veg
+Keema Paratha Homestyle With Papad,Jharkhand,Breakfast,342,32.6,49.3,12.6,Non-Veg
+Fish Fry With Bread And Poriyal,Jammu and Kashmir,Breakfast,353,26.2,49.5,13.5,Non-Veg
+Andhra Pradesh Style Egg Dosa Lite,Andhra Pradesh,Breakfast,558,39.8,68.4,14.5,Non-Veg
+Nagaland Style Fish Fry With Bread Traditional,Nagaland,Breakfast,310,30.2,48.8,9.4,Non-Veg
+Andhra Pradesh Style Eggy Poha Lite,Andhra Pradesh,Breakfast,489,40.6,59.1,16.0,Non-Veg
+Siddu Chicken Kheema Sandwich Special,Himachal Pradesh,Breakfast,426,39.3,61.2,12.8,Non-Veg
+Madhya Pradesh Style Keema Paratha Lite,Madhya Pradesh,Breakfast,356,28.8,50.6,11.3,Non-Veg
+Eggy Poha Traditional With Chapati,Jammu and Kashmir,Breakfast,479,36.5,58.2,16.0,Non-Veg
+Fish Fry With Bread Traditional With Poriyal,Tripura,Breakfast,504,33.3,75.9,16.3,Non-Veg
+West Bengal Style Chicken Kheema Sandwich Homestyle,West Bengal,Breakfast,404,27.7,55.7,12.8,Non-Veg
+Vangi Egg Bhurji Paratha,Maharashtra,Breakfast,522,35.7,59.0,15.5,Non-Veg
+Chaulai Anda Uttapam Special,Haryana,Breakfast,437,35.7,52.3,14.2,Non-Veg
+Pakhala Chicken Kheema Sandwich,Odisha,Breakfast,593,35.5,81.1,18.7,Non-Veg
+Kahwa Fish Fry With Bread Special,Jammu and Kashmir,Breakfast,554,26.4,72.1,18.0,Non-Veg
+Egg Bhurji Paratha And Chutney,Chhattisgarh,Breakfast,399,40.1,60.9,14.5,Non-Veg
+Fara Chicken Kheema Sandwich Special,Chhattisgarh,Breakfast,599,33.3,75.3,16.5,Non-Veg
+Chicken Kheema Sandwich Homestyle With Roti,Meghalaya,Breakfast,305,28.2,36.9,11.0,Non-Veg
+Anda Uttapam And Papad,Kerala,Breakfast,503,30.0,70.5,18.7,Non-Veg
+Sundakkai Fish Fry With Bread Special,Tamil Nadu,Breakfast,429,29.0,50.5,11.1,Non-Veg
+Nadru Anda Uttapam Special,Jammu and Kashmir,Breakfast,434,40.8,65.0,10.4,Non-Veg
+Keema Paratha Homestyle With Curd,West Bengal,Breakfast,489,42.9,56.2,12.6,Non-Veg
+Egg Bhurji Paratha And Chutney,Manipur,Breakfast,482,36.1,54.6,18.5,Non-Veg
+Shorshe Keema Paratha,West Bengal,Breakfast,589,24.8,79.2,18.4,Non-Veg
+Egg Bhurji Paratha And Rasam,Delhi,Breakfast,557,39.0,88.1,20.8,Non-Veg
+Phagshapa Egg Dosa Special,Sikkim,Breakfast,317,20.8,45.7,8.1,Non-Veg
+West Bengal Style Eggy Poha Traditional,West Bengal,Breakfast,451,27.6,72.6,11.0,Non-Veg
+Egg Dosa And Salad,Jharkhand,Breakfast,475,43.9,66.7,17.9,Non-Veg
+Egg Bhurji Paratha Homestyle With Sambar,Punjab,Breakfast,372,39.7,44.2,10.3,Non-Veg
+Panta Chicken Kheema Sandwich Special,West Bengal,Breakfast,461,43.3,69.6,11.7,Non-Veg
+Delhi Style Anda Uttapam Traditional,Delhi,Breakfast,420,25.4,60.6,14.0,Non-Veg
+Madhya Pradesh Style Fish Fry With Bread Traditional,Madhya Pradesh,Breakfast,545,42.5,69.6,14.7,Non-Veg
+Khlem Egg Bhurji Paratha,Meghalaya,Breakfast,523,28.2,61.4,18.8,Non-Veg
+Chicken Kheema Sandwich Homestyle With Sambar,Rajasthan,Breakfast,341,44.2,43.3,11.7,Non-Veg
+Egg Dosa Special With Sambar,Gujarat,Breakfast,427,29.9,62.1,16.2,Non-Veg
+Himachal Pradesh Style Fish Fry With Bread Lite,Himachal Pradesh,Breakfast,373,35.8,50.6,9.3,Non-Veg
+Chhinam Egg Bhurji Paratha Special,Mizoram,Breakfast,477,33.9,70.7,13.2,Non-Veg
+Egg Dosa And Dal,Uttar Pradesh,Breakfast,550,29.2,64.2,12.8,Non-Veg
+Baingan Egg Dosa Special,Uttar Pradesh,Breakfast,347,26.5,46.9,9.3,Non-Veg
+Vellarikka Fish Fry With Bread,Rajasthan,Breakfast,372,27.4,58.1,12.8,Non-Veg
+Chaat Eggy Poha,Delhi,Breakfast,360,28.9,45.9,12.8,Non-Veg
+Keema Paratha Classic With Salad,Chhattisgarh,Breakfast,404,20.9,50.1,12.4,Non-Veg
+Anda Uttapam Delight With Dal,Tamil Nadu,Breakfast,515,22.1,78.2,17.4,Non-Veg
+Vellarikka Fish Fry With Bread Special,Rajasthan,Breakfast,319,32.8,44.0,11.8,Non-Veg
+Meghalaya Style Chicken Kheema Sandwich Delight,Meghalaya,Breakfast,545,33.6,66.7,14.7,Non-Veg
+Keema Paratha Special With Steamed Rice,Jammu and Kashmir,Breakfast,460,24.5,62.0,12.6,Non-Veg
+Fish Fry With Bread Delight With Chapati,Uttar Pradesh,Breakfast,547,40.3,83.0,12.6,Non-Veg
+Goa Style Chicken Kheema Sandwich Lite,Goa,Breakfast,544,24.7,68.8,15.5,Non-Veg
+Eggy Poha And Chapati,Karnataka,Breakfast,383,34.8,50.7,14.5,Non-Veg
+Anda Uttapam Classic With Curd,Haryana,Breakfast,594,26.4,78.0,21.1,Non-Veg
+Punjab Style Egg Bhurji Paratha Classic,Punjab,Breakfast,599,39.8,88.0,14.4,Non-Veg
+Tsaman Chicken Kheema Sandwich Special,Jammu and Kashmir,Breakfast,595,20.4,93.9,21.5,Non-Veg
+Chak-Hao Eggy Poha,Manipur,Breakfast,343,33.5,45.6,10.6,Non-Veg
+Egg Bhurji Paratha Traditional With Poriyal,Uttarakhand,Breakfast,563,39.4,71.7,19.6,Non-Veg
+Singodi Fish Fry With Bread Special,Uttarakhand,Breakfast,524,24.3,82.8,14.9,Non-Veg
+Chhinam Keema Paratha,Mizoram,Breakfast,364,43.6,54.5,13.2,Non-Veg
+Anda Uttapam Lite With Papad,Kerala,Breakfast,598,31.6,83.4,19.9,Non-Veg
+Manipur Style Fish Fry With Bread Classic,Manipur,Breakfast,576,24.7,82.3,21.1,Non-Veg
+Egg Dosa And Pickle,Uttarakhand,Breakfast,570,27.5,91.6,21.5,Non-Veg
+Jadoh Egg Dosa,Meghalaya,Breakfast,381,33.1,50.3,11.8,Non-Veg
+Anda Uttapam Classic With Raita,Karnataka,Breakfast,557,28.5,74.8,17.4,Non-Veg
+Sawhchiar Egg Dosa Special,Mizoram,Breakfast,575,22.0,91.9,16.0,Non-Veg
+Tamil Nadu Style Fish Fry With Bread Lite,Tamil Nadu,Breakfast,593,35.8,71.7,14.2,Non-Veg
+Madhya Pradesh Style Chicken Kheema Sandwich Delight,Madhya Pradesh,Breakfast,586,41.5,93.0,18.7,Non-Veg
+Soppu Fish Fry With Bread,Rajasthan,Breakfast,460,38.6,64.1,10.4,Non-Veg
+Soppu Fish Fry With Bread Special,Rajasthan,Breakfast,572,23.1,80.8,17.2,Non-Veg
+Gongura Eggy Poha,Telangana,Breakfast,518,21.1,59.8,16.1,Non-Veg
+Punjab Style Chicken Kheema Sandwich Special,Punjab,Breakfast,321,27.1,37.1,7.9,Non-Veg
+Eggy Poha And Poriyal,Gujarat,Breakfast,475,43.3,72.3,14.8,Non-Veg
+Keema Paratha And Papad,Gujarat,Breakfast,411,37.3,56.7,13.2,Non-Veg
+Anda Uttapam Classic With Raita,Chhattisgarh,Breakfast,330,37.6,47.5,10.3,Non-Veg
+Fish Fry With Bread And Pickle,Delhi,Breakfast,449,31.3,56.0,14.8,Non-Veg
+Keema Paratha And Rasam,Delhi,Breakfast,590,24.6,76.6,21.7,Non-Veg
+Pappu Keema Paratha,Andhra Pradesh,Breakfast,321,36.5,49.6,12.0,Non-Veg
+Keema Paratha Delight With Sambar,Assam,Breakfast,578,34.9,93.8,19.1,Non-Veg
+Dalma Egg Dosa,Odisha,Breakfast,566,22.1,86.5,15.0,Non-Veg
+Eggy Poha And Sambar,Punjab,Breakfast,536,44.0,69.0,19.9,Non-Veg
+Egg Dosa Special With Raita,Jammu and Kashmir,Breakfast,435,23.6,58.1,12.7,Non-Veg
+Siddu Fish Fry With Bread Special,Himachal Pradesh,Breakfast,432,36.9,58.4,13.4,Non-Veg
+Bore Anda Uttapam Special,Chhattisgarh,Breakfast,311,34.4,43.9,7.1,Non-Veg
+Maskaa Keema Paratha,Assam,Breakfast,301,34.2,36.5,9.4,Non-Veg
+Egg Dosa And Dal,Gujarat,Breakfast,354,38.9,54.7,12.7,Non-Veg
+Mizoram Style Eggy Poha Delight,Mizoram,Breakfast,557,39.0,87.8,17.1,Non-Veg
+Chicken Kheema Sandwich And Steamed Rice,Gujarat,Breakfast,483,44.0,59.7,12.6,Non-Veg
+Egg Bhurji Paratha And Sambar,Bihar,Breakfast,348,25.8,39.3,7.8,Non-Veg
+Madra Egg Dosa,Himachal Pradesh,Breakfast,514,44.2,62.6,12.5,Non-Veg
+Saaru Egg Bhurji Paratha,Telangana,Breakfast,334,36.4,40.4,12.3,Non-Veg
+Bhatt Egg Dosa Special,Uttarakhand,Breakfast,482,31.3,57.5,12.9,Non-Veg
+Punjab Style Egg Dosa Lite,Punjab,Breakfast,553,37.2,85.4,14.8,Non-Veg
+Anda Uttapam Delight With Pickle,Chhattisgarh,Breakfast,582,36.1,67.2,17.6,Non-Veg
+Jharkhand Style Egg Bhurji Paratha Traditional,Jharkhand,Breakfast,578,43.8,65.8,19.9,Non-Veg
+Keema Paratha Classic With Salad,Jammu and Kashmir,Breakfast,508,25.1,61.7,12.0,Non-Veg
+Pitika Fish Fry With Bread,Assam,Breakfast,307,26.6,48.2,10.1,Non-Veg
+Anda Uttapam And Chutney,Gujarat,Breakfast,326,20.9,41.7,10.1,Non-Veg
+Eggy Poha And Sambar,Andhra Pradesh,Breakfast,306,23.7,40.5,10.3,Non-Veg
+Egg Dosa Classic With Sambar,Maharashtra,Breakfast,471,39.5,58.6,17.5,Non-Veg
+Eggy Poha Traditional With Rasam,Odisha,Breakfast,400,30.2,55.9,9.1,Non-Veg
+Keema Paratha And Pickle,Uttar Pradesh,Breakfast,330,22.4,41.1,9.2,Non-Veg
+Meghalaya Style Chicken Kheema Sandwich Homestyle,Meghalaya,Breakfast,410,35.4,48.0,14.3,Non-Veg
+Eggy Poha And Curd,Kerala,Breakfast,355,25.1,54.4,11.2,Non-Veg
+Chicken Kheema Sandwich And Steamed Rice,Nagaland,Breakfast,553,23.6,65.5,19.7,Non-Veg
+Makki Egg Bhurji Paratha,Punjab,Breakfast,553,22.8,66.8,19.7,Non-Veg
+Karnataka Style Keema Paratha Traditional,Karnataka,Breakfast,425,30.2,68.7,10.5,Non-Veg
+Keerai Fish Fry With Bread,Rajasthan,Breakfast,394,29.0,46.2,11.4,Non-Veg
+Egg Bhurji Paratha Traditional With Rasam,Telangana,Breakfast,342,23.5,51.0,12.9,Non-Veg
+Smoked Egg Dosa Special,Nagaland,Breakfast,528,39.9,71.9,13.3,Non-Veg
+Egg Dosa Lite With Poriyal,Jharkhand,Breakfast,480,27.9,59.4,11.7,Non-Veg
+Egg Dosa And Salad,Odisha,Breakfast,585,20.6,94.2,14.3,Non-Veg
+Ghugni Fish Fry With Bread,West Bengal,Breakfast,357,29.6,42.5,8.6,Non-Veg
+Ootti Egg Dosa,Manipur,Breakfast,387,40.1,54.0,11.2,Non-Veg
+Chhinam Eggy Poha,Mizoram,Breakfast,511,26.4,71.7,18.1,Non-Veg
+Chicken Kheema Sandwich And Raita,Himachal Pradesh,Breakfast,494,45.0,78.0,15.1,Non-Veg
+Egg Bhurji Paratha And Sambar,Punjab,Breakfast,418,31.0,60.8,16.1,Non-Veg
+Fara Egg Dosa Special,Chhattisgarh,Breakfast,590,23.3,79.3,13.5,Non-Veg
+Litti Chicken Kheema Sandwich Special,Bihar,Breakfast,365,40.8,55.4,14.1,Non-Veg
+Chhole Chicken Kheema Sandwich,Punjab,Breakfast,529,43.6,60.5,13.1,Non-Veg
+Keerai Chicken Kheema Sandwich Special,Rajasthan,Breakfast,521,24.7,77.2,11.7,Non-Veg
+Anda Uttapam Lite With Steamed Rice,Karnataka,Breakfast,375,41.7,48.9,10.4,Non-Veg
+Anda Uttapam Special With Sambar,Uttarakhand,Breakfast,309,33.7,40.6,11.0,Non-Veg
+Eggy Poha And Raita,Nagaland,Breakfast,356,35.3,40.1,11.0,Non-Veg
+Bai Fish Fry With Bread Special,Mizoram,Breakfast,360,30.2,40.5,11.5,Non-Veg
+Delhi Style Fish Fry With Bread Lite,Delhi,Breakfast,377,40.5,45.0,11.5,Non-Veg
+Khatta Keema Paratha Special,Himachal Pradesh,Breakfast,535,38.5,76.7,15.4,Non-Veg
+Tsaman Fish Fry With Bread,Jammu and Kashmir,Breakfast,580,30.6,94.2,16.6,Non-Veg
+Kerala Style Egg Dosa Classic,Kerala,Breakfast,441,37.1,55.1,10.7,Non-Veg
+Eggy Poha Special With Chutney,Andhra Pradesh,Breakfast,567,42.1,72.8,18.9,Non-Veg
+Tsaman Eggy Poha,Jammu and Kashmir,Breakfast,372,39.0,59.8,10.2,Non-Veg
+Vellarikai Anda Uttapam,Tamil Nadu,Breakfast,404,28.1,50.3,11.8,Non-Veg
+Keerai Keema Paratha,Tamil Nadu,Breakfast,428,27.1,67.2,11.5,Non-Veg
+Keema Paratha And Chapati,Bihar,Breakfast,348,21.5,41.6,12.8,Non-Veg
+Egg Dosa Lite With Chutney,Nagaland,Breakfast,559,23.8,66.7,14.5,Non-Veg
+Poha Chicken Kheema Sandwich,Madhya Pradesh,Breakfast,372,20.8,48.3,13.8,Non-Veg
+Pitika Egg Bhurji Paratha,Assam,Breakfast,483,35.9,59.0,13.2,Non-Veg
+Bhature Anda Uttapam,Himachal Pradesh,Breakfast,450,22.2,64.6,17.4,Non-Veg
+Tsaman Style Mutton Curry Biryani (Veg),Jammu and Kashmir,Lunch,559,37.2,89.1,18.3,Non-Veg
+Khlem Chicken Biryani Curry With Rice,Meghalaya,Lunch,840,41.7,111.2,31.0,Non-Veg
+Kosha Style Mutton Biryani Biryani (Veg),Kerala,Lunch,635,30.7,72.2,15.0,Non-Veg
+Modur Style Prawn Masala Biryani (Veg),Jammu and Kashmir,Lunch,515,22.2,80.6,19.2,Non-Veg
+Muthiya Style Mutton Curry Biryani (Veg),Gujarat,Lunch,545,23.1,79.2,14.5,Non-Veg
+Jammu And Kashmir Chicken Biryani With Chapati,Jammu and Kashmir,Lunch,722,38.8,89.3,25.9,Non-Veg
+Singodi Egg Curry Curry With Rice,Uttarakhand,Lunch,656,36.4,103.1,25.3,Non-Veg
+Chana Prawn Masala Curry With Rice,Odisha,Lunch,818,22.2,101.7,23.2,Non-Veg
+Bamboo Prawn Masala Curry With Rice,Nagaland,Lunch,620,28.7,99.5,14.6,Non-Veg
+Chicken Chettinad Pickle Thali,Odisha,Lunch,883,37.0,135.8,29.5,Non-Veg
+Fish Pulav Pulav With Salad,Maharashtra,Lunch,714,37.6,94.2,20.0,Non-Veg
+Fish Pulav Salad Thali,Tripura,Lunch,818,42.0,128.2,23.8,Non-Veg
+Tsaman Style Mutton Biryani Biryani (Veg),Jammu and Kashmir,Lunch,650,31.8,100.1,21.6,Non-Veg
+Chicken Curry Sambar Thali,Chhattisgarh,Lunch,711,44.4,83.9,21.8,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Goa,Lunch,620,27.8,78.2,15.9,Non-Veg
+Egg Curry Pulav With Salad,Kerala,Lunch,556,23.8,71.9,18.3,Non-Veg
+Bajra Style Egg Curry Biryani (Veg),Punjab,Lunch,631,34.4,76.4,24.2,Non-Veg
+Eromba Egg Curry Curry With Rice,Manipur,Lunch,551,36.8,78.9,19.4,Non-Veg
+Jammu And Kashmir Chicken Chettinad With Curd,Jammu and Kashmir,Lunch,627,20.1,91.5,16.4,Non-Veg
+Keerai Style Chicken Biryani Biryani (Veg),Rajasthan,Lunch,591,38.1,82.1,15.9,Non-Veg
+Tungrymbai Style Fish Pulav Biryani (Veg),Meghalaya,Lunch,632,41.7,71.7,23.0,Non-Veg
+Punjab Fish Curry With Chutney,Punjab,Lunch,689,27.8,100.1,18.5,Non-Veg
+Mutton Curry Chutney Thali,Meghalaya,Lunch,705,21.3,100.9,26.8,Non-Veg
+Chicken Curry Curd Thali,Odisha,Lunch,865,38.2,135.0,24.8,Non-Veg
+Prawn Masala Chapati Thali,Kerala,Lunch,553,34.9,77.4,17.7,Non-Veg
+Jharkhand Chicken Curry With Roti,Jharkhand,Lunch,516,43.5,63.5,19.4,Non-Veg
+Fish Curry Roti Thali,Assam,Lunch,754,38.7,107.1,22.6,Non-Veg
+Chicken Chettinad Pulav With Salad,Sikkim,Lunch,553,42.1,83.2,20.4,Non-Veg
+Pappu Style Chicken Biryani Biryani (Veg),Telangana,Lunch,632,22.5,91.6,22.9,Non-Veg
+Gundruk Style Mutton Biryani Biryani (Veg),Sikkim,Lunch,821,23.0,100.8,24.2,Non-Veg
+Soppu Style Chicken Biryani Biryani (Veg),Rajasthan,Lunch,511,31.8,61.7,15.9,Non-Veg
+Chaat Style Mutton Biryani Biryani (Veg),Delhi,Lunch,899,31.7,135.3,30.7,Non-Veg
+Fish Curry Pulav With Salad,Madhya Pradesh,Lunch,782,37.3,92.3,25.4,Non-Veg
+Mutton Curry Steamed Rice Thali,Punjab,Lunch,888,34.7,143.8,23.5,Non-Veg
+Pitika Style Fish Curry Biryani (Veg),Assam,Lunch,616,21.0,96.4,19.4,Non-Veg
+Chicken Curry Dal Thali,Andhra Pradesh,Lunch,844,38.1,118.1,29.8,Non-Veg
+Madhya Pradesh Chicken Chettinad With Curd,Madhya Pradesh,Lunch,631,36.7,80.2,22.4,Non-Veg
+Prawn Masala Pulav With Salad,Telangana,Lunch,700,34.6,106.4,20.0,Non-Veg
+Singju Style Fish Pulav Biryani (Veg),Manipur,Lunch,703,36.7,79.8,25.0,Non-Veg
+Manipur Chicken Biryani With Rasam,Manipur,Lunch,560,26.1,86.8,21.0,Non-Veg
+West Bengal Mutton Curry With Sambar,West Bengal,Lunch,559,41.0,87.9,20.1,Non-Veg
+Bihar Fish Curry With Sambar,Bihar,Lunch,601,29.1,97.0,22.9,Non-Veg
+Sael Chicken Chettinad Curry With Rice,Sikkim,Lunch,859,38.7,101.5,26.8,Non-Veg
+Roasted Fish With Rice Dal Thali,Rajasthan,Lunch,757,21.6,86.1,20.6,Non-Veg
+Katancha Style Fish Pulav Biryani (Veg),Andhra Pradesh,Lunch,617,21.2,72.5,23.1,Non-Veg
+Karela Mutton Biryani Curry With Rice,Bihar,Lunch,648,30.1,98.6,16.9,Non-Veg
+Kebabs (Veg) Roasted Fish With Rice Curry With Rice,Delhi,Lunch,546,22.3,70.3,19.6,Non-Veg
+Egg Curry Pulav With Salad,Uttarakhand,Lunch,751,32.6,114.8,26.5,Non-Veg
+Chole Fish Curry Curry With Rice,Delhi,Lunch,672,28.0,101.3,24.6,Non-Veg
+Telangana Chicken Chettinad With Papad,Telangana,Lunch,550,23.3,78.2,19.2,Non-Veg
+Assam Chicken Chettinad With Pickle,Assam,Lunch,579,29.4,92.3,13.3,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Manipur,Lunch,696,20.5,88.6,18.9,Non-Veg
+Anda Chicken Biryani Curry With Rice,Mizoram,Lunch,739,23.5,96.4,21.9,Non-Veg
+Mutton Biryani Dal Thali,Tamil Nadu,Lunch,562,29.0,85.9,19.6,Non-Veg
+Chicken Chettinad Steamed Rice Thali,Assam,Lunch,531,25.4,72.7,14.5,Non-Veg
+Rajasthan Chicken Chettinad With Papad,Rajasthan,Lunch,537,41.0,73.9,14.8,Non-Veg
+Mutton Curry Pulav With Salad,Madhya Pradesh,Lunch,588,28.3,88.8,16.9,Non-Veg
+Fish Pulav Curd Thali,Goa,Lunch,764,40.8,124.0,22.7,Non-Veg
+Egg Curry Papad Thali,Odisha,Lunch,693,37.1,82.9,26.3,Non-Veg
+Kebabs (Veg) Prawn Masala Curry With Rice,Delhi,Lunch,705,31.9,103.7,19.9,Non-Veg
+Bimmas Style Prawn Masala Biryani (Veg),Telangana,Lunch,743,35.2,98.7,24.8,Non-Veg
+Vendakkai Style Egg Curry Biryani (Veg),Tamil Nadu,Lunch,847,25.8,97.7,23.5,Non-Veg
+Shorshe Prawn Masala Curry With Rice,West Bengal,Lunch,851,33.1,131.2,29.9,Non-Veg
+Pitha Style Prawn Masala Biryani (Veg),Assam,Lunch,667,34.9,90.0,25.4,Non-Veg
+Sawhchiar Chicken Curry Curry With Rice,Mizoram,Lunch,877,28.0,118.4,30.3,Non-Veg
+Chicken Curry Salad Thali,Tripura,Lunch,592,31.9,92.1,20.6,Non-Veg
+Mutton Biryani Sambar Thali,Telangana,Lunch,590,24.4,85.4,17.9,Non-Veg
+Fish Curry Pulav With Salad,Andhra Pradesh,Lunch,718,35.2,115.6,17.2,Non-Veg
+Vangi Chicken Curry Curry With Rice,Maharashtra,Lunch,690,22.9,86.9,21.7,Non-Veg
+Chicken Chettinad Pickle Thali,Chhattisgarh,Lunch,553,40.9,88.6,12.4,Non-Veg
+Mutton Curry Curd Thali,Chhattisgarh,Lunch,711,44.9,115.0,25.2,Non-Veg
+Sundakkai Fish Curry Curry With Rice,Tamil Nadu,Lunch,637,32.4,74.1,18.6,Non-Veg
+Fish Curry Pulav With Salad,Tamil Nadu,Lunch,610,40.2,71.1,22.9,Non-Veg
+Poha Chicken Curry Curry With Rice,Madhya Pradesh,Lunch,798,25.0,97.1,28.8,Non-Veg
+Patal Egg Curry Curry With Rice,Maharashtra,Lunch,557,41.6,74.9,17.6,Non-Veg
+Mutton Biryani Pulav With Salad,Meghalaya,Lunch,776,25.6,109.1,26.8,Non-Veg
+Bai Chicken Biryani Curry With Rice,Mizoram,Lunch,815,38.2,125.0,25.6,Non-Veg
+Roasted Fish With Rice Raita Thali,Andhra Pradesh,Lunch,736,37.5,119.3,22.4,Non-Veg
+Fish Curry Chutney Thali,Jammu and Kashmir,Lunch,613,28.7,70.4,23.6,Non-Veg
+Chhattisgarh Fish Pulav With Poriyal,Chhattisgarh,Lunch,714,31.3,103.4,25.7,Non-Veg
+Dalpithi Style Mutton Curry Biryani (Veg),Madhya Pradesh,Lunch,801,32.2,115.1,26.2,Non-Veg
+Chicken Curry Pulav With Salad,West Bengal,Lunch,722,27.5,81.3,25.0,Non-Veg
+West Bengal Fish Pulav With Sambar,West Bengal,Lunch,505,36.6,80.1,16.0,Non-Veg
+Sarson Style Mutton Curry Biryani (Veg),Punjab,Lunch,895,21.9,117.3,32.2,Non-Veg
+Bajre Style Prawn Masala Biryani (Veg),Haryana,Lunch,777,34.3,88.8,20.2,Non-Veg
+Gahat Mutton Curry Curry With Rice,Uttarakhand,Lunch,588,20.2,71.1,16.6,Non-Veg
+Kakka Mutton Curry Curry With Rice,Kerala,Lunch,558,35.5,83.1,21.6,Non-Veg
+Haryana Chicken Biryani With Poriyal,Haryana,Lunch,758,40.3,115.9,20.4,Non-Veg
+Jadoh Style Prawn Masala Biryani (Veg),Meghalaya,Lunch,598,41.9,76.1,15.7,Non-Veg
+Bhature Style Mutton Curry Biryani (Veg),Himachal Pradesh,Lunch,775,20.7,109.1,26.8,Non-Veg
+Sikkim Prawn Masala With Roti,Sikkim,Lunch,885,26.8,106.7,28.2,Non-Veg
+Sabji Style Chicken Biryani Biryani (Veg),Madhya Pradesh,Lunch,807,35.4,129.2,19.5,Non-Veg
+Mutton Biryani Pulav With Salad,Rajasthan,Lunch,735,27.7,96.3,18.3,Non-Veg
+Chicken Curry Pulav With Salad,Himachal Pradesh,Lunch,828,22.3,101.6,24.6,Non-Veg
+Malpua Style Fish Curry Biryani (Veg),Jharkhand,Lunch,728,21.9,90.2,22.0,Non-Veg
+Fish Pulav Salad Thali,Rajasthan,Lunch,663,23.8,102.9,21.7,Non-Veg
+Egg Curry Pulav With Salad,Bihar,Lunch,513,42.3,68.6,15.2,Non-Veg
+Mizoram Prawn Masala With Rasam,Mizoram,Lunch,581,36.5,90.9,21.6,Non-Veg
+Baingan Mutton Curry Curry With Rice,Uttar Pradesh,Lunch,861,22.6,112.1,22.4,Non-Veg
+Uttar Pradesh Chicken Biryani With Chutney,Uttar Pradesh,Lunch,607,38.0,72.5,19.4,Non-Veg
+Egg Curry Dal Thali,Andhra Pradesh,Lunch,748,42.9,101.4,18.4,Non-Veg
+Roasted Fish With Rice Chapati Thali,Madhya Pradesh,Lunch,628,41.5,75.5,14.9,Non-Veg
+Tsaman Prawn Masala Curry With Rice,Jammu and Kashmir,Lunch,556,34.8,83.0,21.3,Non-Veg
+Chicken Chettinad Pulav With Salad,Haryana,Lunch,752,35.9,115.8,19.2,Non-Veg
+Prawn Masala Rasam Thali,Gujarat,Lunch,720,28.9,93.9,23.4,Non-Veg
+Vellari Mutton Curry Curry With Rice,Kerala,Lunch,840,27.2,112.7,19.5,Non-Veg
+Sanna Style Chicken Biryani Biryani (Veg),Goa,Lunch,771,24.8,115.2,19.3,Non-Veg
+Chicken Biryani Pulav With Salad,Mizoram,Lunch,588,20.4,81.1,17.0,Non-Veg
+Roasted Fish With Rice Salad Thali,Telangana,Lunch,899,35.9,115.5,25.6,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Meghalaya,Lunch,588,24.6,76.5,20.5,Non-Veg
+Kahwa Mutton Curry Curry With Rice,Jammu and Kashmir,Lunch,728,24.3,96.9,23.3,Non-Veg
+Punjab Mutton Curry With Curd,Punjab,Lunch,625,43.1,73.0,19.8,Non-Veg
+Maharashtra Roasted Fish With Rice With Rasam,Maharashtra,Lunch,835,30.4,101.0,28.2,Non-Veg
+Mutton Curry Pulav With Salad,Kerala,Lunch,675,40.7,77.7,21.5,Non-Veg
+Prawn Masala Papad Thali,Odisha,Lunch,831,21.0,123.3,27.0,Non-Veg
+Kosha Style Fish Curry Biryani (Veg),Kerala,Lunch,890,25.0,127.7,21.8,Non-Veg
+Haryana Mutton Biryani With Rasam,Haryana,Lunch,695,41.3,102.3,20.3,Non-Veg
+Chicken Chettinad Papad Thali,Tamil Nadu,Lunch,519,28.0,65.7,12.5,Non-Veg
+Manipur Fish Pulav With Poriyal,Manipur,Lunch,700,27.0,103.6,23.9,Non-Veg
+West Bengal Chicken Curry With Pickle,West Bengal,Lunch,737,24.3,92.9,17.5,Non-Veg
+Fish Pulav Steamed Rice Thali,Punjab,Lunch,605,44.6,94.9,21.4,Non-Veg
+Gongura Style Chicken Curry Biryani (Veg),Andhra Pradesh,Lunch,547,44.1,69.7,20.7,Non-Veg
+Fish Curry Pulav With Salad,Tripura,Lunch,559,42.9,68.4,14.1,Non-Veg
+Bora Style Fish Pulav Biryani (Veg),Assam,Lunch,885,20.8,137.6,22.7,Non-Veg
+Mooli Roasted Fish With Rice Curry With Rice,Punjab,Lunch,642,42.0,98.2,19.3,Non-Veg
+Delhi Chicken Biryani With Dal,Delhi,Lunch,510,45.0,78.7,15.5,Non-Veg
+Roasted Fish With Rice Salad Thali,Jharkhand,Lunch,593,21.0,71.7,18.7,Non-Veg
+Dalpithi Egg Curry Curry With Rice,Madhya Pradesh,Lunch,586,25.5,76.0,20.6,Non-Veg
+Pumaloi Style Prawn Masala Biryani (Veg),Meghalaya,Lunch,729,34.3,118.4,18.2,Non-Veg
+Parathas Style Egg Curry Biryani (Veg),Delhi,Lunch,693,41.1,82.7,21.9,Non-Veg
+Sundakkai Roasted Fish With Rice Curry With Rice,Tamil Nadu,Lunch,820,42.1,112.0,31.1,Non-Veg
+Fish Curry Pulav With Salad,Maharashtra,Lunch,899,34.7,101.9,31.9,Non-Veg
+Prawn Masala Pulav With Salad,Chhattisgarh,Lunch,844,30.7,107.8,30.7,Non-Veg
+Sikkim Fish Pulav With Raita,Sikkim,Lunch,758,43.9,105.1,20.3,Non-Veg
+Chicken Curry Pulav With Salad,Madhya Pradesh,Lunch,885,31.3,128.4,32.3,Non-Veg
+Singodi Fish Pulav Curry With Rice,Uttarakhand,Lunch,847,41.9,127.3,24.5,Non-Veg
+Chha Gosht (Veg Style) Fish Curry Curry With Rice,Himachal Pradesh,Lunch,765,29.3,105.9,24.8,Non-Veg
+Chicken Curry Papad Thali,Kerala,Lunch,585,34.4,69.0,20.6,Non-Veg
+Haryana Chicken Biryani With Steamed Rice,Haryana,Lunch,697,20.5,112.4,19.7,Non-Veg
+Mizoram Fish Pulav With Sambar,Mizoram,Lunch,861,26.2,108.4,25.2,Non-Veg
+Prawn Masala Poriyal Thali,Goa,Lunch,830,31.0,102.1,29.8,Non-Veg
+Chhattisgarh Egg Curry With Sambar,Chhattisgarh,Lunch,731,32.7,100.8,20.3,Non-Veg
+Koddel Style Chicken Biryani Biryani (Veg),Goa,Lunch,884,25.1,117.8,24.1,Non-Veg
+Chhole Style Mutton Curry Biryani (Veg),Punjab,Lunch,704,20.6,108.9,25.0,Non-Veg
+Sikkim Chicken Biryani With Rasam,Sikkim,Lunch,571,40.7,84.1,13.2,Non-Veg
+Maharashtra Chicken Curry With Roti,Maharashtra,Lunch,795,43.3,116.3,29.3,Non-Veg
+Maskaa Style Prawn Masala Biryani (Veg),Assam,Lunch,815,22.0,132.2,29.2,Non-Veg
+Mutton Curry Pulav With Salad,Himachal Pradesh,Lunch,714,37.6,114.8,25.0,Non-Veg
+Prawn Masala Pulav With Salad,Mizoram,Lunch,503,33.3,77.3,13.8,Non-Veg
+Mutton Curry Pulav With Salad,Punjab,Lunch,515,25.2,75.8,16.0,Non-Veg
+Manipur Prawn Masala With Pickle,Manipur,Lunch,851,44.7,121.3,19.2,Non-Veg
+Chaulai Style Chicken Biryani Biryani (Veg),Haryana,Lunch,513,44.8,73.1,11.9,Non-Veg
+Chicken Chettinad Pulav With Salad,Uttar Pradesh,Lunch,632,44.9,87.9,24.1,Non-Veg
+Chhole Style Prawn Masala Biryani (Veg),Punjab,Lunch,837,39.7,128.1,28.3,Non-Veg
+Fish Curry Pulav With Salad,Meghalaya,Lunch,741,32.5,117.7,21.2,Non-Veg
+Egg Curry Pickle Thali,Bihar,Lunch,770,34.5,115.7,28.7,Non-Veg
+Fish Curry Pulav With Salad,Kerala,Lunch,870,36.5,137.1,28.8,Non-Veg
+Karnataka Chicken Biryani With Papad,Karnataka,Lunch,558,31.9,88.9,21.5,Non-Veg
+Odisha Egg Curry With Sambar,Odisha,Lunch,515,32.8,71.8,15.9,Non-Veg
+Fish Curry Pulav With Salad,Uttarakhand,Lunch,770,24.1,123.0,24.2,Non-Veg
+Shyaphale Egg Curry Curry With Rice,Sikkim,Lunch,838,41.3,113.5,25.8,Non-Veg
+Ootti Roasted Fish With Rice Curry With Rice,Manipur,Lunch,831,31.7,104.9,19.5,Non-Veg
+Chicken Curry Pulav With Salad,Jammu and Kashmir,Lunch,868,35.0,136.5,31.7,Non-Veg
+Mutton Biryani Pulav With Salad,Maharashtra,Lunch,785,20.8,93.6,17.7,Non-Veg
+Fish Curry Pulav With Salad,Jharkhand,Lunch,715,24.9,112.7,19.0,Non-Veg
+Chhole Prawn Masala Curry With Rice,Punjab,Lunch,833,24.6,104.3,32.4,Non-Veg
+Manipur Mutton Biryani With Curd,Manipur,Lunch,876,38.7,134.1,33.1,Non-Veg
+Egg Curry Raita Thali,Telangana,Lunch,805,20.5,94.2,30.3,Non-Veg
+Soppu Mutton Biryani Curry With Rice,Rajasthan,Lunch,782,42.7,110.3,22.7,Non-Veg
+Chicken Curry Poriyal Thali,Punjab,Lunch,889,31.2,105.9,30.9,Non-Veg
+Soppu Fish Pulav Curry With Rice,Rajasthan,Lunch,657,21.1,85.6,22.2,Non-Veg
+Pakhala Style Egg Curry Biryani (Veg),Odisha,Lunch,725,39.7,109.8,19.5,Non-Veg
+Prawn Masala Pulav With Salad,Tamil Nadu,Lunch,575,23.0,89.8,18.2,Non-Veg
+Bora Style Prawn Masala Biryani (Veg),Assam,Lunch,704,30.3,114.4,26.9,Non-Veg
+Rajasthan Fish Pulav With Poriyal,Rajasthan,Lunch,809,39.4,130.3,23.5,Non-Veg
+Fish Curry Rasam Thali,Chhattisgarh,Lunch,790,40.4,127.1,28.8,Non-Veg
+Mutton Curry Salad Thali,Manipur,Lunch,809,33.1,98.5,30.9,Non-Veg
+Roasted Fish With Rice Poriyal Thali,Chhattisgarh,Lunch,703,21.8,95.0,26.5,Non-Veg
+Fish Pulav Pickle Thali,Chhattisgarh,Lunch,812,44.6,128.2,30.9,Non-Veg
+Ootti Style Mutton Curry Biryani (Veg),Manipur,Lunch,780,26.2,100.3,24.5,Non-Veg
+Maskaa Style Fish Pulav Biryani (Veg),Assam,Lunch,753,31.3,91.8,28.2,Non-Veg
+Pakhala Chicken Curry Curry With Rice,Odisha,Lunch,768,24.3,106.5,28.2,Non-Veg
+Roasted Fish With Rice Pickle Thali,Punjab,Lunch,808,33.2,98.6,28.2,Non-Veg
+Mutton Curry Sambar Thali,Karnataka,Lunch,502,42.4,63.7,11.6,Non-Veg
+Mutton Biryani Pulav With Salad,Manipur,Lunch,882,43.6,141.4,24.1,Non-Veg
+Sikkim Prawn Masala With Chapati,Sikkim,Lunch,536,25.4,63.5,13.7,Non-Veg
+Chicken Biryani Pulav With Salad,Odisha,Lunch,841,43.5,100.3,31.4,Non-Veg
+Roasted Fish With Rice Dal Thali,Uttar Pradesh,Lunch,619,28.4,76.8,19.6,Non-Veg
+Fish Pulav Pulav With Salad,Assam,Lunch,818,43.6,114.9,26.6,Non-Veg
+Pappu Style Roasted Fish With Rice Biryani (Veg),Telangana,Lunch,705,33.3,110.3,16.7,Non-Veg
+Chicken Biryani Papad Thali,Manipur,Lunch,709,30.2,113.0,20.8,Non-Veg
+Mutton Biryani Sambar Thali,Uttar Pradesh,Lunch,626,39.9,80.0,16.6,Non-Veg
+Mosdeng Mutton Curry Curry With Rice,Tripura,Lunch,599,32.1,85.9,21.8,Non-Veg
+Andhra Pradesh Chicken Curry With Papad,Andhra Pradesh,Lunch,600,36.1,69.7,23.2,Non-Veg
+Chicken Curry Chutney Thali,West Bengal,Lunch,890,36.6,143.1,22.0,Non-Veg
+Lauki Style Roasted Fish With Rice Biryani (Veg),Uttar Pradesh,Lunch,802,25.0,109.6,20.6,Non-Veg
+Kosha Prawn Masala Curry With Rice,Kerala,Lunch,658,26.9,88.8,20.7,Non-Veg
+Egg Curry Pulav With Salad,Tamil Nadu,Lunch,883,44.0,117.7,21.5,Non-Veg
+Rajasthan Chicken Biryani With Chapati,Rajasthan,Lunch,711,28.0,107.6,23.0,Non-Veg
+Meghalaya Mutton Biryani With Roti,Meghalaya,Lunch,545,32.1,67.8,18.1,Non-Veg
+Parathas Style Chicken Chettinad Biryani (Veg),Delhi,Lunch,680,29.6,109.5,15.5,Non-Veg
+Bajra Style Fish Curry Biryani (Veg),Punjab,Lunch,676,28.7,101.1,23.2,Non-Veg
+Pumaloi Fish Curry Curry With Rice,Meghalaya,Lunch,867,40.0,114.5,24.6,Non-Veg
+Aloo Ke Gutke Chicken Curry Curry With Rice,Uttarakhand,Lunch,776,26.9,88.0,27.1,Non-Veg
+Chicken Chettinad Chutney Thali,Jharkhand,Lunch,512,37.0,72.7,14.7,Non-Veg
+Chicken Curry Pickle Thali,Maharashtra,Lunch,783,30.0,125.2,25.6,Non-Veg
+Chicken Curry Pulav With Salad,Tripura,Lunch,577,29.8,69.5,19.5,Non-Veg
+Bengalgram Fish Pulav Curry With Rice,Karnataka,Lunch,605,41.7,89.9,16.9,Non-Veg
+Mutton Curry Raita Thali,Odisha,Lunch,739,27.5,114.5,22.6,Non-Veg
+Chicken Curry Pulav With Salad,Goa,Lunch,868,44.1,121.9,33.6,Non-Veg
+Roasted Fish With Rice Steamed Rice Thali,Kerala,Lunch,560,35.0,80.2,17.5,Non-Veg
+Egg Curry Chutney Thali,Nagaland,Lunch,848,41.4,101.6,24.4,Non-Veg
+Mirapakaya Fish Curry Curry With Rice,Andhra Pradesh,Lunch,673,34.0,87.3,23.9,Non-Veg
+Rajasthan Mutton Curry With Rasam,Rajasthan,Lunch,706,20.8,114.5,25.1,Non-Veg
+Mutton Curry Pickle Thali,Manipur,Lunch,807,42.6,118.1,24.3,Non-Veg
+Bajra Chicken Biryani Curry With Rice,Punjab,Lunch,857,44.0,98.8,26.6,Non-Veg
+Mutton Curry Papad Thali,Uttarakhand,Lunch,648,29.8,75.3,21.1,Non-Veg
+Kela Style Prawn Masala Biryani (Veg),Uttar Pradesh,Lunch,698,44.9,83.1,20.3,Non-Veg
+Axone Chicken Chettinad Curry With Rice,Nagaland,Lunch,748,40.3,118.1,16.7,Non-Veg
+Bhature Style Fish Pulav Biryani (Veg),Himachal Pradesh,Lunch,526,29.8,60.3,15.2,Non-Veg
+Chhole Style Chicken Curry Biryani (Veg),Punjab,Lunch,505,41.5,71.6,16.2,Non-Veg
+Chicken Curry Curd Thali,Maharashtra,Lunch,569,20.6,71.5,14.1,Non-Veg
+Khandvi Mutton Biryani Curry With Rice,Gujarat,Lunch,805,29.2,125.1,25.6,Non-Veg
+Chicken Biryani Pulav With Salad,Madhya Pradesh,Lunch,631,40.3,102.0,20.2,Non-Veg
+Gongura Chicken Curry Curry With Rice,Telangana,Lunch,809,27.0,102.6,22.4,Non-Veg
+Goa Fish Curry With Sambar,Goa,Lunch,787,23.0,110.1,22.6,Non-Veg
+Sael Style Chicken Biryani Biryani (Veg),Sikkim,Lunch,890,28.3,143.8,22.1,Non-Veg
+Vangi Roasted Fish With Rice Curry With Rice,Maharashtra,Lunch,815,32.4,104.5,23.6,Non-Veg
+Mutton Biryani Poriyal Thali,Haryana,Lunch,567,24.9,86.5,13.2,Non-Veg
+Goa Chicken Biryani With Pickle,Goa,Lunch,848,20.1,114.1,28.4,Non-Veg
+Fish Curry Pulav With Salad,Sikkim,Lunch,661,30.6,85.8,19.5,Non-Veg
+Chicken Biryani Salad Thali,Kerala,Lunch,538,25.2,76.4,14.7,Non-Veg
+Chhattisgarh Egg Curry With Salad,Chhattisgarh,Lunch,881,29.1,103.4,31.5,Non-Veg
+Mui Style Mutton Biryani Biryani (Veg),Tripura,Lunch,735,23.1,117.0,17.3,Non-Veg
+Shyaphale Style Chicken Chettinad Biryani (Veg),Sikkim,Lunch,880,43.4,136.3,25.5,Non-Veg
+Muthiya Fish Pulav Curry With Rice,Gujarat,Lunch,620,24.9,79.7,20.1,Non-Veg
+Chicken Chettinad Pulav With Salad,Punjab,Lunch,691,37.2,79.4,17.5,Non-Veg
+Mutton Curry Rasam Thali,Chhattisgarh,Lunch,721,32.2,88.9,26.2,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Telangana,Lunch,568,25.3,92.3,16.5,Non-Veg
+Chicken Curry Curd Thali,Punjab,Lunch,622,39.1,95.3,23.5,Non-Veg
+Mutton Biryani Pulav With Salad,Uttarakhand,Lunch,595,26.5,80.0,22.3,Non-Veg
+Mutton Curry Pickle Thali,Jharkhand,Lunch,572,21.2,71.2,14.4,Non-Veg
+Fara Fish Curry Curry With Rice,Chhattisgarh,Lunch,815,24.7,122.7,20.5,Non-Veg
+Egg Curry Salad Thali,Punjab,Lunch,837,21.8,118.9,20.7,Non-Veg
+Chicken Curry Pulav With Salad,Jharkhand,Lunch,668,41.1,98.2,16.3,Non-Veg
+Chicken Curry Pulav With Salad,Bihar,Lunch,853,35.2,98.9,26.8,Non-Veg
+Rajasthan Fish Curry With Chapati,Rajasthan,Lunch,645,44.6,79.4,16.0,Non-Veg
+Fish Pulav Papad Thali,Mizoram,Lunch,739,31.7,90.7,17.4,Non-Veg
+Uttarakhand Chicken Chettinad With Poriyal,Uttarakhand,Lunch,873,32.0,138.6,25.8,Non-Veg
+Ringna Chicken Chettinad Curry With Rice,Gujarat,Lunch,517,28.4,66.3,16.9,Non-Veg
+Egg Curry Chutney Thali,Meghalaya,Lunch,519,36.0,78.9,14.1,Non-Veg
+Mutton Curry Pulav With Salad,Goa,Lunch,690,34.2,77.7,26.0,Non-Veg
+Punjab Mutton Curry With Raita,Punjab,Lunch,707,24.8,97.5,27.3,Non-Veg
+Phagshapa Fish Pulav Curry With Rice,Sikkim,Lunch,644,34.3,81.1,20.7,Non-Veg
+Roasted Fish With Rice Dal Thali,Sikkim,Lunch,800,37.5,112.8,24.2,Non-Veg
+Badi Chicken Chettinad Curry With Rice,Chhattisgarh,Lunch,631,35.0,93.3,18.5,Non-Veg
+Bore Roasted Fish With Rice Curry With Rice,Chhattisgarh,Lunch,805,37.6,117.2,19.8,Non-Veg
+Dalma Fish Pulav Curry With Rice,Odisha,Lunch,881,25.6,125.1,32.7,Non-Veg
+Andhra Pradesh Mutton Curry With Chapati,Andhra Pradesh,Lunch,799,37.6,125.1,28.5,Non-Veg
+Kosambari Fish Curry Curry With Rice,Karnataka,Lunch,673,25.7,76.3,22.8,Non-Veg
+Egg Curry Pickle Thali,Assam,Lunch,866,31.5,119.2,26.3,Non-Veg
+Kulcha Style Chicken Chettinad Biryani (Veg),Delhi,Lunch,604,31.3,87.4,20.0,Non-Veg
+Kakka Style Chicken Biryani Biryani (Veg),Kerala,Lunch,767,21.2,113.0,29.7,Non-Veg
+Surti Style Egg Curry Biryani (Veg),Gujarat,Lunch,739,38.7,104.4,23.0,Non-Veg
+Egg Curry Pulav With Salad,Delhi,Lunch,666,32.9,97.8,21.7,Non-Veg
+Fish Pulav Raita Thali,Chhattisgarh,Lunch,817,41.5,110.1,20.9,Non-Veg
+Meghalaya Fish Curry With Sambar,Meghalaya,Lunch,572,30.4,75.3,14.0,Non-Veg
+Gongura Fish Pulav Curry With Rice,Andhra Pradesh,Lunch,730,37.1,97.0,19.6,Non-Veg
+Chicken Chettinad Pulav With Salad,Assam,Lunch,752,28.8,121.9,18.9,Non-Veg
+Xaak Fish Pulav Curry With Rice,Assam,Lunch,697,33.1,90.2,24.6,Non-Veg
+Chicken Chettinad Steamed Rice Thali,Odisha,Lunch,682,21.8,89.8,18.1,Non-Veg
+Mutton Curry Salad Thali,Andhra Pradesh,Lunch,535,39.2,75.9,16.1,Non-Veg
+Chicken Curry Raita Thali,Haryana,Lunch,708,42.8,115.0,15.9,Non-Veg
+Anda Prawn Masala Curry With Rice,Mizoram,Lunch,532,31.3,85.3,15.4,Non-Veg
+Kakka Roasted Fish With Rice Curry With Rice,Kerala,Lunch,762,36.1,88.0,17.5,Non-Veg
+Tripura Chicken Biryani With Rasam,Tripura,Lunch,773,25.6,125.0,27.2,Non-Veg
+Fish Curry Steamed Rice Thali,Punjab,Lunch,506,34.6,67.9,11.8,Non-Veg
+Saag Style Mutton Biryani Biryani (Veg),Jharkhand,Lunch,569,41.0,73.6,14.1,Non-Veg
+Fish Curry Poriyal Thali,Punjab,Lunch,638,33.2,81.3,23.9,Non-Veg
+Sabji Prawn Masala Curry With Rice,Madhya Pradesh,Lunch,751,27.5,103.6,29.0,Non-Veg
+Chicken Biryani Pulav With Salad,Chhattisgarh,Lunch,846,20.5,109.4,30.5,Non-Veg
+Mizoram Chicken Chettinad With Steamed Rice,Mizoram,Lunch,500,24.2,71.7,13.4,Non-Veg
+Chicken Curry Pickle Thali,Sikkim,Lunch,807,44.4,96.4,24.9,Non-Veg
+Tilkut Mutton Biryani Curry With Rice,Madhya Pradesh,Lunch,685,35.2,109.8,16.5,Non-Veg
+Bathua Style Fish Curry Biryani (Veg),Haryana,Lunch,851,33.1,102.5,19.0,Non-Veg
+Sanna Style Mutton Curry Biryani (Veg),Goa,Lunch,766,41.8,112.8,27.3,Non-Veg
+Makki Style Fish Curry Biryani (Veg),Punjab,Lunch,831,39.2,100.5,30.8,Non-Veg
+Keerai Style Chicken Biryani Biryani (Veg),Tamil Nadu,Lunch,887,27.0,120.2,32.1,Non-Veg
+Chicken Chettinad Papad Thali,Haryana,Lunch,858,20.1,113.8,31.1,Non-Veg
+Ringna Fish Curry Curry With Rice,Gujarat,Lunch,891,22.3,124.3,22.0,Non-Veg
+Mutton Curry Pulav With Salad,Mizoram,Lunch,659,30.4,92.2,23.8,Non-Veg
+Fish Pulav Curd Thali,Himachal Pradesh,Lunch,871,23.6,126.5,21.1,Non-Veg
+Dhuska Style Chicken Chettinad Biryani (Veg),Jharkhand,Lunch,616,31.8,94.8,14.3,Non-Veg
+Bora Fish Pulav Curry With Rice,Tripura,Lunch,777,35.7,104.8,26.0,Non-Veg
+Egg Curry Pulav With Salad,Jammu and Kashmir,Lunch,860,26.5,123.7,25.5,Non-Veg
+Pitika Chicken Biryani Curry With Rice,Assam,Lunch,539,44.7,84.3,16.9,Non-Veg
+Kakka Style Chicken Chettinad Biryani (Veg),Kerala,Lunch,811,39.1,116.7,20.3,Non-Veg
+Chicken Chettinad Salad Thali,Punjab,Lunch,762,31.1,93.5,17.2,Non-Veg
+Chicken Curry Pulav With Salad,Telangana,Lunch,621,34.8,91.0,15.7,Non-Veg
+Himachal Pradesh Roasted Fish With Rice With Chapati,Himachal Pradesh,Lunch,780,42.0,109.1,19.3,Non-Veg
+Chila Style Chicken Chettinad Biryani (Veg),Chhattisgarh,Lunch,761,39.2,116.6,17.2,Non-Veg
+Punjab Mutton Biryani With Poriyal,Punjab,Lunch,889,41.2,126.5,32.7,Non-Veg
+Prawn Masala Chapati Thali,Jharkhand,Lunch,839,43.2,112.7,22.9,Non-Veg
+Uttarakhand Mutton Biryani With Chapati,Uttarakhand,Lunch,522,30.5,67.3,16.0,Non-Veg
+Fish Curry Chutney Thali,Nagaland,Lunch,668,28.5,76.6,24.2,Non-Veg
+Uttar Pradesh Mutton Biryani With Curd,Uttar Pradesh,Lunch,547,33.1,78.4,18.3,Non-Veg
+Smoked Style Prawn Masala Biryani (Veg),Nagaland,Lunch,634,21.1,83.0,19.5,Non-Veg
+Gujarat Fish Curry With Chutney,Gujarat,Lunch,747,43.8,108.4,25.3,Non-Veg
+Mutton Curry Sambar Thali,Mizoram,Lunch,705,33.4,95.0,19.5,Non-Veg
+Chhinam Style Fish Pulav Biryani (Veg),Mizoram,Lunch,519,34.6,69.8,19.1,Non-Veg
+Dhuska Style Mutton Biryani Biryani (Veg),Jharkhand,Lunch,827,44.3,126.3,27.0,Non-Veg
+Cholar Style Fish Pulav Biryani (Veg),West Bengal,Lunch,742,34.4,94.4,27.8,Non-Veg
+Fish Pulav Pulav With Salad,Rajasthan,Lunch,721,25.4,86.0,19.9,Non-Veg
+Bhinda Style Mutton Biryani Biryani (Veg),Gujarat,Lunch,798,43.6,104.4,27.1,Non-Veg
+Roasted Fish With Rice Raita Thali,Maharashtra,Lunch,760,29.8,106.8,26.3,Non-Veg
+Chicken Curry Chutney Thali,Tripura,Lunch,786,29.2,116.1,21.5,Non-Veg
+Prawn Masala Salad Thali,Maharashtra,Lunch,692,41.4,103.3,16.2,Non-Veg
+Aloo Style Egg Curry Biryani (Veg),West Bengal,Lunch,699,20.6,94.9,17.9,Non-Veg
+Fish Pulav Pulav With Salad,Haryana,Lunch,872,23.1,130.5,27.7,Non-Veg
+Jammu And Kashmir Egg Curry With Salad,Jammu and Kashmir,Lunch,812,22.9,93.9,18.1,Non-Veg
+Mutton Curry Dal Thali,Tamil Nadu,Lunch,548,30.1,76.8,18.1,Non-Veg
+Fish Curry Salad Thali,Haryana,Lunch,745,29.7,116.9,25.3,Non-Veg
+Chicken Chettinad Roti Thali,Punjab,Lunch,647,20.6,105.0,20.8,Non-Veg
+Bamboo Style Mutton Curry Biryani (Veg),Nagaland,Lunch,826,44.9,133.0,29.0,Non-Veg
+Mutton Curry Pulav With Salad,Tamil Nadu,Lunch,794,38.2,112.6,27.0,Non-Veg
+Vangi Style Fish Curry Biryani (Veg),Maharashtra,Lunch,731,31.5,104.2,20.8,Non-Veg
+Fish Pulav Pulav With Salad,Odisha,Lunch,660,38.7,104.5,17.7,Non-Veg
+Chicken Curry Curd Thali,Meghalaya,Lunch,857,44.5,107.9,27.4,Non-Veg
+Fish Curry Poriyal Thali,Kerala,Lunch,613,42.3,83.9,19.9,Non-Veg
+Katancha Egg Curry Curry With Rice,Andhra Pradesh,Lunch,608,26.1,94.5,14.1,Non-Veg
+Bathua Fish Pulav Curry With Rice,Haryana,Lunch,692,40.3,81.7,19.8,Non-Veg
+Mutton Curry Pulav With Salad,Assam,Lunch,799,39.6,104.1,29.8,Non-Veg
+Baingan Roasted Fish With Rice Curry With Rice,Bihar,Lunch,827,24.6,121.4,23.6,Non-Veg
+Uttarakhand Egg Curry With Rasam,Uttarakhand,Lunch,513,25.4,79.7,18.2,Non-Veg
+Sarson Chicken Chettinad Curry With Rice,Punjab,Lunch,671,28.6,99.9,25.9,Non-Veg
+Bajra Egg Curry Curry With Rice,Punjab,Lunch,746,23.5,103.8,23.2,Non-Veg
+Chila Chicken Curry Curry With Rice,Chhattisgarh,Lunch,619,21.7,98.3,16.6,Non-Veg
+Bamboo Fish Curry Curry With Rice,Nagaland,Lunch,601,23.7,70.4,16.0,Non-Veg
+Mui Chicken Curry Curry With Rice,Tripura,Lunch,646,26.1,88.7,19.0,Non-Veg
+Chicken Chettinad Chapati Thali,Andhra Pradesh,Lunch,691,32.6,79.8,23.7,Non-Veg
+Mutton Biryani Salad Thali,Jammu and Kashmir,Lunch,798,22.1,93.4,18.6,Non-Veg
+Kahwa Style Fish Curry Biryani (Veg),Jammu and Kashmir,Lunch,814,36.8,117.3,22.4,Non-Veg
+Bathua Mutton Curry Curry With Rice,Haryana,Lunch,828,33.7,127.8,20.4,Non-Veg
+Roasted Fish With Rice Roti Thali,Odisha,Lunch,536,29.3,67.4,18.2,Non-Veg
+Chicken Curry Pulav With Salad,Gujarat,Lunch,599,21.4,96.1,17.6,Non-Veg
+Uttar Pradesh Chicken Biryani With Curd,Uttar Pradesh,Lunch,647,38.5,75.9,22.9,Non-Veg
+Fish Pulav Pulav With Salad,Tamil Nadu,Lunch,661,21.9,84.9,21.2,Non-Veg
+Telangana Chicken Curry With Poriyal,Telangana,Lunch,605,41.2,83.8,14.7,Non-Veg
+Chaat Mutton Curry Curry With Rice,Delhi,Lunch,618,41.7,87.7,15.6,Non-Veg
+Patal Chicken Curry Curry With Rice,Maharashtra,Lunch,514,22.4,74.9,16.7,Non-Veg
+Kerala Fish Curry With Salad,Kerala,Lunch,657,25.2,92.8,16.7,Non-Veg
+Sael Mutton Curry Curry With Rice,Sikkim,Lunch,559,39.9,67.3,19.3,Non-Veg
+Chicken Biryani Pulav With Salad,Punjab,Lunch,610,27.6,83.9,16.6,Non-Veg
+Pumaloi Style Egg Curry Biryani (Veg),Meghalaya,Lunch,588,26.6,81.2,17.3,Non-Veg
+Punjab Mutton Curry With Pickle,Punjab,Lunch,723,38.8,104.4,21.8,Non-Veg
+Kand Prawn Masala Curry With Rice,Uttarakhand,Lunch,820,29.0,117.7,29.6,Non-Veg
+West Bengal Fish Pulav With Chapati,West Bengal,Lunch,696,44.5,92.4,24.9,Non-Veg
+Chila Fish Curry Curry With Rice,Chhattisgarh,Lunch,580,29.2,72.4,19.1,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Kerala,Lunch,636,31.8,103.1,16.5,Non-Veg
+Litti Roasted Fish With Rice Curry With Rice,Bihar,Lunch,898,44.8,113.2,31.4,Non-Veg
+Chicken Biryani Raita Thali,Odisha,Lunch,797,37.5,117.5,23.1,Non-Veg
+Vawksa Style Roasted Fish With Rice Biryani (Veg),Mizoram,Lunch,578,27.2,90.4,19.7,Non-Veg
+Litti Style Mutton Biryani Biryani (Veg),Bihar,Lunch,673,31.9,81.0,20.1,Non-Veg
+Fish Pulav Raita Thali,Sikkim,Lunch,638,25.3,92.8,18.5,Non-Veg
+Bimmas Style Egg Curry Biryani (Veg),Telangana,Lunch,621,35.4,93.2,21.7,Non-Veg
+Chicken Chettinad Chutney Thali,Meghalaya,Lunch,625,20.6,95.5,18.8,Non-Veg
+Modur Style Chicken Curry Biryani (Veg),Jammu and Kashmir,Lunch,640,34.3,75.8,24.7,Non-Veg
+Fish Pulav Roti Thali,Haryana,Lunch,900,39.3,119.1,24.8,Non-Veg
+Mooli Style Mutton Curry Biryani (Veg),Punjab,Lunch,651,28.6,86.4,24.4,Non-Veg
+Gujarat Roasted Fish With Rice With Curd,Gujarat,Lunch,799,41.5,113.4,29.7,Non-Veg
+Kadala Fish Pulav Curry With Rice,Odisha,Lunch,817,30.2,132.3,18.5,Non-Veg
+Chicken Chettinad Pickle Thali,Manipur,Lunch,807,22.8,95.0,23.2,Non-Veg
+Batata Style Chicken Biryani Biryani (Veg),Maharashtra,Lunch,897,38.0,126.4,24.0,Non-Veg
+Chhattisgarh Chicken Curry With Raita,Chhattisgarh,Lunch,639,44.3,78.8,24.0,Non-Veg
+Mutton Biryani Dal Thali,Odisha,Lunch,644,21.1,90.6,22.9,Non-Veg
+Punjab Fish Curry With Poriyal,Punjab,Lunch,807,25.4,93.8,21.3,Non-Veg
+Jammu And Kashmir Fish Curry With Sambar,Jammu and Kashmir,Lunch,796,36.4,113.0,26.4,Non-Veg
+Mizoram Chicken Curry With Steamed Rice,Mizoram,Lunch,519,23.8,73.0,19.2,Non-Veg
+Delhi Fish Pulav With Dal,Delhi,Lunch,882,44.1,137.9,28.5,Non-Veg
+Egg Curry Roti Thali,Rajasthan,Lunch,632,32.5,94.6,17.5,Non-Veg
+Egg Curry Raita Thali,Jammu and Kashmir,Lunch,601,21.9,69.5,18.1,Non-Veg
+Fish Curry Pulav With Salad,Manipur,Lunch,778,29.6,90.6,27.5,Non-Veg
+Chicken Curry Papad Thali,Delhi,Lunch,502,24.0,79.9,15.8,Non-Veg
+Momos Fish Curry Curry With Rice,Sikkim,Lunch,773,31.5,111.4,21.3,Non-Veg
+Himachal Pradesh Mutton Biryani With Raita,Himachal Pradesh,Lunch,743,41.2,97.3,21.2,Non-Veg
+Fish Pulav Chutney Thali,Delhi,Lunch,783,39.7,91.2,29.4,Non-Veg
+Xaak Style Egg Curry Biryani (Veg),Assam,Lunch,562,39.6,91.3,14.1,Non-Veg
+Sikkim Mutton Curry With Salad,Sikkim,Lunch,538,37.7,62.7,15.0,Non-Veg
+Chicken Curry Pulav With Salad,Uttar Pradesh,Lunch,838,24.6,97.1,26.3,Non-Veg
+Mooli Chicken Biryani Curry With Rice,Punjab,Lunch,887,36.4,132.6,32.9,Non-Veg
+Kothavarangai Mutton Curry Curry With Rice,Tamil Nadu,Lunch,533,43.4,72.4,16.7,Non-Veg
+Bamboo Roasted Fish With Rice Curry With Rice,Tripura,Lunch,718,29.8,90.9,22.8,Non-Veg
+Jharkhand Prawn Masala With Pickle,Jharkhand,Lunch,802,44.8,118.3,22.4,Non-Veg
+Maharashtra Mutton Biryani With Curd,Maharashtra,Lunch,706,23.3,102.5,20.5,Non-Veg
+Himachal Pradesh Egg Curry With Sambar,Himachal Pradesh,Lunch,760,36.2,122.0,27.8,Non-Veg
+Makki Style Chicken Curry Biryani (Veg),Punjab,Lunch,502,20.1,72.5,18.0,Non-Veg
+Pakhala Style Chicken Chettinad Biryani (Veg),Odisha,Lunch,888,22.5,105.9,21.8,Non-Veg
+Fish Pulav Dal Thali,Assam,Lunch,556,23.0,86.7,18.5,Non-Veg
+Prawn Masala Curd Thali,Telangana,Lunch,589,33.9,74.6,18.4,Non-Veg
+Chicken Biryani Raita Thali,Assam,Lunch,810,34.8,103.2,18.0,Non-Veg
+Avarekai Style Chicken Curry Biryani (Veg),Karnataka,Lunch,559,25.7,87.8,13.4,Non-Veg
+Katancha Prawn Masala Curry With Rice,Andhra Pradesh,Lunch,599,28.0,90.7,17.7,Non-Veg
+Soppu Style Mutton Curry Biryani (Veg),Telangana,Lunch,723,27.2,104.5,27.3,Non-Veg
+Shorshe Style Mutton Biryani Biryani (Veg),West Bengal,Lunch,768,26.0,91.3,24.0,Non-Veg
+Delhi Fish Curry With Chutney,Delhi,Lunch,647,42.8,95.8,17.9,Non-Veg
+Kheera Style Fish Curry Biryani (Veg),Haryana,Lunch,890,32.8,140.5,33.6,Non-Veg
+Egg Curry Pulav With Salad,Punjab,Lunch,647,38.3,93.1,20.3,Non-Veg
+Modak Style Fish Curry Biryani (Veg),Maharashtra,Lunch,511,29.6,76.8,15.6,Non-Veg
+Himachal Pradesh Chicken Chettinad With Papad,Himachal Pradesh,Lunch,799,39.3,116.6,19.1,Non-Veg
+Roasted Fish With Rice Pulav With Salad,Punjab,Lunch,706,34.9,79.9,25.3,Non-Veg
+Kahwa Chicken Biryani Curry With Rice,Jammu and Kashmir,Lunch,803,34.3,118.4,18.1,Non-Veg
+Egg Curry Chapati Thali,Mizoram,Lunch,714,35.1,95.7,23.5,Non-Veg
+Mosdeng Egg Curry Curry With Rice,Tripura,Lunch,778,30.7,102.2,26.7,Non-Veg
+Chicken Biryani Pulav With Salad,Bihar,Lunch,731,38.9,95.8,27.1,Non-Veg
+Soppu Fish Pulav Curry With Rice,Karnataka,Lunch,547,43.2,73.0,17.3,Non-Veg
+Bajre Style Roasted Fish With Rice Biryani (Veg),Haryana,Lunch,612,35.9,84.5,15.6,Non-Veg
+Jitok Style Fish Pulav Biryani (Veg),Nagaland,Lunch,813,41.2,103.5,22.1,Non-Veg
+Mutton Biryani Roti Thali,Mizoram,Lunch,772,27.0,94.0,26.7,Non-Veg
+Egg Curry Salad Thali,Uttarakhand,Lunch,502,39.2,63.4,15.0,Non-Veg
+Telangana Egg Curry With Pickle,Telangana,Lunch,703,35.0,90.6,19.6,Non-Veg
+Poha Style Egg Curry Biryani (Veg),Madhya Pradesh,Lunch,755,34.1,99.2,18.8,Non-Veg
+Chicken Biryani Pulav With Salad,Maharashtra,Lunch,613,36.4,88.0,17.1,Non-Veg
+Malpua Egg Curry Curry With Rice,Jharkhand,Lunch,664,36.0,105.3,16.3,Non-Veg
+Bihar Prawn Masala With Sambar,Bihar,Lunch,809,30.9,98.4,29.9,Non-Veg
+Jharkhand Roasted Fish With Rice With Curd,Jharkhand,Lunch,748,27.4,90.0,18.4,Non-Veg
+Pappu Chicken Curry Curry With Rice,Telangana,Lunch,777,43.2,94.3,18.8,Non-Veg
+Chak-Hao Style Prawn Masala Biryani (Veg),Manipur,Lunch,809,25.2,125.7,29.2,Non-Veg
+Prawn Masala Roti Thali,Bihar,Lunch,610,23.0,75.7,15.2,Non-Veg
+Kakka Style Egg Curry Biryani (Veg),Kerala,Lunch,577,21.1,67.7,18.4,Non-Veg
+Kerala Chicken Curry With Curd,Kerala,Lunch,797,36.2,106.8,22.7,Non-Veg
+Chicken Curry Pulav With Salad,Haryana,Lunch,616,20.0,93.8,17.2,Non-Veg
+Prawn Masala Chutney Thali,Meghalaya,Lunch,833,35.7,113.1,29.4,Non-Veg
+Vawksa Fish Curry Curry With Rice,Mizoram,Lunch,725,38.3,111.9,21.5,Non-Veg
+Dohneiiong Style Fish Curry Biryani (Veg),Meghalaya,Lunch,600,36.9,88.5,14.4,Non-Veg
+Mutton Biryani Pulav With Salad,Karnataka,Lunch,719,28.5,93.3,23.9,Non-Veg
+Sikkim Fish Pulav With Sambar,Sikkim,Lunch,581,33.8,89.2,19.2,Non-Veg
+Assam Chicken Chettinad With Steamed Rice,Assam,Lunch,869,35.6,104.5,22.9,Non-Veg
+Fish Pulav Raita Thali,Assam,Lunch,577,25.0,78.9,18.0,Non-Veg
+Chhattisgarh Mutton Curry With Poriyal,Chhattisgarh,Lunch,764,38.0,110.7,21.7,Non-Veg
+Rajasthan Mutton Biryani With Salad,Rajasthan,Lunch,810,27.8,92.0,18.4,Non-Veg
+Prawn Masala Pulav With Salad,Nagaland,Lunch,791,38.8,111.3,26.8,Non-Veg
+Delhi Prawn Masala With Curd,Delhi,Lunch,723,28.6,105.1,22.1,Non-Veg
+Litti Style Fish Pulav Biryani (Veg),Bihar,Lunch,886,44.1,131.3,21.2,Non-Veg
+Chicken Chettinad Poriyal Thali,Manipur,Lunch,791,21.8,128.0,29.4,Non-Veg
+Chicken Chettinad Chutney Thali,Himachal Pradesh,Lunch,898,26.9,140.1,32.1,Non-Veg
+Chicken Biryani Poriyal Thali,Meghalaya,Lunch,594,30.8,92.5,21.9,Non-Veg
+Delhi Chicken Biryani With Papad,Delhi,Lunch,643,27.9,83.4,24.6,Non-Veg
+Prawn Masala Pulav With Salad,Himachal Pradesh,Lunch,660,43.3,87.0,19.8,Non-Veg
+Chana Style Egg Curry Biryani (Veg),Odisha,Lunch,801,30.6,96.7,28.7,Non-Veg
+Fara Egg Curry Curry With Rice,Chhattisgarh,Lunch,708,35.6,90.8,27.0,Non-Veg
+Chila Style Mutton Curry Biryani (Veg),Chhattisgarh,Lunch,773,43.2,120.2,19.0,Non-Veg
+Chicken Curry Pulav With Salad,Manipur,Lunch,713,37.8,86.6,27.1,Non-Veg
+Nagaland Chicken Biryani With Papad,Nagaland,Lunch,898,25.4,131.8,24.0,Non-Veg
+Fish Curry Chutney Thali,Telangana,Lunch,723,41.7,105.1,26.9,Non-Veg
+Mutton Curry Papad Thali,Maharashtra,Lunch,781,44.6,114.8,28.5,Non-Veg
+Singju Chicken Curry Curry With Rice,Manipur,Lunch,790,31.6,123.5,22.5,Non-Veg
+Chaat Chicken Chettinad Curry With Rice,Delhi,Lunch,604,25.8,86.4,14.8,Non-Veg
+Sarson Style Mutton Biryani Biryani (Veg),Haryana,Lunch,598,31.1,89.1,14.8,Non-Veg
+Prawn Masala Pulav With Salad,Bihar,Lunch,766,30.7,86.3,17.9,Non-Veg
+Telangana Mutton Curry With Chapati,Telangana,Lunch,765,27.3,121.2,18.6,Non-Veg
+Mooli Style Egg Curry Biryani (Veg),Punjab,Lunch,716,41.2,104.7,20.5,Non-Veg
+Chicken Chettinad Rasam Thali,Meghalaya,Lunch,755,38.1,109.0,25.6,Non-Veg
+Baingan Chicken Curry Curry With Rice,Bihar,Lunch,722,41.9,102.9,16.3,Non-Veg
+Ghugni Fish Pulav Curry With Rice,West Bengal,Lunch,558,41.7,66.8,18.2,Non-Veg
+Sawhchiar Style Fish Curry Biryani (Veg),Mizoram,Lunch,834,44.2,130.3,19.6,Non-Veg
+Singodi Chicken Biryani Curry With Rice,Uttarakhand,Lunch,676,39.7,94.0,22.8,Non-Veg
+Mui Style Chicken Curry Biryani (Veg),Tripura,Lunch,875,32.7,126.4,30.1,Non-Veg
+Chakko Egg Curry Curry With Rice,Kerala,Lunch,531,26.8,61.4,15.4,Non-Veg
+Bhatt Chicken Chettinad Curry With Rice,Uttarakhand,Lunch,669,24.8,96.5,16.0,Non-Veg
+Goa Prawn Sukka Chaat,Goa,Snack,231,28.8,26.6,5.3,Non-Veg
+Phagshapa Chicken Tikka Roll Fritters,Sikkim,Snack,247,27.0,29.1,9.0,Non-Veg
+Poha Chicken 65 Cutlet,Madhya Pradesh,Snack,159,23.9,21.6,5.9,Non-Veg
+Mutton Samosa & Chutney (Mirapakaya),Andhra Pradesh,Snack,315,37.6,43.1,7.5,Non-Veg
+Kosambari Chicken Tikka Roll Cutlet,Karnataka,Snack,354,32.9,47.3,8.4,Non-Veg
+Mutton Samosa Rolls,Chhattisgarh,Snack,338,37.8,41.4,8.6,Non-Veg
+Chicken Tikka Roll Rolls,Odisha,Snack,371,20.7,59.7,11.6,Non-Veg
+Cholar Fish Cutlet Cutlet,West Bengal,Snack,167,34.7,22.3,4.9,Non-Veg
+Saaru Chicken 65 Cutlet,Telangana,Snack,213,34.5,30.3,7.4,Non-Veg
+Maharashtra Egg Pakora Chaat,Maharashtra,Snack,186,22.4,29.3,6.3,Non-Veg
+Baingan Chicken 65 Fritters,Uttar Pradesh,Snack,288,40.4,45.8,8.5,Non-Veg
+Assam Chicken 65 Chaat,Assam,Snack,151,23.8,20.9,3.9,Non-Veg
+Keema Samosa Rolls,Uttarakhand,Snack,260,34.8,39.8,6.7,Non-Veg
+Baingan Chicken Tikka Roll Cutlet,Uttar Pradesh,Snack,182,41.9,23.8,5.0,Non-Veg
+Mirapakaya Fish Cutlet Fritters,Andhra Pradesh,Snack,390,42.9,54.3,12.3,Non-Veg
+Pitha Fish Cutlet Fritters,Assam,Snack,292,41.6,45.2,11.1,Non-Veg
+Mutton Samosa Rolls,Meghalaya,Snack,180,42.0,24.8,4.4,Non-Veg
+Prawn Sukka Rolls,Telangana,Snack,150,39.5,17.3,4.4,Non-Veg
+Ragi Fish Cutlet Fritters,Karnataka,Snack,369,27.0,45.1,12.4,Non-Veg
+Bora Fish Cutlet Fritters,Assam,Snack,273,41.2,40.2,8.1,Non-Veg
+Chicken Tikka Roll & Chutney (Pitha),Assam,Snack,298,34.6,40.6,8.5,Non-Veg
+Chicken 65 Rolls,Tripura,Snack,253,39.2,33.6,5.8,Non-Veg
+Prawn Sukka Rolls,Jharkhand,Snack,223,39.5,25.3,7.2,Non-Veg
+West Bengal Fish Cutlet Chaat,West Bengal,Snack,247,37.1,32.3,8.7,Non-Veg
+Jharkhand Fish Cutlet Chaat,Jharkhand,Snack,169,39.0,21.1,5.5,Non-Veg
+Kothavarangai Mutton Samosa Fritters,Tamil Nadu,Snack,272,36.8,36.3,9.5,Non-Veg
+Mutton Samosa & Chutney (Baingan),Uttar Pradesh,Snack,159,38.6,18.7,3.7,Non-Veg
+Tripura Keema Samosa Chaat,Tripura,Snack,279,20.8,37.0,8.8,Non-Veg
+Chakhwi Fish Cutlet Cutlet,Tripura,Snack,266,41.6,42.1,6.8,Non-Veg
+Egg Pakora & Chutney (Lauki),Uttar Pradesh,Snack,241,32.3,28.2,6.1,Non-Veg
+Chicken 65 Rolls,Haryana,Snack,359,26.3,44.7,13.3,Non-Veg
+Mutton Samosa Rolls,Goa,Snack,357,23.9,55.8,8.5,Non-Veg
+Assam Prawn Sukka Chaat,Assam,Snack,187,39.5,22.4,5.4,Non-Veg
+Egg Pakora & Chutney (Arbi),Uttar Pradesh,Snack,321,23.2,36.2,11.5,Non-Veg
+Tripura Prawn Sukka Chaat,Tripura,Snack,320,21.2,40.9,11.1,Non-Veg
+Tungrymbai Chicken Tikka Roll Cutlet,Meghalaya,Snack,293,39.1,37.1,10.5,Non-Veg
+Chicken Tikka Roll Rolls,Assam,Snack,375,36.1,55.8,14.5,Non-Veg
+Uttar Pradesh Mutton Samosa Chaat,Uttar Pradesh,Snack,345,40.8,42.3,7.7,Non-Veg
+Siddu Chicken Tikka Roll Fritters,Himachal Pradesh,Snack,284,40.5,40.3,6.6,Non-Veg
+Poha Chicken 65 Fritters,Madhya Pradesh,Snack,368,40.6,59.2,9.2,Non-Veg
+Gundruk Fish Cutlet Cutlet,Sikkim,Snack,289,42.0,41.2,7.3,Non-Veg
+Chicken Tikka Roll & Chutney (Chak-Hao),Manipur,Snack,330,25.5,44.4,9.7,Non-Veg
+Keema Samosa Rolls,Rajasthan,Snack,384,36.1,53.0,13.7,Non-Veg
+Fish Cutlet Rolls,Telangana,Snack,368,44.6,55.4,10.0,Non-Veg
+Sabji Prawn Sukka Cutlet,Madhya Pradesh,Snack,383,37.9,44.5,13.8,Non-Veg
+Fish Cutlet & Chutney (Pitha),Assam,Snack,224,44.5,26.3,7.2,Non-Veg
+Pappu Prawn Sukka Cutlet,Andhra Pradesh,Snack,305,25.8,49.5,10.5,Non-Veg
+Shorshe Prawn Sukka Fritters,West Bengal,Snack,259,32.0,40.4,8.0,Non-Veg
+Assam Mutton Samosa Chaat,Assam,Snack,254,43.2,34.1,7.9,Non-Veg
+Eromba Prawn Sukka Cutlet,Manipur,Snack,317,29.9,48.0,10.4,Non-Veg
+Madhya Pradesh Mutton Samosa Chaat,Madhya Pradesh,Snack,258,30.8,34.8,9.3,Non-Veg
+Chicken Tikka Roll & Chutney (Ambot),Goa,Snack,251,22.1,33.2,9.0,Non-Veg
+Fish Cutlet & Chutney (Modak),Maharashtra,Snack,287,44.2,32.3,7.8,Non-Veg
+Badi Fish Cutlet Cutlet,Chhattisgarh,Snack,184,28.1,26.4,5.6,Non-Veg
+Soppu Mutton Samosa Cutlet,Telangana,Snack,225,20.6,34.7,8.4,Non-Veg
+Prawn Sukka & Chutney (Shorshe),West Bengal,Snack,386,21.8,57.1,14.6,Non-Veg
+Keema Samosa Rolls,Andhra Pradesh,Snack,234,32.1,33.1,7.4,Non-Veg
+Fish Cutlet & Chutney (Bajra),Punjab,Snack,355,22.3,49.4,8.4,Non-Veg
+Mirapakaya Keema Samosa Cutlet,Andhra Pradesh,Snack,164,41.8,21.4,3.8,Non-Veg
+Tripura Chicken 65 Chaat,Tripura,Snack,330,36.0,45.8,9.8,Non-Veg
+Makki Mutton Samosa Cutlet,Punjab,Snack,209,36.1,31.6,6.7,Non-Veg
+Sundakkai Chicken Tikka Roll Fritters,Tamil Nadu,Snack,153,21.6,21.1,5.5,Non-Veg
+Kosha Mutton Samosa Cutlet,Kerala,Snack,252,36.5,35.9,6.2,Non-Veg
+Maharashtra Fish Cutlet Chaat,Maharashtra,Snack,203,40.5,29.3,4.6,Non-Veg
+Patal Chicken Tikka Roll Fritters,Maharashtra,Snack,155,43.5,23.7,5.5,Non-Veg
+Mutton Samosa Rolls,Uttarakhand,Snack,356,34.4,46.5,10.7,Non-Veg
+Tungrymbai Prawn Sukka Cutlet,Meghalaya,Snack,276,42.1,40.6,9.8,Non-Veg
+Anda Egg Pakora Cutlet,Mizoram,Snack,244,42.5,35.7,9.1,Non-Veg
+Chicken Tikka Roll Rolls,Punjab,Snack,242,36.1,30.3,6.9,Non-Veg
+Bajra Egg Pakora Fritters,Punjab,Snack,259,42.4,41.8,8.6,Non-Veg
+Egg Pakora & Chutney (Dalma),Odisha,Snack,373,26.7,45.7,10.1,Non-Veg
+Nagaland Keema Samosa Chaat,Nagaland,Snack,391,30.7,47.1,11.4,Non-Veg
+Fish Cutlet Rolls,Assam,Snack,230,26.0,26.2,7.7,Non-Veg
+Tilkut Mutton Samosa Cutlet,Madhya Pradesh,Snack,386,32.7,55.2,10.1,Non-Veg
+Prawn Sukka Rolls,Mizoram,Snack,318,40.7,39.8,8.4,Non-Veg
+Mutton Samosa & Chutney (Smoked),Nagaland,Snack,241,20.6,35.8,6.6,Non-Veg
+Chicken Tikka Roll Rolls,Tamil Nadu,Snack,384,44.6,54.8,9.8,Non-Veg
+Prawn Sukka Rolls,Kerala,Snack,275,42.7,42.5,8.8,Non-Veg
+Sarson Prawn Sukka Cutlet,Punjab,Snack,386,20.7,51.6,10.7,Non-Veg
+Shorshe Chicken Tikka Roll Cutlet,West Bengal,Snack,326,37.4,36.8,12.6,Non-Veg
+Tamil Nadu Prawn Sukka Chaat,Tamil Nadu,Snack,203,28.6,31.8,5.0,Non-Veg
+Bafla Chicken 65 Cutlet,Madhya Pradesh,Snack,308,41.5,46.3,7.8,Non-Veg
+Tungrymbai Prawn Sukka Fritters,Meghalaya,Snack,318,28.8,36.2,12.3,Non-Veg
+Vangi Mutton Samosa Cutlet,Maharashtra,Snack,188,33.8,29.1,5.4,Non-Veg
+Batata Keema Samosa Cutlet,Maharashtra,Snack,284,29.1,35.1,7.2,Non-Veg
+Bora Prawn Sukka Cutlet,Tripura,Snack,394,22.0,56.8,11.6,Non-Veg
+Keema Samosa & Chutney (Chakko),Kerala,Snack,232,22.3,31.6,8.6,Non-Veg
+Kheera Egg Pakora Cutlet,Haryana,Snack,206,37.2,30.4,7.7,Non-Veg
+Fish Cutlet Rolls,Odisha,Snack,256,31.4,32.0,6.8,Non-Veg
+Andhra Pradesh Keema Samosa Chaat,Andhra Pradesh,Snack,362,31.9,58.2,12.4,Non-Veg
+Mizoram Keema Samosa Chaat,Mizoram,Snack,194,38.8,22.1,5.1,Non-Veg
+Chicken 65 Rolls,Andhra Pradesh,Snack,300,35.5,34.6,9.5,Non-Veg
+Chicken 65 Rolls,Karnataka,Snack,386,35.5,49.9,9.1,Non-Veg
+Smoked Mutton Samosa Fritters,Nagaland,Snack,332,28.2,47.6,10.6,Non-Veg
+Telangana Keema Samosa Chaat,Telangana,Snack,323,40.1,51.6,12.3,Non-Veg
+Gujarat Egg Pakora Chaat,Gujarat,Snack,395,21.0,54.4,14.4,Non-Veg
+Soppu Prawn Sukka Cutlet,Karnataka,Snack,244,35.2,30.4,6.6,Non-Veg
+Kerala Keema Samosa Chaat,Kerala,Snack,210,22.7,26.3,6.3,Non-Veg
+Egg Pakora Rolls,Mizoram,Snack,305,35.2,36.0,8.5,Non-Veg
+Bore Chicken Tikka Roll Cutlet,Chhattisgarh,Snack,283,41.3,34.7,7.7,Non-Veg
+Dalma Chicken 65 Cutlet,Odisha,Snack,376,21.0,54.6,9.3,Non-Veg
+Prawn Sukka Rolls,Andhra Pradesh,Snack,381,39.6,49.3,8.9,Non-Veg
+Madhya Pradesh Fish Cutlet Chaat,Madhya Pradesh,Snack,186,37.1,21.7,4.3,Non-Veg
+Goa Mutton Samosa Chaat,Goa,Snack,175,34.8,21.8,5.5,Non-Veg
+Bengalgram Keema Samosa Cutlet,Karnataka,Snack,267,30.9,36.5,9.4,Non-Veg
+Fish Cutlet & Chutney (Ghugni),West Bengal,Snack,274,20.0,39.6,7.7,Non-Veg
+Prawn Sukka & Chutney (Dhuska),Jharkhand,Snack,164,26.4,21.1,3.7,Non-Veg
+Maharashtra Chicken Tikka Roll Chaat,Maharashtra,Snack,212,34.0,29.7,4.8,Non-Veg
+Surti Prawn Sukka Cutlet,Gujarat,Snack,302,27.9,40.0,10.5,Non-Veg
+Kakka Fish Cutlet Fritters,Kerala,Snack,349,38.0,42.9,10.1,Non-Veg
+Bora Mutton Samosa Cutlet,Tripura,Snack,287,37.8,34.4,10.2,Non-Veg
+Haakh Chicken 65 Fritters,Jammu and Kashmir,Snack,362,33.7,43.1,9.1,Non-Veg
+Chakko Keema Samosa Cutlet,Kerala,Snack,221,29.4,26.0,6.1,Non-Veg
+Saaru Chicken Tikka Roll Fritters,Telangana,Snack,290,24.2,44.2,7.3,Non-Veg
+Mizoram Chicken 65 Chaat,Mizoram,Snack,249,33.1,37.0,8.2,Non-Veg
+Soppu Mutton Samosa Fritters,Rajasthan,Snack,323,36.7,37.7,12.2,Non-Veg
+Odisha Mutton Samosa Chaat,Odisha,Snack,240,23.2,30.1,8.2,Non-Veg
+Chicken Tikka Roll Rolls,Mizoram,Snack,261,26.0,36.7,9.6,Non-Veg
+Keema Samosa & Chutney (Vendakkai),Tamil Nadu,Snack,196,25.4,22.1,5.6,Non-Veg
+Chicken Tikka Roll & Chutney (Bai),Mizoram,Snack,354,36.1,46.2,13.4,Non-Veg
+Chicken 65 Rolls,Odisha,Snack,238,28.5,36.6,7.7,Non-Veg
+Mutton Samosa Rolls,Madhya Pradesh,Snack,264,38.4,40.4,8.9,Non-Veg
+Chicken 65 & Chutney (Kang),Manipur,Snack,366,30.6,51.9,10.6,Non-Veg
+Bhinda Mutton Samosa Fritters,Gujarat,Snack,272,38.7,41.8,6.3,Non-Veg
+Nagaland Fish Cutlet Chaat,Nagaland,Snack,396,21.7,50.4,11.4,Non-Veg
+Fish Cutlet Rolls,Bihar,Snack,205,20.0,32.8,4.9,Non-Veg
+Kaju Fish Cutlet Fritters,Goa,Snack,338,30.5,53.0,9.9,Non-Veg
+Pitha Chicken Tikka Roll Cutlet,Assam,Snack,287,44.4,37.8,8.8,Non-Veg
+Assam Chicken Tikka Roll Chaat,Assam,Snack,349,44.0,39.3,9.4,Non-Veg
+Mutton Samosa & Chutney (Vellarikka),Rajasthan,Snack,336,25.7,52.0,11.8,Non-Veg
+Chhattisgarh Fish Cutlet Chaat,Chhattisgarh,Snack,314,24.2,50.0,9.0,Non-Veg
+Dhuska Fish Cutlet Cutlet,Jharkhand,Snack,162,29.4,25.8,4.0,Non-Veg
+Chicken Tikka Roll & Chutney (Bendakaya),Andhra Pradesh,Snack,281,23.9,38.4,8.7,Non-Veg
+Chicken Tikka Roll & Chutney (Vellarikai),Tamil Nadu,Snack,299,39.3,47.8,9.9,Non-Veg
+Keema Samosa Rolls,Delhi,Snack,284,35.3,43.2,9.8,Non-Veg
+Egg Pakora & Chutney (Phagshapa),Sikkim,Snack,307,31.2,43.8,8.4,Non-Veg
+Himachal Pradesh Keema Samosa Chaat,Himachal Pradesh,Snack,178,27.0,27.6,6.3,Non-Veg
+Egg Pakora & Chutney (Pakhala),Odisha,Snack,286,36.6,46.4,10.6,Non-Veg
+Keerai Mutton Samosa Fritters,Tamil Nadu,Snack,355,37.1,56.9,12.1,Non-Veg
+Odisha Keema Samosa Chaat,Odisha,Snack,362,22.4,51.5,14.0,Non-Veg
+Panta Keema Samosa Cutlet,West Bengal,Snack,371,38.8,43.7,11.9,Non-Veg
+Jharkhand Mutton Samosa Chaat,Jharkhand,Snack,168,22.2,25.9,4.3,Non-Veg
+Prawn Sukka & Chutney (Kulcha),Delhi,Snack,250,33.3,40.0,8.5,Non-Veg
+Chakhwi Fish Cutlet Fritters,Tripura,Snack,199,30.5,23.6,7.2,Non-Veg
+Mutton Samosa & Chutney (Kosambari),Karnataka,Snack,298,20.9,46.2,8.2,Non-Veg
+Malpua Keema Samosa Fritters,Jharkhand,Snack,191,35.0,28.6,5.4,Non-Veg
+Egg Pakora & Chutney (Sawhchiar),Mizoram,Snack,257,42.6,39.5,6.7,Non-Veg
+Chicken 65 & Chutney (Dhuska),Jharkhand,Snack,367,27.0,54.7,11.8,Non-Veg
+Gongura Fish Cutlet Cutlet,Telangana,Snack,357,26.8,55.0,12.1,Non-Veg
+Egg Pakora & Chutney (Batata),Maharashtra,Snack,365,44.5,58.4,9.7,Non-Veg
+Keema Samosa Rolls,Assam,Snack,196,37.7,26.0,4.5,Non-Veg
+Vawksa Chicken 65 Cutlet,Mizoram,Snack,230,29.7,34.8,7.4,Non-Veg
+Keema Samosa Rolls,Tamil Nadu,Snack,319,38.4,48.3,10.4,Non-Veg
+Chicken 65 Rolls,Sikkim,Snack,287,31.6,41.3,10.8,Non-Veg
+Chicken 65 & Chutney (Keera),Kerala,Snack,177,31.5,25.5,6.6,Non-Veg
+Tinda Prawn Sukka Fritters,Uttar Pradesh,Snack,166,21.7,20.4,6.4,Non-Veg
+Haryana Chicken Tikka Roll Chaat,Haryana,Snack,193,36.2,28.8,7.3,Non-Veg
+Prawn Sukka & Chutney (Mirapakaya),Andhra Pradesh,Snack,208,40.3,24.0,7.0,Non-Veg
+Rajasthan Fish Cutlet Chaat,Rajasthan,Snack,380,20.4,59.7,9.1,Non-Veg
+Dohneiiong Egg Pakora Cutlet,Meghalaya,Snack,344,44.3,53.7,9.2,Non-Veg
+Chak-Hao Prawn Sukka Fritters,Manipur,Snack,212,40.2,31.8,4.7,Non-Veg
+Egg Pakora Rolls,Jharkhand,Snack,378,43.4,44.8,13.0,Non-Veg
+Saga Prawn Sukka Fritters,Odisha,Snack,152,35.3,21.5,3.6,Non-Veg
+Assam Egg Pakora Chaat,Assam,Snack,330,21.6,40.3,7.5,Non-Veg
+Haryana Keema Samosa Chaat,Haryana,Snack,325,35.8,37.5,12.1,Non-Veg
+Batata Mutton Samosa Fritters,Maharashtra,Snack,201,28.0,25.8,5.4,Non-Veg
+Chicken 65 & Chutney (Zu),Nagaland,Snack,394,24.4,53.8,13.4,Non-Veg
+Fara Egg Pakora Fritters,Chhattisgarh,Snack,350,38.9,50.0,7.9,Non-Veg
+Jharkhand Keema Samosa Chaat,Jharkhand,Snack,317,35.8,38.0,7.1,Non-Veg
+Odisha Prawn Sukka Chaat,Odisha,Snack,219,30.3,26.8,6.0,Non-Veg
+Chicken 65 & Chutney (Ambot),Goa,Snack,203,31.8,23.9,7.7,Non-Veg
+Sarson Fish Cutlet Cutlet,Haryana,Snack,195,29.6,28.0,4.8,Non-Veg
+Tinda Egg Pakora Fritters,Uttar Pradesh,Snack,237,40.5,26.9,8.7,Non-Veg
+Keema Samosa & Chutney (Modak),Maharashtra,Snack,245,35.2,38.3,9.2,Non-Veg
+Mooli Prawn Sukka Fritters,Punjab,Snack,356,42.6,55.6,10.4,Non-Veg
+Lauki Fish Cutlet Cutlet,Uttar Pradesh,Snack,253,28.2,31.7,6.1,Non-Veg
+Jammu And Kashmir Chicken 65 Chaat,Jammu and Kashmir,Snack,354,34.7,44.7,11.1,Non-Veg
+Dalpithi Fish Cutlet Cutlet,Madhya Pradesh,Snack,306,36.1,44.6,9.4,Non-Veg
+Mutton Samosa Rolls,Odisha,Snack,298,26.5,33.8,10.1,Non-Veg
+Sabji Prawn Sukka Fritters,Madhya Pradesh,Snack,171,41.2,24.5,6.4,Non-Veg
+Karnataka Chicken Tikka Roll Chaat,Karnataka,Snack,388,43.6,45.6,11.2,Non-Veg
+Egg Pakora Rolls,Punjab,Snack,150,36.3,17.4,5.2,Non-Veg
+Chana Chicken Tikka Roll Fritters,Odisha,Snack,224,26.5,35.1,7.5,Non-Veg
+Siddu Egg Pakora Cutlet,Himachal Pradesh,Snack,350,30.2,54.4,11.1,Non-Veg
+Keerai Mutton Samosa Cutlet,Rajasthan,Snack,361,37.8,56.9,13.4,Non-Veg
+Chicken 65 Rolls,Meghalaya,Snack,287,34.7,45.2,10.2,Non-Veg
+Pappu Egg Pakora Fritters,Andhra Pradesh,Snack,400,41.6,62.2,12.5,Non-Veg
+Prawn Sukka Rolls,Delhi,Snack,343,29.4,52.8,10.6,Non-Veg
+Chicken Tikka Roll Rolls,Meghalaya,Snack,223,34.3,33.5,6.5,Non-Veg
+Kahwa Keema Samosa Fritters,Jammu and Kashmir,Snack,281,28.8,31.9,10.2,Non-Veg
+Sundakkai Keema Samosa Fritters,Tamil Nadu,Snack,297,29.4,38.4,11.4,Non-Veg
+Jharkhand Prawn Sukka Chaat,Jharkhand,Snack,314,43.0,48.8,7.7,Non-Veg
+Phagshapa Chicken 65 Cutlet,Sikkim,Snack,246,38.7,36.5,6.4,Non-Veg
+Jammu And Kashmir Chicken Tikka Roll Chaat,Jammu and Kashmir,Snack,262,37.0,30.6,8.9,Non-Veg
+Chicken Tikka Roll Rolls,Nagaland,Snack,227,27.0,29.6,6.8,Non-Veg
+Chicken 65 & Chutney (Kaju),Goa,Snack,217,39.6,34.9,7.9,Non-Veg
+Malpua Egg Pakora Cutlet,Jharkhand,Snack,332,28.4,47.1,12.1,Non-Veg
+Prawn Sukka Rolls,Madhya Pradesh,Snack,271,29.7,36.2,8.2,Non-Veg
+Tamil Nadu Egg Pakora Chaat,Tamil Nadu,Snack,269,28.9,34.4,8.0,Non-Veg
+Ringna Egg Pakora Fritters,Gujarat,Snack,346,25.2,52.4,8.0,Non-Veg
+Fara Chicken Tikka Roll Fritters,Chhattisgarh,Snack,339,20.8,45.1,9.8,Non-Veg
+Nagaland Chicken 65 Chaat,Nagaland,Snack,334,26.6,41.7,12.9,Non-Veg
+Egg Pakora Rolls,Meghalaya,Snack,394,24.5,48.3,13.2,Non-Veg
+Pakhala Mutton Samosa Fritters,Odisha,Snack,269,20.7,43.7,9.3,Non-Veg
+Chicken 65 & Chutney (Chhinam),Mizoram,Snack,252,40.8,40.9,6.0,Non-Veg
+Mirapakaya Prawn Sukka Cutlet,Andhra Pradesh,Snack,396,31.2,62.9,11.5,Non-Veg
+Bengalgram Egg Pakora Cutlet,Karnataka,Snack,386,22.3,55.8,12.7,Non-Veg
+Sanna Mutton Samosa Fritters,Goa,Snack,337,34.6,44.7,11.1,Non-Veg
+Keema Samosa Rolls,Meghalaya,Snack,307,20.4,40.3,7.5,Non-Veg
+Egg Pakora & Chutney (Karela),Bihar,Snack,284,36.0,32.9,9.7,Non-Veg
+Tripura Fish Cutlet Chaat,Tripura,Snack,297,37.6,40.8,11.1,Non-Veg
+Parathas Chicken Tikka Roll Cutlet,Delhi,Snack,211,35.6,28.2,7.9,Non-Veg
+Avarekai Egg Pakora Fritters,Karnataka,Snack,374,22.2,49.3,8.5,Non-Veg
+Egg Pakora Rolls,Assam,Snack,301,41.0,37.7,10.4,Non-Veg
+Goa Egg Pakora Chaat,Goa,Snack,371,27.6,44.1,9.4,Non-Veg
+Dhuska Egg Pakora Cutlet,Jharkhand,Snack,373,36.8,59.1,9.7,Non-Veg
+Egg Pakora Rolls,Odisha,Snack,202,22.3,24.8,5.7,Non-Veg
+Kadala Keema Samosa Cutlet,Odisha,Snack,203,43.8,32.3,7.1,Non-Veg
+West Bengal Prawn Sukka Chaat,West Bengal,Snack,304,28.2,47.5,10.8,Non-Veg
+Keema Samosa & Chutney (Keera),Kerala,Snack,376,36.9,60.6,14.1,Non-Veg
+Tsaman Mutton Samosa Cutlet,Jammu and Kashmir,Snack,364,42.2,56.7,10.4,Non-Veg
+Keema Samosa & Chutney (Aloo),West Bengal,Snack,202,43.6,23.7,5.2,Non-Veg
+Keema Samosa & Chutney (Haakh),Jammu and Kashmir,Snack,345,21.0,39.8,8.8,Non-Veg
+Kahwa Chicken Tikka Roll Cutlet,Jammu and Kashmir,Snack,182,37.6,29.4,4.6,Non-Veg
+Khatta Fish Cutlet Fritters,Himachal Pradesh,Snack,268,38.6,33.4,9.4,Non-Veg
+Bengalgram Chicken Tikka Roll Cutlet,Karnataka,Snack,213,22.1,33.4,6.0,Non-Veg
+Ringna Keema Samosa Fritters,Gujarat,Snack,159,24.7,24.3,4.3,Non-Veg
+Mutton Samosa & Chutney (Poha),Madhya Pradesh,Snack,175,42.3,25.1,6.5,Non-Veg
+Egg Pakora & Chutney (Kadala),Odisha,Snack,346,27.8,46.8,12.0,Non-Veg
+Tripura Mutton Samosa Chaat,Tripura,Snack,180,39.6,26.9,4.6,Non-Veg
+Chhattisgarh Chicken Tikka Roll Chaat,Chhattisgarh,Snack,218,28.5,25.1,6.0,Non-Veg
+Ragi Chicken 65 Fritters,Karnataka,Snack,384,37.4,50.5,12.6,Non-Veg
+Mui Chicken 65 Fritters,Tripura,Snack,336,33.2,40.0,11.2,Non-Veg
+Bimmas Keema Samosa Fritters,Telangana,Snack,256,40.6,40.6,6.3,Non-Veg
+Prawn Sukka Rolls,Karnataka,Snack,193,36.3,25.4,6.3,Non-Veg
+Mizoram Mutton Samosa Chaat,Mizoram,Snack,311,26.8,43.9,11.7,Non-Veg
+Ragi Prawn Sukka Fritters,Karnataka,Snack,208,23.5,31.7,6.8,Non-Veg
+Bhature Prawn Sukka Cutlet,Himachal Pradesh,Snack,291,35.7,33.5,7.4,Non-Veg
+Bimmas Chicken Tikka Roll Fritters,Telangana,Snack,236,35.4,35.2,6.2,Non-Veg
+Chicken 65 Rolls,Gujarat,Snack,239,22.2,30.9,8.9,Non-Veg
+Khlem Chicken Tikka Roll Cutlet,Meghalaya,Snack,155,37.7,18.6,5.1,Non-Veg
+Bhaji Mutton Samosa Fritters,Goa,Snack,291,20.7,44.3,10.5,Non-Veg
+Pittha Egg Pakora Fritters,Jharkhand,Snack,372,22.1,51.2,12.8,Non-Veg
+Egg Pakora Rolls,Goa,Snack,202,20.9,31.8,5.6,Non-Veg
+Bamboo Mutton Samosa Cutlet,Nagaland,Snack,309,40.7,35.9,8.9,Non-Veg
+Kerala Mutton Samosa Chaat,Kerala,Snack,376,22.2,44.1,12.9,Non-Veg
+Chicken Tikka Roll & Chutney (Kand),Uttarakhand,Snack,280,20.4,36.1,9.8,Non-Veg
+Egg Pakora & Chutney (Jitok),Nagaland,Snack,336,26.1,40.6,11.5,Non-Veg
+Chaulai Egg Pakora Fritters,Haryana,Snack,216,31.5,30.4,5.0,Non-Veg
+Panta Fish Cutlet Cutlet,West Bengal,Snack,211,34.7,33.1,8.1,Non-Veg
+Keema Samosa & Chutney (Kothavarangai),Tamil Nadu,Snack,253,40.4,35.2,8.9,Non-Veg
+Makki Keema Samosa Cutlet,Punjab,Snack,188,34.8,22.7,6.6,Non-Veg
+Manipur Chicken 65 Chaat,Manipur,Snack,333,33.4,37.5,11.6,Non-Veg
+Goa Fish Cutlet Chaat,Goa,Snack,160,30.9,22.1,4.5,Non-Veg
+Kahwa Prawn Sukka Cutlet,Jammu and Kashmir,Snack,313,32.4,35.5,11.9,Non-Veg
+Egg Pakora & Chutney (Mooli),Punjab,Snack,337,27.0,43.4,10.7,Non-Veg
+Arbi Fish Cutlet Fritters,Uttar Pradesh,Snack,201,22.0,27.4,7.5,Non-Veg
+Ootti Keema Samosa Cutlet,Manipur,Snack,386,32.6,55.4,10.3,Non-Veg
+Mui Mutton Samosa Cutlet,Tripura,Snack,330,35.9,53.1,9.5,Non-Veg
+Fish Cutlet Rolls,Uttarakhand,Snack,364,38.7,43.1,11.8,Non-Veg
+Bora Mutton Samosa Cutlet,Assam,Snack,306,30.2,46.5,7.2,Non-Veg
+Keema Samosa Rolls,West Bengal,Snack,253,31.0,36.0,6.6,Non-Veg
+Jitok Chicken Tikka Roll Fritters,Nagaland,Snack,338,32.6,41.1,12.2,Non-Veg
+Bihar Keema Samosa Chaat,Bihar,Snack,233,34.4,33.8,5.8,Non-Veg
+Himachal Pradesh Egg Pakora Chaat,Himachal Pradesh,Snack,344,33.5,51.5,9.4,Non-Veg
+Pakhala Prawn Sukka Fritters,Odisha,Snack,373,32.7,42.6,8.3,Non-Veg
+Khandvi Fish Cutlet Cutlet,Gujarat,Snack,364,41.4,56.8,10.7,Non-Veg
+Egg Pakora & Chutney (Keerai),Rajasthan,Snack,274,22.6,35.6,7.3,Non-Veg
+Dalma Chicken Tikka Roll Cutlet,Odisha,Snack,378,29.8,54.1,11.2,Non-Veg
+Egg Pakora Rolls,Delhi,Snack,162,35.7,24.3,4.7,Non-Veg
+Bamboo Keema Samosa Cutlet,Tripura,Snack,177,35.0,21.3,5.5,Non-Veg
+Mutton Samosa Rolls,West Bengal,Snack,243,38.4,29.4,5.7,Non-Veg
+Gahat Egg Pakora Cutlet,Uttarakhand,Snack,370,20.5,50.8,10.3,Non-Veg
+Uttar Pradesh Chicken 65 Chaat,Uttar Pradesh,Snack,196,30.4,24.2,6.3,Non-Veg
+Mutton Samosa & Chutney (Baingan),Bihar,Snack,251,20.1,35.3,8.8,Non-Veg
+Saag Chicken 65 Fritters,Jharkhand,Snack,244,21.7,34.4,8.2,Non-Veg
+Chaulai Chicken Tikka Roll Cutlet,Haryana,Snack,236,25.2,27.7,8.9,Non-Veg
+Jharkhand Chicken 65 Chaat,Jharkhand,Snack,344,26.1,52.1,9.6,Non-Veg
+Chila Mutton Samosa Cutlet,Chhattisgarh,Snack,239,29.5,30.7,8.9,Non-Veg
+Bora Chicken Tikka Roll Cutlet,Assam,Snack,306,26.6,46.6,7.9,Non-Veg
+Punjab Egg Pakora Chaat,Punjab,Snack,318,32.3,41.1,9.2,Non-Veg
+Mui Fish Cutlet Cutlet,Tripura,Snack,242,34.8,32.9,9.4,Non-Veg
+Eromba Chicken Tikka Roll Fritters,Manipur,Snack,214,31.6,33.3,7.5,Non-Veg
+Jharkhand Egg Pakora Chaat,Jharkhand,Snack,327,33.4,39.0,9.2,Non-Veg
+Mutton Samosa & Chutney (Cholar),West Bengal,Snack,176,25.6,22.2,6.7,Non-Veg
+Momos Mutton Samosa Cutlet,Sikkim,Snack,234,41.9,30.7,6.0,Non-Veg
+Manipur Egg Pakora Chaat,Manipur,Snack,243,44.2,31.6,5.5,Non-Veg
+Prawn Sukka & Chutney (Vawksa),Mizoram,Snack,303,27.5,41.5,11.4,Non-Veg
+Sael Prawn Sukka Fritters,Sikkim,Snack,211,25.3,31.5,7.5,Non-Veg
+Egg Pakora Rolls,Sikkim,Snack,269,22.5,35.6,8.6,Non-Veg
+Dalpithi Prawn Sukka Fritters,Madhya Pradesh,Snack,321,34.7,47.7,11.4,Non-Veg
+Fish Cutlet Rolls,Tripura,Snack,346,30.1,41.0,7.8,Non-Veg
+Keema Samosa Rolls,Jharkhand,Snack,267,28.7,39.1,8.9,Non-Veg
+Vellari Keema Samosa Fritters,Kerala,Snack,390,29.6,55.0,12.9,Non-Veg
+Chicken Tikka Roll Rolls,Chhattisgarh,Snack,302,24.5,42.0,8.3,Non-Veg
+Andhra Pradesh Mutton Samosa Chaat,Andhra Pradesh,Snack,298,40.3,37.0,9.4,Non-Veg
+Vellarikka Egg Pakora Cutlet,Rajasthan,Snack,254,21.1,29.3,6.2,Non-Veg
+Fish Cutlet & Chutney (Bai),Mizoram,Snack,198,21.2,26.9,7.2,Non-Veg
+Modak Mutton Samosa Cutlet,Maharashtra,Snack,253,41.3,40.1,6.9,Non-Veg
+Keema Samosa & Chutney (Chakhwi),Tripura,Snack,393,37.4,54.4,8.9,Non-Veg
+Mui Keema Samosa Fritters,Tripura,Snack,334,25.7,43.7,10.9,Non-Veg
+Manipur Mutton Samosa Chaat,Manipur,Snack,392,26.6,59.4,9.2,Non-Veg
+Chicken 65 & Chutney (Singodi),Uttarakhand,Snack,176,22.2,20.9,4.3,Non-Veg
+Gujarat Keema Samosa Chaat,Gujarat,Snack,318,24.2,49.6,11.3,Non-Veg
+Chicken Tikka Roll & Chutney (Bengalgram),Karnataka,Snack,289,34.2,46.7,10.5,Non-Veg
+Pumaloi Chicken 65 Cutlet,Meghalaya,Snack,265,44.1,38.1,7.1,Non-Veg
+Chicken Tikka Roll & Chutney (Sanna),Goa,Snack,247,43.0,30.1,9.5,Non-Veg
+Mutton Samosa Rolls,Gujarat,Snack,287,39.5,36.3,8.8,Non-Veg
+Egg Pakora Rolls,Karnataka,Snack,392,21.9,57.1,10.3,Non-Veg
+Soppu Egg Pakora Cutlet,Rajasthan,Snack,197,31.1,27.5,7.4,Non-Veg
+Vendakkai Fish Cutlet Fritters,Tamil Nadu,Snack,385,27.3,60.8,8.9,Non-Veg
+Axone Chicken 65 Cutlet,Nagaland,Snack,317,32.1,49.0,10.4,Non-Veg
+Chicken Tikka Roll Rolls,Maharashtra,Snack,289,33.1,40.0,9.1,Non-Veg
+Ootti Egg Pakora Fritters,Manipur,Snack,206,21.1,32.3,6.9,Non-Veg
+Baingan Keema Samosa Cutlet,Bihar,Snack,215,35.4,29.2,5.2,Non-Veg
+Chicken Tikka Roll Rolls,Jharkhand,Snack,381,37.1,47.3,12.8,Non-Veg
+Karela Keema Samosa Cutlet,Bihar,Snack,334,37.7,45.7,7.5,Non-Veg
+Bajre Fish Cutlet Cutlet,Haryana,Snack,265,37.1,31.4,6.2,Non-Veg
+Egg Pakora & Chutney (Kulcha),Delhi,Snack,251,44.8,30.0,7.2,Non-Veg
+Sundakkai Mutton Samosa Cutlet,Tamil Nadu,Snack,386,26.2,55.0,12.7,Non-Veg
+Bihar Prawn Sukka Chaat,Bihar,Snack,353,20.1,42.8,10.3,Non-Veg
+Jitok Keema Samosa Fritters,Nagaland,Snack,266,29.2,33.6,6.0,Non-Veg
+Keema Samosa & Chutney (Kebabs (Veg)),Delhi,Snack,289,25.8,39.8,7.9,Non-Veg
+Keema Samosa & Chutney (Eromba),Manipur,Snack,242,31.2,37.9,6.7,Non-Veg
+Avarekai Mutton Samosa Cutlet,Karnataka,Snack,296,25.4,43.5,8.3,Non-Veg
+Kothavarangai Fish Cutlet Fritters,Tamil Nadu,Snack,188,42.8,23.4,4.4,Non-Veg
+Keema Samosa & Chutney (Anda),Mizoram,Snack,387,32.3,60.1,13.1,Non-Veg
+Muthiya Chicken Tikka Roll Cutlet,Gujarat,Snack,382,21.4,53.9,9.0,Non-Veg
+Prawn Sukka Rolls,Punjab,Snack,396,29.8,55.3,10.3,Non-Veg
+Prawn Sukka & Chutney (Shyaphale),Sikkim,Snack,211,31.2,29.6,5.1,Non-Veg
+Mutton Samosa Rolls,Jammu and Kashmir,Snack,261,41.4,29.5,7.0,Non-Veg
+Egg Pakora & Chutney (Bathua),Haryana,Snack,321,41.1,49.6,10.6,Non-Veg
+Assam Keema Samosa Chaat,Assam,Snack,195,26.6,29.7,6.8,Non-Veg
+Prawn Sukka Rolls,Nagaland,Snack,379,44.5,61.5,10.6,Non-Veg
+Chhinam Chicken Tikka Roll Cutlet,Mizoram,Snack,369,21.1,47.1,13.6,Non-Veg
+Madhya Pradesh Prawn Sukka Chaat,Madhya Pradesh,Snack,238,29.7,37.0,8.6,Non-Veg
+Patal Mutton Samosa Fritters,Maharashtra,Snack,378,43.5,58.0,12.9,Non-Veg
+Keema Samosa Rolls,Haryana,Snack,177,21.3,28.3,5.6,Non-Veg
+Egg Pakora Rolls,Bihar,Snack,340,28.8,44.1,8.4,Non-Veg
+Keema Samosa Rolls,Chhattisgarh,Snack,324,34.4,41.2,9.0,Non-Veg
+Manipur Chicken Tikka Roll Chaat,Manipur,Snack,279,26.4,40.9,8.7,Non-Veg
+Prawn Sukka Rolls,West Bengal,Snack,335,34.8,47.7,12.6,Non-Veg
+Prawn Sukka Rolls,Sikkim,Snack,183,43.3,27.7,5.5,Non-Veg
+Chicken 65 Rolls,Chhattisgarh,Snack,277,31.7,33.7,9.6,Non-Veg
+Bai Mutton Samosa Fritters,Mizoram,Snack,344,26.0,44.9,8.4,Non-Veg
+Haryana Fish Cutlet Chaat,Haryana,Snack,391,39.4,45.0,9.6,Non-Veg
+Keema Samosa Rolls,Punjab,Snack,208,37.0,23.4,6.7,Non-Veg
+Sikkim Fish Cutlet Chaat,Sikkim,Snack,375,29.8,56.8,12.1,Non-Veg
+Fish Cutlet & Chutney (Avarekai),Karnataka,Snack,333,40.9,38.0,9.5,Non-Veg
+Egg Pakora & Chutney (Chhole),Punjab,Snack,286,32.0,45.7,7.5,Non-Veg
+Chicken 65 & Chutney (Katancha),Andhra Pradesh,Snack,242,28.8,31.0,6.0,Non-Veg
+Jadoh Chicken Tikka Roll Cutlet,Meghalaya,Snack,344,44.8,55.4,9.7,Non-Veg
+Chak-Hao Fish Cutlet Fritters,Manipur,Snack,393,23.3,46.6,14.5,Non-Veg
+Siddu Mutton Samosa Fritters,Himachal Pradesh,Snack,381,28.2,50.5,11.1,Non-Veg
+Chicken 65 & Chutney (Bhinda),Gujarat,Snack,294,33.1,40.2,11.0,Non-Veg
+Chila Keema Samosa Fritters,Chhattisgarh,Snack,250,27.7,29.6,5.6,Non-Veg
+Fish Cutlet & Chutney (Vellari),Kerala,Snack,325,22.0,51.8,8.0,Non-Veg
+Batata Prawn Sukka Fritters,Maharashtra,Snack,242,27.4,38.7,5.6,Non-Veg
+Chicken 65 Rolls,Punjab,Snack,371,37.4,42.8,13.7,Non-Veg
+Bihar Mutton Samosa Chaat,Bihar,Snack,339,20.4,39.8,8.5,Non-Veg
+Prawn Sukka & Chutney (Kang),Manipur,Snack,193,40.6,23.9,6.6,Non-Veg
+Mutton Samosa & Chutney (Kakka),Kerala,Snack,288,43.3,44.0,7.4,Non-Veg
+Egg Pakora & Chutney (Chila),Chhattisgarh,Snack,326,33.9,43.2,11.1,Non-Veg
+Vellarikai Mutton Samosa Fritters,Tamil Nadu,Snack,264,44.4,31.7,6.5,Non-Veg
+Maskaa Chicken Tikka Roll Cutlet,Assam,Snack,330,22.5,47.6,7.4,Non-Veg
+Ghugni Chicken Tikka Roll Fritters,West Bengal,Snack,305,44.5,49.2,10.2,Non-Veg
+Tamil Nadu Chicken 65 Chaat,Tamil Nadu,Snack,183,21.2,28.4,4.5,Non-Veg
+Zu Prawn Sukka Cutlet,Nagaland,Snack,330,23.7,46.4,12.0,Non-Veg
+Kela Chicken 65 Cutlet,Uttar Pradesh,Snack,169,30.7,20.8,5.5,Non-Veg
+Tilkut Chicken Tikka Roll Cutlet,Madhya Pradesh,Snack,381,39.7,49.2,14.4,Non-Veg
+Kheera Prawn Sukka Fritters,Haryana,Snack,293,40.3,45.1,9.4,Non-Veg
+Maharashtra Mutton Samosa Chaat,Maharashtra,Snack,282,43.1,35.1,6.6,Non-Veg
+Prawn Sukka & Chutney (Bathua),Haryana,Snack,210,39.0,30.4,7.1,Non-Veg
+Arbi Mutton Samosa Cutlet,Uttar Pradesh,Snack,315,21.1,37.9,11.8,Non-Veg
+Chaat Mutton Samosa Fritters,Delhi,Snack,295,27.2,42.1,8.6,Non-Veg
+West Bengal Mutton Samosa Chaat,West Bengal,Snack,223,42.0,29.6,7.5,Non-Veg
+Pittha Fish Cutlet Fritters,Jharkhand,Snack,333,43.9,52.8,10.9,Non-Veg
+Kosha Chicken Tikka Roll Cutlet,Kerala,Snack,177,43.6,20.9,5.3,Non-Veg
+Fish Cutlet Rolls,Punjab,Snack,275,44.0,35.5,8.7,Non-Veg
+Tungrymbai Chicken Tikka Roll Fritters,Meghalaya,Snack,182,43.0,27.7,4.7,Non-Veg
+Chicken 65 & Chutney (Kela),Uttar Pradesh,Snack,191,23.9,26.6,5.0,Non-Veg
+Khlem Keema Samosa Cutlet,Meghalaya,Snack,256,42.8,35.0,7.7,Non-Veg
+Madra Chicken Tikka Roll Cutlet,Himachal Pradesh,Snack,352,24.2,47.2,13.2,Non-Veg
+Egg Pakora Rolls,Nagaland,Snack,152,21.1,18.6,4.9,Non-Veg
+Vellarikai Chicken 65 Fritters,Tamil Nadu,Snack,365,31.3,42.3,13.2,Non-Veg
+Haryana Egg Pakora Chaat,Haryana,Snack,213,41.1,31.5,5.9,Non-Veg
+Chak-Hao Chicken Tikka Roll Cutlet,Manipur,Snack,181,30.0,24.8,4.5,Non-Veg
+Chakhwi Prawn Sukka Fritters,Tripura,Snack,357,41.6,57.1,9.3,Non-Veg
+Keema Samosa & Chutney (Soppu),Rajasthan,Snack,155,43.4,19.2,4.3,Non-Veg
+Sikkim Keema Samosa Chaat,Sikkim,Snack,258,27.8,39.9,6.4,Non-Veg
+Bai Mutton Samosa Cutlet,Mizoram,Snack,287,29.4,42.5,8.6,Non-Veg
+Kerala Fish Cutlet Chaat,Kerala,Snack,384,21.8,44.1,10.1,Non-Veg
+Pappu Egg Pakora Fritters,Telangana,Snack,172,29.1,22.4,5.4,Non-Veg
+Chicken Tikka Roll & Chutney (Bora),Assam,Snack,163,26.8,19.6,5.4,Non-Veg
+Singju Prawn Sukka Cutlet,Manipur,Snack,168,22.0,24.1,4.8,Non-Veg
+Aloo Keema Samosa Fritters,West Bengal,Snack,280,40.0,32.0,8.5,Non-Veg
+Chicken Tikka Roll & Chutney (Koddel),Goa,Snack,399,42.1,62.9,11.2,Non-Veg
+Jitok Fish Cutlet Cutlet,Nagaland,Snack,307,37.8,41.8,8.5,Non-Veg
+Bora Keema Samosa Cutlet,Assam,Snack,378,43.3,50.7,9.9,Non-Veg
+Soppu Keema Samosa Fritters,Telangana,Snack,378,43.7,50.7,10.4,Non-Veg
+Keerai Keema Samosa Fritters,Tamil Nadu,Snack,230,21.0,27.6,6.3,Non-Veg
+Prawn Sukka Rolls,Jammu and Kashmir,Snack,320,36.3,45.5,9.6,Non-Veg
+Karnataka Egg Pakora Chaat,Karnataka,Snack,156,42.8,21.5,5.4,Non-Veg
+Fish Cutlet & Chutney (Zu),Nagaland,Snack,284,32.5,33.3,9.1,Non-Veg
+Egg Pakora Rolls,Kerala,Snack,292,33.1,38.8,9.0,Non-Veg
+Mui Chicken 65 Cutlet,Tripura,Snack,240,43.3,38.2,5.5,Non-Veg
+Ghugni Prawn Sukka Fritters,West Bengal,Snack,252,39.0,35.1,6.3,Non-Veg
+Fish Cutlet & Chutney (Xaak),Assam,Snack,393,23.9,53.8,14.1,Non-Veg
+Prawn Sukka & Chutney (Axone),Nagaland,Snack,391,41.6,52.7,12.8,Non-Veg
+Sabji Fish Cutlet Cutlet,Madhya Pradesh,Snack,269,32.9,40.0,9.2,Non-Veg
+Prawn Sukka & Chutney (Bore),Chhattisgarh,Snack,215,28.7,27.2,6.7,Non-Veg
+Saga Mutton Samosa Fritters,Odisha,Snack,217,34.1,34.7,6.2,Non-Veg
+Prawn Sukka Rolls,Goa,Snack,372,34.0,56.0,13.8,Non-Veg
+Fish Cutlet Rolls,Gujarat,Snack,154,36.9,18.1,4.7,Non-Veg
+Nadru Mutton Samosa Fritters,Jammu and Kashmir,Snack,364,30.4,47.7,11.4,Non-Veg
+Eromba Fish Cutlet Fritters,Manipur,Snack,320,21.4,51.3,12.2,Non-Veg
+Bajre Egg Pakora Cutlet,Haryana,Snack,237,27.4,38.4,7.3,Non-Veg
+Jitok Prawn Sukka Fritters,Nagaland,Snack,365,25.2,56.5,10.6,Non-Veg
+Fish Cutlet & Chutney (Tilkut),Madhya Pradesh,Snack,229,29.4,30.2,5.1,Non-Veg
+Jadoh Keema Samosa Cutlet,Meghalaya,Snack,347,36.8,39.5,11.1,Non-Veg
+Chakhwi Egg Pakora Fritters,Tripura,Snack,396,36.1,50.8,10.6,Non-Veg
+Bihar Fish Cutlet Chaat,Bihar,Snack,349,28.2,46.3,7.8,Non-Veg
+Saaru Fish Cutlet Fritters,Telangana,Snack,159,29.3,23.8,4.7,Non-Veg
+Delhi Chicken Tikka Roll Chaat,Delhi,Snack,244,33.0,36.4,8.8,Non-Veg
+Andhra Pradesh Chicken 65 Chaat,Andhra Pradesh,Snack,167,30.3,22.4,5.7,Non-Veg
+Meghalaya Chicken Tikka Roll Chaat,Meghalaya,Snack,274,33.2,34.9,7.3,Non-Veg
+Shyaphale Chicken 65 Fritters,Sikkim,Snack,354,24.8,41.3,8.7,Non-Veg
+Karela Chicken 65 Cutlet,Bihar,Snack,227,27.6,25.7,5.7,Non-Veg
+Prawn Sukka & Chutney (Mooli),Punjab,Snack,289,40.9,35.3,6.8,Non-Veg
+Delhi Mutton Samosa Chaat,Delhi,Snack,243,21.0,38.8,8.8,Non-Veg
+Chicken Tikka Roll & Chutney (Chaat),Delhi,Snack,247,37.0,35.6,8.8,Non-Veg
+Khatta Egg Pakora Fritters,Himachal Pradesh,Snack,321,34.3,36.2,7.6,Non-Veg
+Chhole Mutton Samosa Fritters,Punjab,Snack,181,40.8,27.7,6.4,Non-Veg
+Saag Fish Cutlet Cutlet,Jharkhand,Snack,303,23.6,38.7,9.2,Non-Veg
+Karnataka Prawn Sukka Chaat,Karnataka,Snack,179,31.1,25.4,4.0,Non-Veg
+Chaulai Mutton Samosa Fritters,Haryana,Snack,150,34.3,18.9,3.5,Non-Veg
+Surti Chicken Tikka Roll Cutlet,Gujarat,Snack,219,27.9,26.0,7.7,Non-Veg
+Egg Pakora Rolls,Madhya Pradesh,Snack,266,38.1,30.3,6.9,Non-Veg
+Chha Gosht (Veg Style) Mutton Samosa Cutlet,Himachal Pradesh,Snack,298,35.3,48.0,8.9,Non-Veg
+Fish Cutlet Rolls,Karnataka,Snack,363,29.6,44.9,10.6,Non-Veg
+Jadoh Prawn Curry Curry,Meghalaya,Dinner,780,33.9,101.3,29.4,Non-Veg
+Bihar Fish Moilee Stew With Rice,Bihar,Dinner,723,35.1,104.6,19.6,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Meghalaya,Dinner,469,29.7,59.5,10.9,Non-Veg
+Madhya Pradesh Chicken Stew Platter,Madhya Pradesh,Dinner,603,41.9,79.3,19.8,Non-Veg
+Chhattisgarh Chicken Korma Platter,Chhattisgarh,Dinner,579,32.9,78.7,21.5,Non-Veg
+Rajasthan Prawn Curry Stew With Rice,Rajasthan,Dinner,858,31.7,128.8,25.4,Non-Veg
+Chicken Korma Sabzi With Rotis,Mizoram,Dinner,608,34.9,93.0,21.8,Non-Veg
+Mutton Rogan Josh And Dal,Himachal Pradesh,Dinner,487,31.1,68.8,17.0,Non-Veg
+Punjab Mutton Rogan Josh Stew With Rice,Punjab,Dinner,537,43.0,67.6,14.6,Non-Veg
+Khlem Chicken Stew Curry,Meghalaya,Dinner,593,25.7,73.6,19.7,Non-Veg
+Haryana Tandoori Chicken Platter Platter,Haryana,Dinner,641,43.5,79.4,24.8,Non-Veg
+Assam Chicken Korma Stew With Rice,Assam,Dinner,634,26.1,71.4,24.0,Non-Veg
+Kerala Chicken Stew Platter,Kerala,Dinner,646,35.7,104.3,16.7,Non-Veg
+Bihar Tandoori Chicken Platter Stew With Rice,Bihar,Dinner,875,31.4,103.0,26.1,Non-Veg
+Chila Chicken Korma Curry,Chhattisgarh,Dinner,589,32.7,87.4,14.6,Non-Veg
+Himachal Pradesh Fish Moilee Platter,Himachal Pradesh,Dinner,889,28.2,129.4,32.1,Non-Veg
+Chicken Korma And Dal,Telangana,Dinner,789,22.3,116.4,30.6,Non-Veg
+Rajasthan Chicken Stew Platter,Rajasthan,Dinner,841,32.0,120.2,24.9,Non-Veg
+Kerala Prawn Curry Stew With Rice,Kerala,Dinner,778,22.5,121.5,28.0,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Madhya Pradesh,Dinner,648,23.4,73.7,21.9,Non-Veg
+Chhattisgarh Egg Bhurji With Rotis Platter,Chhattisgarh,Dinner,651,27.6,80.0,20.9,Non-Veg
+Egg Bhurji With Rotis And Dal,Tripura,Dinner,789,44.4,114.2,22.3,Non-Veg
+Chicken Korma Sabzi With Rotis,Tamil Nadu,Dinner,578,36.5,78.8,20.9,Non-Veg
+Andhra Pradesh Tandoori Chicken Platter Platter,Andhra Pradesh,Dinner,748,44.1,97.7,18.2,Non-Veg
+Punjab Chicken Korma Stew With Rice,Punjab,Dinner,538,29.7,62.0,12.4,Non-Veg
+Karnataka Chicken Korma Stew With Rice,Karnataka,Dinner,667,21.8,77.4,21.3,Non-Veg
+Surti Egg Bhurji With Rotis Curry,Gujarat,Dinner,769,35.7,89.7,29.2,Non-Veg
+Delhi Fish Moilee Stew With Rice,Delhi,Dinner,734,32.8,106.6,18.7,Non-Veg
+Chicken Stew And Dal,Delhi,Dinner,841,37.0,134.6,31.5,Non-Veg
+Egg Bhurji With Rotis And Dal,Punjab,Dinner,795,43.3,92.4,21.2,Non-Veg
+Punjab Egg Bhurji With Rotis Stew With Rice,Punjab,Dinner,771,26.1,125.0,28.1,Non-Veg
+Chicken Stew And Dal,West Bengal,Dinner,514,44.7,77.7,16.0,Non-Veg
+Telangana Fish Moilee Stew With Rice,Telangana,Dinner,719,38.2,95.2,19.4,Non-Veg
+Assam Prawn Curry Stew With Rice,Assam,Dinner,547,30.3,82.4,18.4,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Odisha,Dinner,612,42.8,87.5,14.3,Non-Veg
+Prawn Curry And Dal,Delhi,Dinner,525,25.6,74.2,12.3,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Chhattisgarh,Dinner,853,42.5,102.3,31.6,Non-Veg
+Prawn Curry And Dal,Meghalaya,Dinner,758,26.0,107.4,24.5,Non-Veg
+Malpua Egg Bhurji With Rotis Curry,Jharkhand,Dinner,544,42.7,72.5,14.4,Non-Veg
+Egg Bhurji With Rotis And Dal,Nagaland,Dinner,488,27.7,78.6,12.6,Non-Veg
+Odisha Chicken Stew Stew With Rice,Odisha,Dinner,462,28.0,63.5,10.9,Non-Veg
+Lauki Chicken Stew Curry,Uttar Pradesh,Dinner,850,37.4,128.4,31.8,Non-Veg
+Fish Moilee And Dal,Tripura,Dinner,476,24.3,62.0,11.4,Non-Veg
+Bimmas Mutton Rogan Josh Curry,Telangana,Dinner,536,22.9,65.1,18.4,Non-Veg
+Bihar Prawn Curry Stew With Rice,Bihar,Dinner,615,32.7,71.4,21.8,Non-Veg
+Bhaji Egg Bhurji With Rotis Curry,Maharashtra,Dinner,751,34.2,102.9,26.3,Non-Veg
+Nagaland Prawn Curry Platter,Nagaland,Dinner,700,41.3,89.8,19.6,Non-Veg
+Prawn Curry And Dal,Gujarat,Dinner,720,30.6,115.6,20.7,Non-Veg
+Prawn Curry And Dal,Sikkim,Dinner,636,43.7,80.8,23.1,Non-Veg
+Gujarat Fish Moilee Stew With Rice,Gujarat,Dinner,635,29.9,79.4,22.0,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Goa,Dinner,579,44.9,81.3,17.8,Non-Veg
+Chicken Korma Sabzi With Rotis,Rajasthan,Dinner,799,37.9,110.9,18.9,Non-Veg
+Prawn Curry Sabzi With Rotis,Sikkim,Dinner,728,28.7,88.6,21.9,Non-Veg
+Tamil Nadu Mutton Rogan Josh Platter,Tamil Nadu,Dinner,601,23.4,81.7,21.7,Non-Veg
+Prawn Curry Sabzi With Rotis,Karnataka,Dinner,670,39.1,82.4,19.3,Non-Veg
+Karnataka Fish Moilee Platter,Karnataka,Dinner,496,37.1,56.3,18.9,Non-Veg
+Uttarakhand Mutton Rogan Josh Stew With Rice,Uttarakhand,Dinner,605,37.2,91.3,20.6,Non-Veg
+Prawn Curry Sabzi With Rotis,Telangana,Dinner,456,25.2,51.5,13.6,Non-Veg
+Pappu Fish Moilee Curry,Telangana,Dinner,784,33.2,88.3,29.2,Non-Veg
+Chicken Stew Sabzi With Rotis,Manipur,Dinner,619,40.2,87.4,23.9,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Mizoram,Dinner,507,41.8,75.0,13.1,Non-Veg
+Chicken Korma And Dal,Odisha,Dinner,691,38.2,88.3,18.2,Non-Veg
+Parathas Mutton Rogan Josh Curry,Delhi,Dinner,482,43.6,63.6,14.2,Non-Veg
+Vellarikai Mutton Rogan Josh Curry,Tamil Nadu,Dinner,603,23.6,96.3,21.7,Non-Veg
+Maharashtra Egg Bhurji With Rotis Stew With Rice,Maharashtra,Dinner,499,23.0,56.3,17.9,Non-Veg
+Egg Bhurji With Rotis And Dal,Sikkim,Dinner,662,22.5,98.3,16.9,Non-Veg
+Chicken Korma Sabzi With Rotis,Uttar Pradesh,Dinner,807,26.1,97.4,26.8,Non-Veg
+Nadru Mutton Rogan Josh Curry,Jammu and Kashmir,Dinner,683,36.2,98.6,17.9,Non-Veg
+Himachal Pradesh Chicken Stew Stew With Rice,Himachal Pradesh,Dinner,539,43.5,80.7,18.1,Non-Veg
+Jharkhand Chicken Stew Stew With Rice,Jharkhand,Dinner,618,39.4,94.8,17.0,Non-Veg
+Prawn Curry Sabzi With Rotis,Manipur,Dinner,728,33.8,88.3,16.7,Non-Veg
+Kosambari Prawn Curry Curry,Karnataka,Dinner,571,20.5,90.2,16.1,Non-Veg
+Uttarakhand Egg Bhurji With Rotis Platter,Uttarakhand,Dinner,691,22.9,96.5,16.1,Non-Veg
+Gahat Chicken Korma Curry,Uttarakhand,Dinner,562,29.2,83.0,21.5,Non-Veg
+Chhinam Chicken Stew Curry,Mizoram,Dinner,616,38.4,80.2,17.9,Non-Veg
+Prawn Curry And Dal,Uttar Pradesh,Dinner,504,37.0,76.5,19.5,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Meghalaya,Dinner,838,28.3,111.5,20.6,Non-Veg
+Chaat Chicken Stew Curry,Delhi,Dinner,450,33.7,72.7,16.4,Non-Veg
+Egg Bhurji With Rotis And Dal,Goa,Dinner,899,28.7,142.9,22.5,Non-Veg
+Chicken Korma Sabzi With Rotis,Andhra Pradesh,Dinner,717,34.9,94.1,16.0,Non-Veg
+Bhaji Fish Moilee Curry,Goa,Dinner,833,21.8,121.7,27.3,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Delhi,Dinner,618,37.4,98.4,23.1,Non-Veg
+Chicken Korma Sabzi With Rotis,Delhi,Dinner,698,38.7,109.3,23.4,Non-Veg
+Chicken Korma Sabzi With Rotis,Uttarakhand,Dinner,779,44.1,109.5,25.3,Non-Veg
+Bihar Egg Bhurji With Rotis Stew With Rice,Bihar,Dinner,847,25.9,119.7,24.4,Non-Veg
+Rajasthan Mutton Rogan Josh Platter,Rajasthan,Dinner,690,25.9,97.9,22.4,Non-Veg
+Arbi Chicken Korma Curry,Jharkhand,Dinner,800,42.5,116.4,29.4,Non-Veg
+Haryana Chicken Stew Stew With Rice,Haryana,Dinner,747,42.6,90.4,21.9,Non-Veg
+Baingan Tandoori Chicken Platter Curry,Bihar,Dinner,602,39.2,92.7,23.3,Non-Veg
+Tandoori Chicken Platter And Dal,Andhra Pradesh,Dinner,582,26.2,82.3,21.9,Non-Veg
+Gujarat Egg Bhurji With Rotis Platter,Gujarat,Dinner,813,41.6,121.6,24.3,Non-Veg
+Jharkhand Tandoori Chicken Platter Platter,Jharkhand,Dinner,887,27.9,122.3,23.0,Non-Veg
+Kang Prawn Curry Curry,Manipur,Dinner,486,29.5,67.5,18.9,Non-Veg
+Gujarat Chicken Stew Stew With Rice,Gujarat,Dinner,479,44.9,69.5,11.4,Non-Veg
+Chicken Korma And Dal,Manipur,Dinner,900,43.0,129.9,22.9,Non-Veg
+Manipur Mutton Rogan Josh Stew With Rice,Manipur,Dinner,561,29.7,67.5,14.3,Non-Veg
+Tripura Tandoori Chicken Platter Platter,Tripura,Dinner,570,42.6,75.8,18.3,Non-Veg
+Uttar Pradesh Fish Moilee Platter,Uttar Pradesh,Dinner,822,24.7,96.1,32.0,Non-Veg
+Khlem Mutton Rogan Josh Curry,Meghalaya,Dinner,584,34.9,67.3,14.3,Non-Veg
+Bimmas Fish Moilee Curry,Telangana,Dinner,599,30.6,85.7,22.2,Non-Veg
+Bore Fish Moilee Curry,Chhattisgarh,Dinner,805,31.3,130.4,30.1,Non-Veg
+Telangana Mutton Rogan Josh Stew With Rice,Telangana,Dinner,578,21.8,77.1,15.8,Non-Veg
+Khatta Chicken Korma Curry,Himachal Pradesh,Dinner,859,29.8,129.5,20.6,Non-Veg
+Chhattisgarh Fish Moilee Platter,Chhattisgarh,Dinner,694,36.9,104.3,15.6,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Jammu and Kashmir,Dinner,601,27.1,84.4,16.9,Non-Veg
+Singju Mutton Rogan Josh Curry,Manipur,Dinner,865,43.5,122.4,20.0,Non-Veg
+Chana Fish Moilee Curry,Odisha,Dinner,705,32.2,98.3,25.1,Non-Veg
+Chicken Korma Sabzi With Rotis,Haryana,Dinner,699,30.2,113.1,22.3,Non-Veg
+Saag Mutton Rogan Josh Curry,Jharkhand,Dinner,716,24.4,107.1,18.8,Non-Veg
+Prawn Curry Sabzi With Rotis,Chhattisgarh,Dinner,544,43.7,66.2,12.7,Non-Veg
+Poha Chicken Stew Curry,Madhya Pradesh,Dinner,684,39.3,78.2,22.5,Non-Veg
+Himachal Pradesh Prawn Curry Stew With Rice,Himachal Pradesh,Dinner,505,24.3,58.2,16.1,Non-Veg
+Khandvi Chicken Stew Curry,Gujarat,Dinner,673,35.0,105.8,25.2,Non-Veg
+Nagaland Tandoori Chicken Platter Stew With Rice,Nagaland,Dinner,643,39.6,91.9,15.5,Non-Veg
+Chicken Stew Sabzi With Rotis,Delhi,Dinner,531,24.3,70.8,19.5,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Uttarakhand,Dinner,784,31.6,117.5,19.8,Non-Veg
+Vawksa Mutton Rogan Josh Curry,Mizoram,Dinner,615,32.3,85.8,22.8,Non-Veg
+Meghalaya Fish Moilee Platter,Meghalaya,Dinner,549,23.8,80.8,16.9,Non-Veg
+Tripura Tandoori Chicken Platter Stew With Rice,Tripura,Dinner,745,33.8,117.4,19.8,Non-Veg
+Bamboo Prawn Curry Curry,Tripura,Dinner,520,38.5,65.5,15.1,Non-Veg
+Egg Bhurji With Rotis And Dal,Delhi,Dinner,875,43.8,117.7,29.6,Non-Veg
+Mooli Chicken Korma Curry,Punjab,Dinner,561,31.3,76.2,14.8,Non-Veg
+Assam Egg Bhurji With Rotis Platter,Assam,Dinner,451,40.3,66.5,12.1,Non-Veg
+Prawn Curry Sabzi With Rotis,Jharkhand,Dinner,654,33.1,99.6,16.0,Non-Veg
+Fish Moilee And Dal,Meghalaya,Dinner,837,29.4,99.2,19.0,Non-Veg
+Fish Moilee And Dal,Uttar Pradesh,Dinner,667,20.8,88.0,22.8,Non-Veg
+Jammu And Kashmir Egg Bhurji With Rotis Stew With Rice,Jammu and Kashmir,Dinner,879,44.1,116.5,24.0,Non-Veg
+Assam Chicken Korma Platter,Assam,Dinner,523,31.7,72.5,19.4,Non-Veg
+Gahat Fish Moilee Curry,Uttarakhand,Dinner,634,26.0,83.2,21.3,Non-Veg
+Chicken Korma And Dal,Karnataka,Dinner,759,22.1,108.8,25.5,Non-Veg
+Jammu And Kashmir Mutton Rogan Josh Platter,Jammu and Kashmir,Dinner,510,31.8,75.0,18.0,Non-Veg
+Prawn Curry And Dal,Manipur,Dinner,470,32.0,68.1,16.1,Non-Veg
+Chakko Prawn Curry Curry,Kerala,Dinner,565,30.6,79.0,16.1,Non-Veg
+Egg Bhurji With Rotis And Dal,Madhya Pradesh,Dinner,781,42.8,104.0,26.1,Non-Veg
+Uttar Pradesh Mutton Rogan Josh Stew With Rice,Uttar Pradesh,Dinner,476,36.9,54.8,11.4,Non-Veg
+Haakh Tandoori Chicken Platter Curry,Jammu and Kashmir,Dinner,456,29.3,54.7,15.2,Non-Veg
+Egg Bhurji With Rotis And Dal,Maharashtra,Dinner,692,26.7,93.8,23.4,Non-Veg
+Chak-Hao Chicken Korma Curry,Manipur,Dinner,614,34.9,92.1,18.3,Non-Veg
+Chicken Stew Sabzi With Rotis,Haryana,Dinner,789,37.0,113.0,27.3,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Manipur,Dinner,657,27.1,85.4,22.5,Non-Veg
+Madhya Pradesh Chicken Stew Stew With Rice,Madhya Pradesh,Dinner,572,31.5,86.7,18.6,Non-Veg
+Chicken Korma And Dal,Rajasthan,Dinner,829,34.3,125.7,26.8,Non-Veg
+Chicken Korma And Dal,Meghalaya,Dinner,473,40.0,65.5,15.4,Non-Veg
+Bihar Egg Bhurji With Rotis Platter,Bihar,Dinner,751,35.3,103.8,19.3,Non-Veg
+Chhole Chicken Korma Curry,Punjab,Dinner,595,38.4,87.0,17.6,Non-Veg
+Punjab Chicken Stew Stew With Rice,Punjab,Dinner,735,30.9,89.4,20.9,Non-Veg
+Chicken Stew Sabzi With Rotis,Rajasthan,Dinner,505,22.4,59.8,17.0,Non-Veg
+Kerala Tandoori Chicken Platter Platter,Kerala,Dinner,891,21.8,124.0,25.9,Non-Veg
+Odisha Egg Bhurji With Rotis Platter,Odisha,Dinner,614,34.9,94.2,14.4,Non-Veg
+West Bengal Chicken Korma Platter,West Bengal,Dinner,790,25.2,121.2,23.5,Non-Veg
+Bamboo Fish Moilee Curry,Tripura,Dinner,529,23.7,82.2,14.1,Non-Veg
+Egg Bhurji With Rotis And Dal,West Bengal,Dinner,885,28.3,123.8,22.1,Non-Veg
+Egg Bhurji With Rotis And Dal,Chhattisgarh,Dinner,762,23.5,88.2,26.6,Non-Veg
+Chaulai Prawn Curry Curry,Haryana,Dinner,593,31.2,78.2,16.1,Non-Veg
+Fish Moilee And Dal,Chhattisgarh,Dinner,730,43.0,107.0,28.2,Non-Veg
+Uttarakhand Fish Moilee Stew With Rice,Uttarakhand,Dinner,684,24.6,88.4,15.7,Non-Veg
+Chicken Stew Sabzi With Rotis,Punjab,Dinner,678,41.6,104.7,22.1,Non-Veg
+Goa Egg Bhurji With Rotis Platter,Goa,Dinner,718,31.5,97.7,19.5,Non-Veg
+Tinda Egg Bhurji With Rotis Curry,Uttar Pradesh,Dinner,485,25.9,54.7,18.2,Non-Veg
+Soppu Chicken Korma Curry,Telangana,Dinner,695,35.1,92.8,24.6,Non-Veg
+West Bengal Prawn Curry Stew With Rice,West Bengal,Dinner,733,40.1,87.5,17.9,Non-Veg
+Himachal Pradesh Fish Moilee Stew With Rice,Himachal Pradesh,Dinner,664,28.4,83.1,15.1,Non-Veg
+Uttar Pradesh Fish Moilee Stew With Rice,Uttar Pradesh,Dinner,811,23.3,117.0,22.1,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Rajasthan,Dinner,863,42.1,125.2,30.0,Non-Veg
+Assam Mutton Rogan Josh Platter,Assam,Dinner,532,27.1,72.0,19.6,Non-Veg
+Odisha Fish Moilee Stew With Rice,Odisha,Dinner,489,25.2,72.1,14.9,Non-Veg
+Delhi Fish Moilee Platter,Delhi,Dinner,652,30.4,83.7,24.1,Non-Veg
+West Bengal Egg Bhurji With Rotis Platter,West Bengal,Dinner,642,25.8,86.1,21.8,Non-Veg
+Haryana Mutton Rogan Josh Platter,Haryana,Dinner,887,33.8,122.9,24.7,Non-Veg
+Chicken Stew And Dal,Jharkhand,Dinner,719,39.0,87.2,22.0,Non-Veg
+Maharashtra Tandoori Chicken Platter Platter,Maharashtra,Dinner,618,23.9,77.0,20.6,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Punjab,Dinner,893,42.6,104.5,30.8,Non-Veg
+Fish Moilee Sabzi With Rotis,Delhi,Dinner,894,30.8,117.6,26.4,Non-Veg
+Fish Moilee And Dal,Haryana,Dinner,519,30.7,72.4,17.3,Non-Veg
+Egg Bhurji With Rotis And Dal,Tamil Nadu,Dinner,875,26.7,140.9,33.4,Non-Veg
+Prawn Curry Sabzi With Rotis,Tamil Nadu,Dinner,586,35.9,76.1,21.5,Non-Veg
+Anda Tandoori Chicken Platter Curry,Mizoram,Dinner,667,24.3,106.9,16.3,Non-Veg
+Goa Chicken Stew Platter,Goa,Dinner,514,39.4,63.5,16.9,Non-Veg
+Fish Moilee Sabzi With Rotis,Punjab,Dinner,461,27.8,55.6,12.2,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Mizoram,Dinner,598,42.7,82.9,20.5,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Tripura,Dinner,684,36.2,87.0,16.4,Non-Veg
+Bhaji Tandoori Chicken Platter Curry,Goa,Dinner,566,25.2,83.8,18.5,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Karnataka,Dinner,619,28.8,84.0,20.9,Non-Veg
+Mutton Rogan Josh And Dal,Tamil Nadu,Dinner,764,26.5,97.9,27.7,Non-Veg
+Tamil Nadu Tandoori Chicken Platter Stew With Rice,Tamil Nadu,Dinner,705,22.3,106.1,17.4,Non-Veg
+Keerai Fish Moilee Curry,Rajasthan,Dinner,477,28.0,74.8,16.8,Non-Veg
+Karnataka Mutton Rogan Josh Platter,Karnataka,Dinner,869,25.5,117.6,31.4,Non-Veg
+Chicken Stew And Dal,Gujarat,Dinner,775,36.4,106.2,23.8,Non-Veg
+Sabji Mutton Rogan Josh Curry,Madhya Pradesh,Dinner,670,36.5,87.7,22.7,Non-Veg
+Bore Tandoori Chicken Platter Curry,Chhattisgarh,Dinner,740,28.6,104.3,28.5,Non-Veg
+Sundakkai Chicken Stew Curry,Tamil Nadu,Dinner,648,23.4,95.9,15.3,Non-Veg
+Andhra Pradesh Chicken Stew Platter,Andhra Pradesh,Dinner,736,25.6,95.5,18.3,Non-Veg
+Arbi Fish Moilee Curry,Uttar Pradesh,Dinner,682,42.4,103.1,22.5,Non-Veg
+Goa Fish Moilee Stew With Rice,Goa,Dinner,499,41.8,71.4,17.0,Non-Veg
+Bengalgram Chicken Stew Curry,Karnataka,Dinner,601,28.0,69.4,15.4,Non-Veg
+Chicken Korma Sabzi With Rotis,Meghalaya,Dinner,841,35.6,105.6,21.5,Non-Veg
+Goa Tandoori Chicken Platter Platter,Goa,Dinner,546,40.6,71.3,19.9,Non-Veg
+Maharashtra Tandoori Chicken Platter Stew With Rice,Maharashtra,Dinner,899,44.8,101.6,30.5,Non-Veg
+Maharashtra Chicken Korma Stew With Rice,Maharashtra,Dinner,817,40.8,98.6,24.7,Non-Veg
+Uttar Pradesh Egg Bhurji With Rotis Platter,Uttar Pradesh,Dinner,594,43.1,81.0,22.2,Non-Veg
+Fish Moilee Sabzi With Rotis,Karnataka,Dinner,658,20.2,92.2,21.1,Non-Veg
+Jammu And Kashmir Prawn Curry Stew With Rice,Jammu and Kashmir,Dinner,598,40.5,70.7,14.4,Non-Veg
+Karnataka Chicken Stew Platter,Karnataka,Dinner,533,35.5,85.3,12.3,Non-Veg
+Jammu And Kashmir Tandoori Chicken Platter Platter,Jammu and Kashmir,Dinner,796,30.3,121.8,19.8,Non-Veg
+Andhra Pradesh Chicken Korma Platter,Andhra Pradesh,Dinner,894,34.8,123.5,20.9,Non-Veg
+Muthiya Fish Moilee Curry,Gujarat,Dinner,868,37.4,101.7,33.2,Non-Veg
+Mutton Rogan Josh And Dal,Tripura,Dinner,561,37.3,88.4,13.3,Non-Veg
+Egg Bhurji With Rotis And Dal,Andhra Pradesh,Dinner,866,41.7,102.3,29.7,Non-Veg
+Meghalaya Fish Moilee Stew With Rice,Meghalaya,Dinner,753,29.2,85.8,22.9,Non-Veg
+Chicken Stew And Dal,Telangana,Dinner,872,29.4,130.6,21.1,Non-Veg
+Nagaland Chicken Korma Stew With Rice,Nagaland,Dinner,836,31.0,129.4,19.0,Non-Veg
+Gujarat Chicken Korma Platter,Gujarat,Dinner,480,30.6,74.9,10.8,Non-Veg
+Uttar Pradesh Egg Bhurji With Rotis Stew With Rice,Uttar Pradesh,Dinner,893,42.8,112.7,20.6,Non-Veg
+Fish Moilee Sabzi With Rotis,Odisha,Dinner,560,41.1,85.4,16.2,Non-Veg
+Egg Bhurji With Rotis And Dal,Uttarakhand,Dinner,727,37.3,101.9,23.7,Non-Veg
+Fish Moilee Sabzi With Rotis,Sikkim,Dinner,824,20.1,116.5,20.9,Non-Veg
+Kaju Chicken Korma Curry,Goa,Dinner,801,29.3,128.0,27.7,Non-Veg
+West Bengal Chicken Stew Stew With Rice,West Bengal,Dinner,744,43.9,112.8,28.5,Non-Veg
+Himachal Pradesh Chicken Stew Platter,Himachal Pradesh,Dinner,669,32.4,94.0,17.2,Non-Veg
+Prawn Curry Sabzi With Rotis,Tripura,Dinner,548,23.6,68.2,12.3,Non-Veg
+Prawn Curry Sabzi With Rotis,Kerala,Dinner,626,42.3,88.4,18.9,Non-Veg
+Kakka Mutton Rogan Josh Curry,Kerala,Dinner,452,32.8,53.4,15.9,Non-Veg
+Bihar Mutton Rogan Josh Stew With Rice,Bihar,Dinner,510,22.5,67.2,11.6,Non-Veg
+Gujarat Prawn Curry Stew With Rice,Gujarat,Dinner,535,30.0,80.2,18.9,Non-Veg
+Tinda Chicken Stew Curry,Uttar Pradesh,Dinner,539,38.5,74.1,14.2,Non-Veg
+Ambot Chicken Korma Curry,Goa,Dinner,495,44.7,75.7,12.6,Non-Veg
+Aloo Ke Gutke Chicken Korma Curry,Uttarakhand,Dinner,883,34.2,129.1,31.2,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Tamil Nadu,Dinner,757,43.9,109.5,18.6,Non-Veg
+Chicken Korma Sabzi With Rotis,Assam,Dinner,859,34.7,135.6,28.9,Non-Veg
+Chicken Stew And Dal,Chhattisgarh,Dinner,549,26.5,83.2,17.7,Non-Veg
+Ragi Prawn Curry Curry,Karnataka,Dinner,485,24.7,74.0,17.2,Non-Veg
+Delhi Chicken Korma Stew With Rice,Delhi,Dinner,771,26.3,97.2,28.3,Non-Veg
+Chicken Korma And Dal,Assam,Dinner,665,24.3,91.0,21.1,Non-Veg
+Egg Bhurji With Rotis And Dal,Haryana,Dinner,600,23.5,70.0,20.8,Non-Veg
+Chakhwi Prawn Curry Curry,Tripura,Dinner,625,24.2,70.6,14.0,Non-Veg
+Odisha Tandoori Chicken Platter Stew With Rice,Odisha,Dinner,606,31.5,88.2,16.3,Non-Veg
+Mizoram Chicken Stew Platter,Mizoram,Dinner,795,22.9,105.7,20.5,Non-Veg
+Manipur Chicken Korma Stew With Rice,Manipur,Dinner,456,31.6,73.3,10.9,Non-Veg
+Manipur Tandoori Chicken Platter Platter,Manipur,Dinner,622,31.2,99.6,21.5,Non-Veg
+Vellarikka Mutton Rogan Josh Curry,Rajasthan,Dinner,594,22.2,94.2,16.1,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Sikkim,Dinner,846,23.7,137.3,30.3,Non-Veg
+Fish Moilee Sabzi With Rotis,Jammu and Kashmir,Dinner,723,40.2,107.1,26.4,Non-Veg
+Manipur Prawn Curry Platter,Manipur,Dinner,556,21.2,66.4,20.6,Non-Veg
+Chicken Stew And Dal,Bihar,Dinner,624,32.9,74.3,21.4,Non-Veg
+Karnataka Chicken Korma Platter,Karnataka,Dinner,717,39.8,90.6,27.1,Non-Veg
+Punjab Prawn Curry Stew With Rice,Punjab,Dinner,573,21.5,81.0,16.2,Non-Veg
+Bathua Fish Moilee Curry,Haryana,Dinner,866,39.2,119.8,27.1,Non-Veg
+Sael Chicken Korma Curry,Sikkim,Dinner,819,36.7,131.9,25.8,Non-Veg
+Tandoori Chicken Platter And Dal,Punjab,Dinner,690,34.0,108.2,22.6,Non-Veg
+Fish Moilee Sabzi With Rotis,Uttar Pradesh,Dinner,494,38.8,73.5,15.5,Non-Veg
+Egg Bhurji With Rotis Sabzi With Rotis,Tamil Nadu,Dinner,742,44.3,85.7,21.5,Non-Veg
+Mutton Rogan Josh And Dal,Punjab,Dinner,699,33.0,80.8,22.9,Non-Veg
+Tandoori Chicken Platter And Dal,Mizoram,Dinner,565,24.1,77.7,20.5,Non-Veg
+Mizoram Tandoori Chicken Platter Stew With Rice,Mizoram,Dinner,589,32.6,83.8,19.7,Non-Veg
+Prawn Curry And Dal,Tripura,Dinner,892,30.2,130.9,29.0,Non-Veg
+Mutton Rogan Josh And Dal,West Bengal,Dinner,865,28.5,111.0,21.1,Non-Veg
+Bora Prawn Curry Curry,Assam,Dinner,711,24.0,83.6,27.6,Non-Veg
+Prawn Curry And Dal,Punjab,Dinner,889,43.0,101.8,24.3,Non-Veg
+Fish Moilee Sabzi With Rotis,Mizoram,Dinner,541,29.9,87.7,14.1,Non-Veg
+Fish Moilee And Dal,Gujarat,Dinner,640,43.8,79.1,14.3,Non-Veg
+Himachal Pradesh Tandoori Chicken Platter Stew With Rice,Himachal Pradesh,Dinner,847,39.0,126.3,22.0,Non-Veg
+Karnataka Prawn Curry Platter,Karnataka,Dinner,526,26.8,69.7,15.9,Non-Veg
+Mirapakaya Fish Moilee Curry,Andhra Pradesh,Dinner,839,35.8,119.3,19.0,Non-Veg
+Zu Chicken Korma Curry,Nagaland,Dinner,842,30.2,133.9,21.4,Non-Veg
+Prawn Curry Sabzi With Rotis,Assam,Dinner,526,33.3,68.5,15.2,Non-Veg
+Mizoram Chicken Korma Platter,Mizoram,Dinner,852,40.8,130.5,26.0,Non-Veg
+Modak Fish Moilee Curry,Maharashtra,Dinner,468,25.8,58.0,14.1,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Uttarakhand,Dinner,551,24.8,86.4,14.1,Non-Veg
+Tungrymbai Tandoori Chicken Platter Curry,Meghalaya,Dinner,742,36.5,103.5,27.5,Non-Veg
+Tandoori Chicken Platter And Dal,Sikkim,Dinner,632,27.7,94.1,21.3,Non-Veg
+Chicken Stew And Dal,Andhra Pradesh,Dinner,687,35.5,82.7,18.6,Non-Veg
+Egg Bhurji With Rotis And Dal,Jharkhand,Dinner,558,22.0,73.2,14.6,Non-Veg
+Andhra Pradesh Egg Bhurji With Rotis Platter,Andhra Pradesh,Dinner,872,36.9,140.1,31.0,Non-Veg
+Mizoram Mutton Rogan Josh Stew With Rice,Mizoram,Dinner,652,30.9,101.9,22.5,Non-Veg
+Goa Prawn Curry Stew With Rice,Goa,Dinner,564,44.8,77.4,17.0,Non-Veg
+Delhi Chicken Stew Platter,Delhi,Dinner,669,26.2,94.0,18.9,Non-Veg
+Jharkhand Mutton Rogan Josh Stew With Rice,Jharkhand,Dinner,544,27.8,84.5,15.5,Non-Veg
+Gongura Mutton Rogan Josh Curry,Telangana,Dinner,573,42.7,77.1,14.7,Non-Veg
+Tsaman Egg Bhurji With Rotis Curry,Jammu and Kashmir,Dinner,596,30.4,80.0,19.8,Non-Veg
+West Bengal Fish Moilee Stew With Rice,West Bengal,Dinner,701,25.4,80.7,24.2,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Karnataka,Dinner,793,29.4,116.3,30.5,Non-Veg
+Tandoori Chicken Platter And Dal,West Bengal,Dinner,810,40.7,98.0,27.9,Non-Veg
+Meghalaya Mutton Rogan Josh Platter,Meghalaya,Dinner,455,27.6,63.0,13.1,Non-Veg
+Mutton Rogan Josh And Dal,Nagaland,Dinner,661,27.7,104.9,19.6,Non-Veg
+Mizoram Egg Bhurji With Rotis Platter,Mizoram,Dinner,713,28.9,93.2,27.0,Non-Veg
+Prawn Curry And Dal,Karnataka,Dinner,793,20.6,97.1,18.9,Non-Veg
+Kadala Chicken Stew Curry,Odisha,Dinner,596,28.8,81.7,15.7,Non-Veg
+Jammu And Kashmir Prawn Curry Platter,Jammu and Kashmir,Dinner,616,23.3,98.4,14.0,Non-Veg
+Madhya Pradesh Prawn Curry Stew With Rice,Madhya Pradesh,Dinner,707,25.9,95.3,18.6,Non-Veg
+Nagaland Chicken Stew Stew With Rice,Nagaland,Dinner,711,41.5,102.9,25.6,Non-Veg
+West Bengal Chicken Stew Platter,West Bengal,Dinner,540,44.9,65.8,12.9,Non-Veg
+Karnataka Tandoori Chicken Platter Platter,Karnataka,Dinner,512,27.8,73.0,13.2,Non-Veg
+West Bengal Fish Moilee Platter,West Bengal,Dinner,788,30.0,92.6,20.4,Non-Veg
+Uttar Pradesh Chicken Stew Stew With Rice,Uttar Pradesh,Dinner,623,39.6,85.1,22.0,Non-Veg
+Tamil Nadu Mutton Rogan Josh Stew With Rice,Tamil Nadu,Dinner,865,28.8,117.5,33.1,Non-Veg
+Mizoram Egg Bhurji With Rotis Stew With Rice,Mizoram,Dinner,851,38.1,97.3,24.0,Non-Veg
+Andhra Pradesh Egg Bhurji With Rotis Stew With Rice,Andhra Pradesh,Dinner,660,33.3,76.9,19.4,Non-Veg
+Manipur Prawn Curry Stew With Rice,Manipur,Dinner,455,36.1,65.1,11.2,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Odisha,Dinner,866,23.5,130.4,23.3,Non-Veg
+Fish Moilee Sabzi With Rotis,West Bengal,Dinner,471,36.6,75.2,17.0,Non-Veg
+Prawn Curry Sabzi With Rotis,Uttarakhand,Dinner,480,44.9,68.2,17.3,Non-Veg
+Bengalgram Prawn Curry Curry,Karnataka,Dinner,536,22.8,75.2,12.3,Non-Veg
+Sikkim Mutton Rogan Josh Platter,Sikkim,Dinner,823,23.3,120.1,27.1,Non-Veg
+Rajasthan Chicken Korma Platter,Rajasthan,Dinner,480,24.6,62.6,17.7,Non-Veg
+Chicken Korma And Dal,Goa,Dinner,480,30.7,57.6,11.6,Non-Veg
+Chaulai Chicken Korma Curry,Haryana,Dinner,786,37.2,116.0,30.5,Non-Veg
+Chakko Chicken Stew Curry,Kerala,Dinner,495,21.6,74.4,18.0,Non-Veg
+Meghalaya Prawn Curry Stew With Rice,Meghalaya,Dinner,852,26.9,100.2,28.7,Non-Veg
+Jammu And Kashmir Chicken Korma Stew With Rice,Jammu and Kashmir,Dinner,857,40.2,132.4,31.6,Non-Veg
+Tripura Mutton Rogan Josh Platter,Tripura,Dinner,469,40.1,65.7,12.3,Non-Veg
+Saga Egg Bhurji With Rotis Curry,Odisha,Dinner,898,28.8,137.9,20.1,Non-Veg
+Ootti Chicken Korma Curry,Manipur,Dinner,873,23.3,139.4,23.2,Non-Veg
+Bihar Prawn Curry Platter,Bihar,Dinner,766,35.9,121.2,21.5,Non-Veg
+Mutton Rogan Josh And Dal,Sikkim,Dinner,590,22.0,70.6,19.2,Non-Veg
+Tamil Nadu Chicken Stew Platter,Tamil Nadu,Dinner,676,42.7,82.1,24.6,Non-Veg
+Manipur Chicken Korma Platter,Manipur,Dinner,835,29.8,97.5,26.9,Non-Veg
+Chicken Stew And Dal,Assam,Dinner,457,23.4,69.3,15.4,Non-Veg
+Egg Bhurji With Rotis And Dal,Telangana,Dinner,838,29.8,100.0,28.7,Non-Veg
+Egg Bhurji With Rotis And Dal,Jammu and Kashmir,Dinner,513,29.9,67.4,18.6,Non-Veg
+Axone Prawn Curry Curry,Nagaland,Dinner,636,40.5,87.4,15.5,Non-Veg
+Nagaland Prawn Curry Stew With Rice,Nagaland,Dinner,831,40.9,128.3,22.7,Non-Veg
+Mutton Rogan Josh And Dal,Bihar,Dinner,884,21.4,133.6,19.8,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,West Bengal,Dinner,546,38.0,75.5,15.5,Non-Veg
+Kadala Mutton Rogan Josh Curry,Odisha,Dinner,597,36.6,74.4,14.5,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Uttarakhand,Dinner,807,36.0,93.8,29.5,Non-Veg
+Egg Bhurji With Rotis And Dal,Meghalaya,Dinner,805,42.7,125.1,27.0,Non-Veg
+Mutton Rogan Josh And Dal,Andhra Pradesh,Dinner,497,25.4,71.4,15.7,Non-Veg
+Litti Fish Moilee Curry,Bihar,Dinner,687,33.0,98.5,24.5,Non-Veg
+Dohneiiong Fish Moilee Curry,Meghalaya,Dinner,681,44.3,103.0,25.0,Non-Veg
+Fish Moilee And Dal,Delhi,Dinner,603,32.6,96.5,14.8,Non-Veg
+Chicken Korma And Dal,Nagaland,Dinner,601,38.7,71.5,16.6,Non-Veg
+Keerai Chicken Stew Curry,Rajasthan,Dinner,826,33.2,114.0,24.8,Non-Veg
+Chicken Stew And Dal,Tamil Nadu,Dinner,644,42.9,95.3,20.0,Non-Veg
+Mutton Rogan Josh And Dal,Telangana,Dinner,800,41.1,98.6,29.9,Non-Veg
+Jammu And Kashmir Chicken Stew Platter,Jammu and Kashmir,Dinner,847,38.8,101.1,20.6,Non-Veg
+Manipur Tandoori Chicken Platter Stew With Rice,Manipur,Dinner,492,26.4,78.8,12.7,Non-Veg
+Sikkim Chicken Korma Stew With Rice,Sikkim,Dinner,491,26.9,62.3,12.1,Non-Veg
+Meghalaya Chicken Korma Platter,Meghalaya,Dinner,812,31.5,102.4,20.8,Non-Veg
+Karnataka Egg Bhurji With Rotis Platter,Karnataka,Dinner,799,41.3,98.9,28.7,Non-Veg
+Uttarakhand Chicken Stew Platter,Uttarakhand,Dinner,671,41.1,91.2,15.9,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Mizoram,Dinner,604,35.0,82.9,20.9,Non-Veg
+Nadru Tandoori Chicken Platter Curry,Jammu and Kashmir,Dinner,770,21.7,107.1,23.6,Non-Veg
+Punjab Prawn Curry Platter,Punjab,Dinner,864,42.1,102.2,27.4,Non-Veg
+Telangana Prawn Curry Platter,Telangana,Dinner,673,44.4,83.1,16.4,Non-Veg
+Uttar Pradesh Chicken Stew Platter,Uttar Pradesh,Dinner,598,31.3,87.8,23.1,Non-Veg
+Nagaland Tandoori Chicken Platter Platter,Nagaland,Dinner,734,31.6,99.5,25.2,Non-Veg
+Assam Chicken Stew Stew With Rice,Assam,Dinner,656,29.6,102.0,25.3,Non-Veg
+Chicken Korma Sabzi With Rotis,Jammu and Kashmir,Dinner,780,33.5,92.5,28.1,Non-Veg
+Chicken Stew Sabzi With Rotis,Odisha,Dinner,885,20.3,112.8,31.2,Non-Veg
+Karela Mutton Rogan Josh Curry,Bihar,Dinner,498,24.5,62.3,18.7,Non-Veg
+Gujarat Chicken Stew Platter,Gujarat,Dinner,496,22.8,68.7,13.6,Non-Veg
+Chicken Korma And Dal,Delhi,Dinner,583,24.5,66.4,16.7,Non-Veg
+Rajasthan Prawn Curry Platter,Rajasthan,Dinner,837,37.7,107.0,28.5,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Gujarat,Dinner,651,28.4,89.4,19.8,Non-Veg
+Madhya Pradesh Prawn Curry Platter,Madhya Pradesh,Dinner,637,34.2,83.2,20.1,Non-Veg
+Ragi Fish Moilee Curry,Karnataka,Dinner,754,21.8,97.9,26.5,Non-Veg
+Andhra Pradesh Mutton Rogan Josh Stew With Rice,Andhra Pradesh,Dinner,621,27.7,99.9,17.0,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Maharashtra,Dinner,766,23.9,89.0,29.7,Non-Veg
+Bhature Chicken Korma Curry,Himachal Pradesh,Dinner,459,27.8,66.1,16.3,Non-Veg
+Jharkhand Egg Bhurji With Rotis Stew With Rice,Jharkhand,Dinner,721,36.5,82.1,21.5,Non-Veg
+Prawn Curry And Dal,Chhattisgarh,Dinner,542,44.4,76.8,15.6,Non-Veg
+Chicken Korma Sabzi With Rotis,Kerala,Dinner,671,27.6,98.1,15.6,Non-Veg
+Bora Mutton Rogan Josh Curry,Assam,Dinner,766,24.9,115.6,23.3,Non-Veg
+Tandoori Chicken Platter Sabzi With Rotis,Gujarat,Dinner,667,32.7,88.6,21.0,Non-Veg
+Jammu And Kashmir Chicken Korma Platter,Jammu and Kashmir,Dinner,467,43.2,64.8,15.6,Non-Veg
+Maskaa Fish Moilee Curry,Assam,Dinner,891,40.7,141.2,28.6,Non-Veg
+Chicken Korma And Dal,Bihar,Dinner,754,29.8,117.7,20.1,Non-Veg
+Egg Bhurji With Rotis And Dal,Uttar Pradesh,Dinner,582,40.5,83.9,22.4,Non-Veg
+Smoked Mutton Rogan Josh Curry,Nagaland,Dinner,572,26.9,77.0,15.1,Non-Veg
+Uttar Pradesh Tandoori Chicken Platter Stew With Rice,Uttar Pradesh,Dinner,846,29.1,113.9,21.2,Non-Veg
+Dhuska Chicken Stew Curry,Jharkhand,Dinner,862,40.4,109.0,31.6,Non-Veg
+Chicken Korma And Dal,Kerala,Dinner,567,33.3,69.4,17.6,Non-Veg
+Himachal Pradesh Prawn Curry Platter,Himachal Pradesh,Dinner,760,23.0,101.0,21.7,Non-Veg
+Nagaland Egg Bhurji With Rotis Stew With Rice,Nagaland,Dinner,693,25.5,85.2,26.6,Non-Veg
+Uttarakhand Chicken Stew Stew With Rice,Uttarakhand,Dinner,900,29.7,109.2,34.8,Non-Veg
+Chicken Stew And Dal,Madhya Pradesh,Dinner,892,30.8,102.0,23.1,Non-Veg
+Kerala Prawn Curry Platter,Kerala,Dinner,617,22.9,78.6,19.0,Non-Veg
+Tamil Nadu Prawn Curry Stew With Rice,Tamil Nadu,Dinner,614,31.2,89.2,16.4,Non-Veg
+Fish Moilee And Dal,Manipur,Dinner,464,38.2,72.2,13.9,Non-Veg
+Andhra Pradesh Fish Moilee Platter,Andhra Pradesh,Dinner,654,43.1,101.8,20.7,Non-Veg
+Fish Moilee And Dal,Telangana,Dinner,756,36.1,104.7,20.5,Non-Veg
+Mutton Rogan Josh Sabzi With Rotis,Manipur,Dinner,706,31.1,91.2,23.8,Non-Veg
+Mutton Rogan Josh And Dal,Mizoram,Dinner,771,40.1,102.3,25.4,Non-Veg
+Kang Tandoori Chicken Platter Curry,Manipur,Dinner,587,32.8,71.8,13.1,Non-Veg
+Makki Egg Bhurji With Rotis Curry,Punjab,Dinner,893,28.2,113.2,29.9,Non-Veg
+Kulcha Chicken Stew Curry,Delhi,Dinner,544,32.9,77.9,13.8,Non-Veg
+Delhi Prawn Curry Platter,Delhi,Dinner,852,29.7,137.9,22.4,Non-Veg
+Punjab Mutton Rogan Josh Platter,Punjab,Dinner,611,44.9,86.7,13.8,Non-Veg
+Uttarakhand Fish Moilee Platter,Uttarakhand,Dinner,655,29.5,80.9,25.0,Non-Veg
+Ragi Egg Bhurji With Rotis Curry,Karnataka,Dinner,515,25.0,75.0,16.0,Non-Veg
+Chhattisgarh Fish Moilee Stew With Rice,Chhattisgarh,Dinner,597,37.7,73.7,18.4,Non-Veg
+Chicken Korma And Dal,Madhya Pradesh,Dinner,750,40.3,119.7,18.5,Non-Veg
+Bajra Tandoori Chicken Platter Curry,Punjab,Dinner,874,22.6,135.8,27.2,Non-Veg
+Fish Moilee Sabzi With Rotis,Assam,Dinner,590,41.3,83.7,21.6,Non-Veg
+Pappu Egg Bhurji With Rotis Curry,Andhra Pradesh,Dinner,781,31.7,104.2,24.2,Non-Veg
+Goa Tandoori Chicken Platter Stew With Rice,Goa,Dinner,471,26.1,75.1,11.4,Non-Veg
+Odisha Tandoori Chicken Platter Platter,Odisha,Dinner,829,32.5,109.3,27.8,Non-Veg
+Lauki Mutton Rogan Josh Curry,Uttar Pradesh,Dinner,749,38.5,117.4,27.2,Non-Veg
+Nagaland Mutton Rogan Josh Platter,Nagaland,Dinner,580,27.2,85.9,13.3,Non-Veg
+Vawksa Fish Moilee Curry,Mizoram,Dinner,489,41.5,67.4,16.7,Non-Veg
+Chha Gosht (Veg Style) Prawn Curry Curry,Himachal Pradesh,Dinner,639,27.1,94.5,15.5,Non-Veg
+Prawn Curry Sabzi With Rotis,Goa,Dinner,865,40.3,118.2,26.0,Non-Veg
